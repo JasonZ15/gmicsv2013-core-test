@@ -1,0 +1,4462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-11 12:34+0530\n"
+"PO-Revision-Date: 2013-03-12 17:52+0530\n"
+"Last-Translator: \n"
+"Language-Team: DesignThemes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: D:\\Program Files\\wamp\\www\\wp\\themes\\core\\wp-content"
+"\\themes\\core\\\n"
+"X-Poedit-SearchPath-0: D:\\Program Files\\wamp\\www\\wp\\themes\\core\\wp-"
+"content\\themes\\core\n"
+
+#: D:\Program Files\wamp\www\wp\themes\core\wp-content\themes\core/404.php:33
+#, fuzzy
+msgid "Back to home"
+msgstr "Gehe zum Benutzerverzeichnis"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/archive.php:30
+#, fuzzy
+msgid "Tag archive for"
+msgstr "Tag-Archiv für"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/archive.php:32
+#, fuzzy
+msgid "Category archive for"
+msgstr "Archiv für die Kategorie"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/archive.php:85
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/search.php:82
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1673
+#, fuzzy
+msgid "Read full story"
+msgstr "Volle Breite Seite"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/archive.php:97
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/search.php:94
+#, fuzzy
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/archive.php:98
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/search.php:95
+#, fuzzy
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+"Entschuldige bitte, aber keine Ergebnisse für die angeforderte Archiv "
+"gefunden."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:5
+#, fuzzy
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Dieser Beitrag ist durch ein Passwort geschützt. Geben Sie das Passwort, um "
+"alle Kommentare anzuzeigen."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:9
+#, fuzzy
+msgid "No Comments "
+msgstr "Keine Kommentare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:9
+#, fuzzy
+msgid "Comment (1)"
+msgstr "Kommentar"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:9
+#, fuzzy
+msgid "Comments ( % )"
+msgstr "% Kommentare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:16
+#, fuzzy
+msgid "Older Comments"
+msgstr "ältere Kommentare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:17
+#, fuzzy
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:27
+#, fuzzy
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:36
+#, fuzzy
+msgid "Post a comment"
+msgstr "&Kommentarfenster"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:37
+#, fuzzy, php-format
+msgid "Post a comment to %s"
+msgstr "Nicht möglich den Ausführungsstatus zu senden"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:40
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:12
+#, fuzzy
+msgid "Your Name"
+msgstr "Ihr Name:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:40
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:44
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:12
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:13
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:14
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:25
+#, fuzzy
+msgid "required"
+msgstr "Ein notwendiger Parameter fehlt."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:44
+#, fuzzy
+msgid "Your Email"
+msgstr "Ihre E-Mail-Adresse:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:50
+#, fuzzy
+msgid "Comment"
+msgstr "Kommentar"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/functions.php:7
+#, fuzzy
+msgid "Sample Font"
+msgstr "&Schriftart:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/functions.php:33
+msgid "Heading"
+msgstr "titre"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/functions.php:34
+msgid "Buy Now"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/search.php:31
+#, fuzzy
+msgid "Search for"
+msgstr "Suche nach"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/tpl-sitemap.php:134
+#, fuzzy
+msgid "Pages"
+msgstr "Seiten"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/tpl-sitemap.php:138
+msgid "Authors"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/tpl-sitemap.php:144
+#, fuzzy
+msgid "Categories"
+msgstr "Kategorien"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/tpl-sitemap.php:148
+#, fuzzy
+msgid "Latest Posts"
+msgstr " Related Posts "
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/tpl-sitemap.php:152
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:7
+msgid "Archives"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/tpl-sitemap.php:156
+msgid "Tags"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/tpl-sitemap.php:178
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1436
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1582
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/loops/content-page.php:143
+#, fuzzy
+msgid " Edit "
+msgstr "&Bearbeiten"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:13
+#, fuzzy
+msgid "Show Google+ One"
+msgstr "Aktivieren Sie Google Plus"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:15
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:82
+#, fuzzy
+msgid "Standard"
+msgstr "Standard"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:16
+msgid "Small"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:17
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:91
+msgid "Medium"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:18
+msgid "Tall"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:20
+#, fuzzy
+msgid "Arabic"
+msgstr "Arabisch"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:21
+msgid "Bengali"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:22
+msgid "Bulgarian"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:23
+msgid "Catalan"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:24
+msgid "Chinese"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:25
+msgid "Chinese (China)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:26
+msgid "Chinese (Hong Kong)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:27
+msgid "Chinese (Taiwan)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:28
+msgid "Croation"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:29
+msgid "Czech"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:30
+msgid "Danish"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:31
+msgid "Dutch"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:32
+msgid "English (India)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:33
+msgid "English (Ireland)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:34
+msgid "English (Singapore)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:35
+msgid "English (South Africa)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:36
+msgid "English (United Kingdom)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:37
+msgid "Filipino"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:38
+msgid "Finnish"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:39
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:125
+msgid "French"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:40
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:126
+msgid "German"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:41
+msgid "German (Switzerland)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:42
+#, fuzzy
+msgid "Greek"
+msgstr "Griechisch (ISO-8859-7)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:43
+msgid "Gujarati"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:44
+#, fuzzy
+msgid "Hebrew"
+msgstr "Hebräisch (ISO-8859-8)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:45
+msgid "Hindi"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:46
+msgid "Hungarian"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:47
+msgid "Indonesian"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:48
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:127
+msgid "Italian"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:49
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:128
+#, fuzzy
+msgid "Japanese"
+msgstr "Japanischer Briefumschlag Chou #3"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:50
+msgid "Kannada"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:51
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:129
+msgid "Korean"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:52
+msgid "Latvian"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:53
+msgid "Lingala"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:54
+msgid "Lithuanian"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:55
+msgid "Malay"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:56
+msgid "Malayalam"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:57
+msgid "Marathi"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:58
+msgid "Norwegian"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:59
+msgid "Oriya"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:60
+msgid "Persian"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:61
+msgid "Polish"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:62
+msgid "Portugese (Brazil)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:63
+msgid "Portugese (Portugal)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:64
+msgid "Romanian"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:65
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:130
+msgid "Russian"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:66
+msgid "Serbian"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:67
+msgid "Slovak"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:68
+msgid "Slovenian"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:69
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:131
+msgid "Spanish"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:70
+msgid "Swedish"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:71
+#, fuzzy
+msgid "Swiss German"
+msgstr "<Beliebig Swiss>"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:72
+msgid "Tamil"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:73
+msgid "Telugu"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:74
+msgid "Thai"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:75
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:132
+#, fuzzy
+msgid "Turkish"
+msgstr "Türkisch (ISO-8859-9)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:76
+msgid "Ukranian"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:77
+msgid "Vietnamese"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:80
+#, fuzzy
+msgid "Show Facebook like"
+msgstr "Nicht mehr anzeigen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:83
+#, fuzzy
+msgid "Box Count"
+msgstr "Eigenschaften"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:84
+msgid "Button Count"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:88
+#, fuzzy
+msgid "Show Digg"
+msgstr "&Verweise anzeigen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:90
+msgid "Wide"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:92
+msgid "Compact"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:93
+msgid "Icon"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:96
+#, fuzzy
+msgid "Show Stumbleupon"
+msgstr "&Verweise anzeigen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:98
+msgid "style1"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:99
+msgid "style2"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:100
+msgid "style3"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:101
+msgid "style4"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:102
+msgid "style5"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:103
+msgid "style6"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:105
+#, fuzzy
+msgid "Show LinkedIn"
+msgstr "&Verweise anzeigen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:109
+#, fuzzy
+msgid "Show Pintrest"
+msgstr "&Verweise anzeigen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:110
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:119
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:651
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:156
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:397
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:795
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:141
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:18
+#, fuzzy
+msgid "None"
+msgstr "Kein"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:110
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:120
+#, fuzzy
+msgid "Vertical"
+msgstr "&Vertikale Ausrichtung:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:110
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:121
+msgid "Horizontal"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:113
+#, fuzzy
+msgid "Show Delicious"
+msgstr "&Verweise anzeigen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:117
+#, fuzzy
+msgid "Show Twitter"
+msgstr "Aktivieren Twitter"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:124
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:499
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:193
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:247
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:262
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:396
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:434
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:488
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:503
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:794
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:833
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:887
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:902
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:140
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:179
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:233
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:248
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:103
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:136
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:383
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:408
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:447
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:31
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:31
+#, fuzzy
+msgid "Select"
+msgstr "Wählen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:138
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:565
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:62
+#, fuzzy
+msgid "Disable the Author info."
+msgstr "Archiv für Autor:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:139
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:566
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:63
+msgid ""
+"By default the author info will display when viewing your posts.<br><br>You "
+"can choose to disable it here."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:142
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:569
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:66
+msgid "Disable the date info."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:143
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:570
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:67
+msgid ""
+"By default the date info will display when viewing your posts.<br><br>You "
+"can choose to disable it here."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:147
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:574
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:71
+#, fuzzy
+msgid "Disable the comment info."
+msgstr "Das Kommentarfenster ist editierbar"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:148
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:575
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:72
+msgid ""
+"By default the comment info will display when viewing your posts.<br><br>You "
+"can choose to disable it here."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:152
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:579
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:76
+#, fuzzy
+msgid "Disable the category info."
+msgstr "Archiv für die Kategorie"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:153
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:580
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:77
+msgid ""
+"By default the category info will display when viewing your posts."
+"<br><br>You can choose to disable it here."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:157
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:584
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:81
+#, fuzzy
+msgid "Disable the tag info."
+msgstr "Tag-Archiv für"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:158
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:585
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:82
+msgid ""
+"By default the tag info will display when viewing your posts.<br><br>You can "
+"choose to disable it here."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_admin.php:52
+msgid "This will restore all of your options to default. Are you sure?"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_admin.php:53
+msgid ""
+"You are going to import the dummy data provided with the theme, kindly "
+"confirm?"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_admin.php:54
+msgid ""
+"Importing is disabled.. :), Please set Disable Import to NO in Buddha Panel "
+"General Settings"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_admin.php:79
+msgid "Error: Options not saved, please try again."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_admin.php:86
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_admin.php:88
+#, fuzzy
+msgid "Options Saved."
+msgstr "Drucker-Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_media_uploader.php:73
+#, fuzzy
+msgid "Delete Permanently"
+msgstr "Eintrag löschen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_media_uploader.php:75
+#, fuzzy
+msgid "Delete"
+msgstr "Löschen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_media_uploader.php:76
+#, php-format
+msgid "You are about to delete <strong>%s</strong>."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_media_uploader.php:77
+msgid "Continue"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_media_uploader.php:78
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:220
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:244
+#, fuzzy
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_media_uploader.php:81
+#, fuzzy
+msgid "Move to Trash"
+msgstr "&Bewege das Objekt zu:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_media_uploader.php:82
+#, fuzzy
+msgid "Undo"
+msgstr "Rückgängig machen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1023
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1290
+#, fuzzy
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1025
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1057
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1292
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1322
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/loops/content-single-portfolio.php:44
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:201
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:233
+#, fuzzy
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1046
+#, fuzzy, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s in %2$s"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1055
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1320
+#, fuzzy
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Moderation."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1118
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1139
+#, fuzzy
+msgid "Home"
+msgstr "Start"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1215
+#, fuzzy
+msgid "Archive for Category: "
+msgstr "Archiv für die Kategorie:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1220
+#, fuzzy
+msgid "Archive for Author: "
+msgstr "Archiv für Autor:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1223
+#, fuzzy
+msgid "Archive for Tag: "
+msgstr "Archiv für Tag:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1225
+#, fuzzy
+msgid "LOST"
+msgstr "VERLOREN"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1227
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:8
+#, fuzzy
+msgid "Search"
+msgstr "Suchen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1306
+#, fuzzy
+msgid "Select Your Style"
+msgstr "Bitte wählen Sie Ihre Sprache aus."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1328
+msgid "Color scheme"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1333
+msgid "Patterns Shapes"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:43
+msgid "&copy; iamdesigning | All Rights Reserved"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:105
+msgid "Sorry, the page you requested could not be found"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:105
+msgid "Try looking somewhere else. You might get lucky"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:314
+#, fuzzy
+msgid "Select Post"
+msgstr "Vorherige Beitrag"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:345
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_pages.php:29
+#, fuzzy
+msgid "Select Page"
+msgstr "&Seitenumbruch"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:375
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:397
+#, fuzzy
+msgid "Select Category"
+msgstr "Verzeichnis auswählen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:562
+#, fuzzy
+msgid "Footer Column"
+msgstr "Fußzeile Spalten"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:651
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:155
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:396
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:794
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:140
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:18
+msgid "Pattern"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:651
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:155
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:396
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:794
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:140
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:18
+#, fuzzy
+msgid "Custom Background"
+msgstr "Hintergrund&farbe:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:653
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:154
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:395
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:793
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:139
+#, fuzzy
+msgid "Background Type"
+msgstr "Hintergrund&farbe:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:790
+#, fuzzy
+msgid "Search results for"
+msgstr "Auf Aktualisierungen prüfen..."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:803
+#, fuzzy
+msgid "Page not found"
+msgstr "Hilfeverzeichnis %u nicht gefunden."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1199
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/loops/content-single-portfolio.php:71
+#, fuzzy
+msgid "Share"
+msgstr "Zeige Teilen-Buttons"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1326
+#, fuzzy
+msgid "Reply"
+msgstr "Nntworten"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1379
+msgid " Avatar"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1455
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:543
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:712
+#, fuzzy
+msgid "All"
+msgstr "Alle"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:279
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:290
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/loops/content-single-portfolio.php:48
+#, fuzzy
+msgid "Project Details"
+msgstr "&Einzelheiten verbergen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:4
+msgid "Portfolios"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:5
+#, fuzzy
+msgid "All Portfolios"
+msgstr "Alle aktualisieren"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:6
+#, fuzzy
+msgid "Portfolio Entry"
+msgstr "Galerie Eintrag"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:7
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:9
+#, fuzzy
+msgid "Add New"
+msgstr "Add new"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:8
+#, fuzzy
+msgid "Add New Portfolio Entry"
+msgstr "Neue Galerie Eintrag"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:9
+#, fuzzy
+msgid "Edit Portfolio Entry"
+msgstr "Bearbeiten Galerie Eintrag"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:10
+#, fuzzy
+msgid "New Portfolio Entry"
+msgstr "Neue Galerie Eintrag"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:11
+#, fuzzy
+msgid "View Portfolio Entry"
+msgstr "Ansicht Galerie Eintrag"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:12
+#, fuzzy
+msgid "Search Portfolio Entries"
+msgstr "Suche-Galerie Einträgen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:13
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:119
+#, fuzzy
+msgid "No Portfolio Entries found"
+msgstr "Keine Gallery Einträge gefunden"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:14
+#, fuzzy
+msgid "No Portfolio Entries found in Trash"
+msgstr "Keine Galerie Einträge im Papierkorb gefunden"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:82
+#, fuzzy
+msgid "No Featured Image"
+msgstr "Keine unbenutzte Farbe im Bild."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:6
+#, fuzzy
+msgid "Slides"
+msgstr "Dias"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:7
+#, fuzzy
+msgid "All Slides"
+msgstr "Suche gleitet"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:8
+#, fuzzy
+msgid "Slide"
+msgstr "Gleiten"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:10
+#, fuzzy
+msgid "Add New Slide"
+msgstr "Fügen Sie neue Folie"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:11
+#, fuzzy
+msgid "Edit Slide"
+msgstr "Bearbeiten slide"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:12
+#, fuzzy
+msgid "New Slide"
+msgstr "Neue Folie"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:13
+#, fuzzy
+msgid "View Slide"
+msgstr "Bildschirmpräsentation"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:14
+#, fuzzy
+msgid "Search Slides"
+msgstr "Suche gleitet"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:15
+#, fuzzy
+msgid "No Slides found"
+msgstr "Keine Dias gefunden"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:16
+#, fuzzy
+msgid "No Slides found in Trash"
+msgstr "Keine Dias im Papierkorb gefunden"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:69
+msgid "Set Featured Image or Video Url"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:3
+#, fuzzy
+msgid "Default page Options"
+msgstr "Einstellungen-Dialog anzeigen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:27
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:306
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:637
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:17
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:15
+#, fuzzy
+msgid "Sub Title"
+msgstr "Anzeige Titel des Beitrags?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:30
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:309
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:640
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:20
+msgid "You can add sbu title"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:35
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:23
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:234
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:156
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:305
+msgid "Layout"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:46
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:34
+msgid ""
+"You can choose between a left, right, or no sidebar layout for the page."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:50
+#, fuzzy
+msgid "Allow Comments"
+msgstr "Keine Kommentare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:55
+msgid "Allow Comments for this particular page."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:59
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:347
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:744
+#, fuzzy
+msgid "Apply Dark Background"
+msgstr "Ermöglicht eine Hintergrundfarbe."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:64
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:352
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:749
+msgid "Apply Dark Background in Single page template"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:68
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:356
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:754
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:111
+#, fuzzy
+msgid "Apply Pattern"
+msgstr "&Stil anwenden"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:77
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:365
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:763
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:120
+#, fuzzy
+msgid "Available Patterns"
+msgstr "Verfügbare Schriftarten."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:89
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:378
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:775
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:132
+msgid "Apply Pattern in Single page template"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:94
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:383
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:780
+#, fuzzy
+msgid "Apply Bottom shadow"
+msgstr "Unterer Rand (mm)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:99
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:388
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:785
+msgid "Apply Bottom shadow in Single page template"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:104
+#, fuzzy
+msgid "Apply Font Settings"
+msgstr "Zeigt eine Vorschau der Schriftarteinstellungen."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:114
+#, fuzzy
+msgid "Title Font Color"
+msgstr "Wählen Sie Titel Font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:117
+msgid "Pick a custom font color for title tag for the page.(e.g. #a314a3)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:122
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:291
+#, fuzzy
+msgid "Body Font Color"
+msgstr "Wählen Körper Font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:125
+msgid "Pick a custom font color for the page.(e.g. #a314a3)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:133
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:42
+msgid "Primary Color"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:136
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:304
+msgid ""
+"Pick a custom primary color for links and buttons in body/content are of the "
+"theme e.g. #551256"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:141
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:50
+msgid "Secondary Color"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:144
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:314
+msgid ""
+"Pick a custom secondary color for links and buttons hover state in body/"
+"content are of the theme e.g. #564912"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:172
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:413
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:812
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:158
+#, fuzzy
+msgid "Available BG Patterns"
+msgstr "Listet die verfügbaren Schriftarten auf."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:184
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:425
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:824
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:170
+msgid ""
+"Choose background pattern, you can add patterns by placing images in the "
+"folder "
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:190
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:244
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:431
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:485
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:830
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:884
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:176
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:230
+msgid "BG Pattern repeat"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:202
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:277
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:443
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:518
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:842
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:917
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:188
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:263
+#, fuzzy
+msgid "BG opacity"
+msgstr "&Hg Farbe:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:205
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:446
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:845
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:191
+msgid "Select how you would like to repeat the pattern image"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:211
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:279
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:452
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:520
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:851
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:919
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:197
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:265
+msgid "Disable BG Color"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:214
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:282
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:455
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:523
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:854
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:922
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:200
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:268
+#, fuzzy
+msgid "BG Color"
+msgstr "&Hg Farbe:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:217
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:458
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:857
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:203
+msgid "Pick a custom color for background color of the page.(e.g. #a314a3)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:230
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:471
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:870
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:216
+#, fuzzy
+msgid "Custom BG image"
+msgstr "PCX: ungültiges Bild"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:235
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:476
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:875
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:221
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:33
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:55
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:78
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:50
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:97
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:210
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:239
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:331
+msgid "Upload"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:236
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:477
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:876
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:222
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:34
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:56
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:79
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:51
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:98
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:218
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:242
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:332
+#, fuzzy
+msgid "Remove"
+msgstr "Entferne"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:259
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:500
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:899
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:245
+#, fuzzy
+msgid "BG Pattern Position"
+msgstr "&Position (Zehntel-mm):"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:541
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:710
+#, fuzzy
+msgid "Post per page"
+msgstr "Beiträge pro Seite:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:549
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:718
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:68
+msgid "Your blog pages show at most selected number of posts per page."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:554
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:701
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:74
+msgid "Excerpt Length"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:557
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:77
+msgid ""
+" This is the number of content character want to appears for each blog post"
+"( numbers only)."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:562
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:59
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:89
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:172
+#, fuzzy
+msgid "Post Meta Options"
+msgstr "Einstellungen-Dialog anzeigen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:612
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:122
+msgid "Exclude Categories"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:627
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:738
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:123
+msgid "You can choose certain categories to exclude from your blog page."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:681
+msgid "Allow Filters"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:686
+msgid "Allow portfolio items filter options"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:691
+#, fuzzy
+msgid "Show Excerpt"
+msgstr "&Verweise anzeigen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:696
+#, fuzzy
+msgid "Show portfolio items excerpt"
+msgstr "Alle Themen im Index anzeigen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:704
+msgid ""
+" This is the number of content character want to appears for each portfolio "
+"post( numbers only)."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:723
+#, fuzzy
+msgid "Choose Categories"
+msgstr "Verzeichnis wählen:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:3
+#, fuzzy
+msgid "Default Options"
+msgstr "Drucker-Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:4
+#, fuzzy
+msgid "Meta Options"
+msgstr "Drucker-Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:5
+msgid "Featured Video"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:6
+#, fuzzy
+msgid "Media Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:24
+#, fuzzy
+msgid "Show Social Share"
+msgstr "Zeige Teilen-Buttons"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:29
+msgid "Would you like to show the social share at the bottom"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:41
+#, fuzzy
+msgid "Client Name"
+msgstr "Projektname:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:44
+msgid "You can given your client name"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:48
+#, fuzzy
+msgid "Project Url"
+msgstr "URL &kopieren"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:51
+msgid "You can given your client's project url"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:63
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/slide_videourl_metabox.php:3
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/slide_videourl_metabox.php:10
+#, fuzzy
+msgid "Video Url"
+msgstr "URL &kopieren"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:67
+msgid "Working examples:"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:70
+#, fuzzy
+msgid "Enter the URL to the Video url"
+msgstr "Änderung des Video-Modus gescheitert"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:86
+#, fuzzy
+msgid "Used Images / Videos"
+msgstr "Derzeit verwendeten Bilder"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:92
+#, fuzzy
+msgid "Please, add some image"
+msgstr "Bitte fügen Sie einige Schieberegler"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:116
+#, fuzzy
+msgid "Add Videos"
+msgstr "Dateien hinzufügen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:118
+#, fuzzy
+msgid "Available Images"
+msgstr "Verfügbare Schriftarten."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:3
+#, fuzzy
+msgid "Post Options"
+msgstr "Drucker-Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:18
+msgid "You can add sub title"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:39
+#, fuzzy
+msgid "Disable Comments"
+msgstr "Keine Kommentare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:44
+msgid "Disable Comments for this particular post."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:49
+msgid "Disable Every Where Sidebar"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:54
+msgid "Disable Every Where Sidebar for this particular post."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/seo_metabox.php:6
+#, fuzzy
+msgid "SEO Options"
+msgstr "Drucker-Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/seo_metabox.php:14
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:6
+#, fuzzy
+msgid "Title"
+msgstr "Titel:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/seo_metabox.php:16
+msgid ""
+"The title display in search engines is limited to 70 chars. If the SEO title "
+"is empty the title will be generated based on your title template in your "
+"SEO settings."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/seo_metabox.php:19
+#, fuzzy
+msgid "Description"
+msgstr "Bearbeite Kontextbeschreibung"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/seo_metabox.php:21
+msgid ""
+"The meta description will be limited to 140 chars. If the meta description "
+"is empty the description will be generated based on your meta description "
+"options in your SEO settings."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/seo_metabox.php:24
+#, fuzzy
+msgid "Keywords"
+msgstr "Schlüsselwörter"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/seo_metabox.php:26
+msgid "Add any additional comma separated keywords here."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/slide_videourl_metabox.php:12
+msgid "Enter the URL to the Video instead of Featured image"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:7
+#, fuzzy
+msgid "Menu"
+msgstr "Menü"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:8
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:97
+#, fuzzy
+msgid "Header"
+msgstr "Kopfbereich reparieren"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:9
+#, fuzzy
+msgid "Body"
+msgstr "Wählen Körper Font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:10
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:7
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:16
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:47
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:60
+#, fuzzy
+msgid "Footer"
+msgstr "Fußzeile"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:11
+msgid "Typography"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:25
+#, fuzzy
+msgid "Disable Menu Settings"
+msgstr "Galerie Bilder-Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:26
+msgid "This is disables the menu settings"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:31
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:34
+#, fuzzy
+msgid "Menu Font"
+msgstr "Wählen Sie Menü Font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:36
+#, fuzzy
+msgid "Menu Font Size"
+msgstr "Die Schriftgröße in Punkt."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:38
+#, fuzzy
+msgid "Change the menu font"
+msgstr "Wählen Sie Menü Font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:45
+msgid "Pick a custom primary color for menu are of the theme e.g. #551256"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:53
+msgid ""
+"Pick a custom secondary color for hover state in menu are of the theme e.g. "
+"#564912"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:101
+#, fuzzy
+msgid "Disable Header Settings"
+msgstr "Galerie Bilder-Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:102
+msgid "This is disables the header settings"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:109
+#, fuzzy
+msgid "Header Border Color"
+msgstr "Aktivieren header code"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:112
+msgid ""
+"Pick a custom color for border color of the theme's header section.(e.g. "
+"#a314a3)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:116
+#, fuzzy
+msgid "Header BG Color"
+msgstr "Aktivieren header code"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:119
+msgid ""
+"Pick a custom color for background color of the theme's header section.(e.g. "
+"#a314a3)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:269
+#, fuzzy
+msgid "Disable Body Settings"
+msgstr "Galerie Bilder-Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:270
+msgid "This is disables the body settings"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:275
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:280
+#, fuzzy
+msgid "Body Font"
+msgstr "Wählen Körper Font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:283
+#, fuzzy
+msgid "Body Font Size"
+msgstr "Die Schriftgröße in Punkt."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:286
+#, fuzzy
+msgid "Change the body font"
+msgstr "Wählen Körper Font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:294
+msgid ""
+"Pick a custom color for body/content font color of the theme e.g. #a314a3"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:299
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:504
+msgid "Primary Color (default color for links, buttons)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:309
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:512
+msgid "Secondary Color (hover color for links, buttons)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:474
+#, fuzzy
+msgid "Disable Footer Settings"
+msgstr "Galerie Bilder-Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:475
+msgid "This is disables the footer settings"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:480
+#, fuzzy
+msgid "Footer Font"
+msgstr "&Schriftart:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:485
+#, fuzzy
+msgid "Footer Title Font"
+msgstr "Wählen Sie Titel Font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:488
+#, fuzzy
+msgid "Footer Font Size"
+msgstr "Die Schriftgröße in Punkt."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:491
+#, fuzzy
+msgid "Change the footer font"
+msgstr "Klicken um die Farbe der Schriftart zu ändern."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:496
+#, fuzzy
+msgid "Footer Title Font Color"
+msgstr "Titel wählen die Schriftart für das Thema."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:499
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:534
+msgid "Pick a custom color for footer font color of the theme e.g. #a314a3"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:507
+msgid ""
+"Pick a custom primary color for links and buttons in footer are of the theme "
+"e.g. #551256"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:515
+msgid ""
+"Pick a custom secondary color for links and buttons hover state in footer "
+"are of the theme e.g. #564912"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:521
+#, fuzzy
+msgid "Footer Content Font"
+msgstr "&Schriftart für Ebene..."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:524
+#, fuzzy
+msgid "Footer Content Font Size"
+msgstr "Die Schriftgröße in Punkt."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:526
+#, fuzzy
+msgid "Change the footer content font"
+msgstr "Klicken um die Farbe der Schriftart zu ändern."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:531
+msgid "Footer Content Font Color"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:538
+msgid "Footer BG Color"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:541
+msgid ""
+"Pick a custom color for background color of the theme's foter section.(e.g. "
+"#a314a3)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:691
+#, fuzzy
+msgid "Disable Typography Settings"
+msgstr "Galerie Bilder-Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:692
+msgid "This is disables the typography settings"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:697
+#, fuzzy
+msgid "Font and Color"
+msgstr "&Erledigt und Nächster"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:698
+msgid "Change Font and Color for"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:703
+#, fuzzy
+msgid "Font"
+msgstr "Schriftart"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:705
+#, fuzzy
+msgid "Font Size"
+msgstr "Schriftgröße:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:710
+#, fuzzy
+msgid "Font Color"
+msgstr "&Schriftart:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:6
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:14
+#, fuzzy
+msgid "Bar Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:18
+#, fuzzy
+msgid "Enable Bar"
+msgstr "Aktivieren Facebook"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:22
+msgid "Show Bar by default"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:27
+msgid "Bar BG Color"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:30
+msgid "Pick a custom budhha bar background color of the theme e.g. #a314a3"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:32
+#, fuzzy
+msgid "Show BG Color"
+msgstr "Nicht mehr anzeigen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:36
+msgid "Shadow Color"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:39
+msgid "Pick a custom budhha shadow color of the theme e.g. #a314a3"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:41
+#, fuzzy
+msgid "Show Shadow Color"
+msgstr "Nicht mehr anzeigen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:50
+#, fuzzy
+msgid "Message Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:54
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:14
+#, fuzzy
+msgid "Message"
+msgstr "Nachricht"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:56
+msgid "You can give custom buddha bar message."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:61
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:127
+#, fuzzy
+msgid "Message Font"
+msgstr "&Schriftart:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:63
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:129
+#, fuzzy
+msgid "Message Font Size"
+msgstr "Die Schriftgröße in Punkt."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:65
+#, fuzzy
+msgid "Choose Message Font"
+msgstr "Bitte wählen Sie eine gültige Schriftart."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:68
+#, fuzzy
+msgid "Disable Font Color"
+msgstr "&Schriftart für Ebene..."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:74
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:135
+#, fuzzy
+msgid "Message Font Color"
+msgstr "&Schriftart für Ebene..."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:77
+msgid "Pick a custom color message font color of the theme e.g. #a314a3"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:82
+#, fuzzy
+msgid "Link Color"
+msgstr "Link für das Facebook Symbol"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:85
+msgid ""
+"Pick a custom primary color for links state in buddha bar of the theme e.g. "
+"#564912 "
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:90
+#, fuzzy
+msgid "Link hover Color"
+msgstr "Link für das Facebook Symbol"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:93
+msgid ""
+"Pick a custom secondary color for links hover state in buddha bar of the "
+"theme e.g. #564912 "
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:6
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:16
+#, fuzzy
+msgid "Blog"
+msgstr "Blog"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:7
+msgid "Blog Single"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:22
+#, fuzzy
+msgid "Choose Blog page"
+msgstr "Bitte wählen Sie die darzustellende Seite:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:24
+#, fuzzy
+msgid ""
+"Select which page to display as your Blog Page. If left blank no blog will "
+"be displayed"
+msgstr ""
+"Wählen Sie die Seite als Blog Seite anzuzeigen. Wenn leer kein Blog "
+"angezeigt werden"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:30
+#, fuzzy
+msgid "Blogpage Layout"
+msgstr "Blogpage Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:39
+msgid ""
+"You can choose between a left, right, or no sidebar layout for your blogpage."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:45
+#, fuzzy
+msgid "Post Layout"
+msgstr "Vorherige Beitrag"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:48
+#, fuzzy
+msgid "Single post per row."
+msgstr "Aktivieren Sie Single Mastaufsatz-Code"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:49
+msgid "Two posts per row."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:50
+msgid "Three posts per row."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:59
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:21
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:37
+msgid "Your blog posts will use the layout you select here."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:65
+#, fuzzy
+msgid "Posts per page"
+msgstr "Beiträge pro Seite:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:154
+#, fuzzy
+msgid "Single Post Layout"
+msgstr "Aktivieren Sie Single Mastaufsatz-Code"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:155
+msgid ""
+"You can choose between a left, right, or no sidebar layout for your single "
+"post."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:203
+#, fuzzy
+msgid "Social Bookmarks"
+msgstr "Social Media Links"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:204
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:127
+msgid ""
+"Please choose appropriate social media share options and its layout to show "
+"in post."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:223
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:146
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:296
+msgid "Username"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:237
+#, fuzzy
+msgid "Select Layout"
+msgstr "Verzeichnis auswählen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:247
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:167
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:316
+msgid "Color Scheme"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:258
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:178
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:327
+#, fuzzy
+msgid "Language"
+msgstr "Sprache:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:269
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:189
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:338
+#, fuzzy
+msgid "Default Text"
+msgstr "Quelltext"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:6
+msgid "Admin"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:16
+msgid "Custom Admin Login Logo"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:17
+msgid ""
+"Upload an image to replace the default wordpress admin panel login logo "
+"(274px*63px)."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:26
+msgid "Enable Admin Login Logo"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:39
+#, fuzzy
+msgid "Custom Admin Logo"
+msgstr "Zu Benutzerfarben hinzufügen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:40
+msgid ""
+"Upload an image to replace the default wordpress admin panel logo "
+"(20px*20px).<b><i>The image will be shown at the top left corner</i></b>. "
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:48
+#, fuzzy
+msgid "Enable Admin Logo"
+msgstr "Höhenwert berücksichtigen."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:61
+#, fuzzy
+msgid "Buddha Panel Logo"
+msgstr "Suchbaum ein-/ausschalten"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:62
+msgid ""
+"Upload an image to replace the default buddha panel logo.<b><i>You can set "
+"your own brnad</i></b>. "
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:70
+msgid "Enable Buddha Panel Logo"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:23
+#, fuzzy
+msgid "Show Footer"
+msgstr "Fußzeile Spalten"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:30
+#, fuzzy
+msgid "Footer Column Layout"
+msgstr "Es existiert keine Zeile"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:43
+msgid "Select which column layout you would like to display with your footer."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:50
+#, fuzzy
+msgid "Show Copyright Text"
+msgstr "Linksbündiger Text."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:57
+#, fuzzy
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:60
+#, fuzzy
+msgid ""
+"You can paste your copyright text in this box. This will be automatically "
+"added to the footer."
+msgstr ""
+"Sie können Ihre Urheberrechte Text in diesem Feld einfügen. Dieser wird "
+"automatisch an den Fußbereich zugesetzt werden."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:7
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:6
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:41
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:55
+#, fuzzy
+msgid "General"
+msgstr "Allgemein"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:8
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:173
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:187
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:232
+msgid "Sociable"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:17
+msgid "Logo"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:26
+#, fuzzy
+msgid "Custom Image Logo"
+msgstr "PCX: ungültiges Bild"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:27
+msgid ""
+"Display Site Title <small><a href=\"options-general.php\">(click here to "
+"edit site title)</a></small>"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:42
+msgid ""
+"You can choose whether you wish to display a custom logo or your site title."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:54
+msgid ""
+"Upload a logo for your theme, or specify the image address of your online "
+"logo."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:58
+#, fuzzy
+msgid "Top"
+msgstr "Oben"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:59
+msgid "Input number to set the top space of the logo. The minimum value is 1."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:60
+#, fuzzy
+msgid "Right"
+msgstr "Rechts"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:61
+msgid ""
+"Input number to set the right space of the logo. The minimum value is 1."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:62
+#, fuzzy
+msgid "Bottom"
+msgstr "Unten"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:63
+msgid ""
+"Input number to set the bottom space of the logo. The minimum value is 1."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:64
+#, fuzzy
+msgid "Left"
+msgstr "Links"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:65
+msgid "Input number to set the left space of the logo. The minimum value is 1."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:83
+#, fuzzy
+msgid "Favicon"
+msgstr "Favicon"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:84
+msgid ""
+"Upload a favicon for your theme, or specify the image address of your online."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:92
+#, fuzzy
+msgid "Enable Favicon"
+msgstr "Aktivieren Facebook"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:102
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:194
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:294
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:488
+#, fuzzy
+msgid "Others"
+msgstr "Andere"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:111
+msgid "Globally Disable Comments on Pages"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:112
+msgid ""
+"Check if you want to disable comments on pages.<br/> This will globally "
+"override your \"Allow comments.\" option under your pages \"Discussion\" "
+"settings. "
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:121
+msgid "Globally Disable Comments on Posts"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:122
+msgid ""
+"Check if you want to disable comments on posts.<br/> This will globally "
+"override your \"Allow comments.\" option under your posts \"Discussion\" "
+"settings. "
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:130
+msgid "Globally Disable Breadcrumbs"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:131
+msgid "Check if you do not want breadcrumbs to display anywhere in your site."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:135
+msgid "Breadcrumb Delimiter"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:138
+msgid ""
+"This is the symbol that will appear in between your breadcrumbs.<br /><br /"
+">Some common examples would be:<br /><br /><pre>/ > - , :: >></pre>"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:146
+#, fuzzy
+msgid "Disable Style Picker"
+msgstr "Ändere den Stil der Liste"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:147
+msgid "Check if you do not want disable the front end style picker option"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:155
+msgid "Disable import dummy content"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:156
+msgid "Check if you do not want disable the import option at the top :)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:173
+msgid "You can add List of Social icons here."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:179
+#, fuzzy
+msgid "Show Sociable"
+msgstr "&Verweise anzeigen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:188
+#, fuzzy
+msgid "Add New Sociable"
+msgstr "Fügen Sie neue Folie"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:204
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:237
+#, fuzzy
+msgid "Sociable Icon"
+msgstr "Kann das Icon nicht von '%s' laden."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:207
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:238
+#, fuzzy
+msgid "Custom Icon"
+msgstr "Angepasste Größe"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:213
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:240
+#, fuzzy
+msgid "Sociable Link"
+msgstr "Link für das Facebook Symbol"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:7
+#, fuzzy
+msgid "Post"
+msgstr "Post"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:8
+#, fuzzy
+msgid "Page"
+msgstr "Seite"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:15
+#, fuzzy
+msgid "Add code to the &lt;head&gt of your blog"
+msgstr "Fügen Sie den Code in den &lt;head&gt; von Ihrem Blog"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:16
+#, fuzzy
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Jeder Code, den Sie platzieren hier im Kopfbereich jeder Seite Ihres Blogs "
+"angezeigt. Dies ist nützlich, wenn Sie JavaScript-oder CSS auf alle Seiten "
+"hinzufügen müssen."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:19
+#, fuzzy
+msgid "Enable header code"
+msgstr "Aktivieren header code"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:22
+#, fuzzy
+msgid "Add code to the  &lt;/body&gt;"
+msgstr "Fügen Sie Code zum &lt;/body&gt;"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:23
+#, fuzzy
+msgid ""
+"You can paste your Google Analytics or other website tracking code in this "
+"box. This will be automatically added to the footer."
+msgstr ""
+"Sie können Ihr Google Analytics oder andere Website-Tracking-Code in dieses "
+"Feld einfügen. Dieser wird automatisch an den Fußbereich zugesetzt werden."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:26
+#, fuzzy
+msgid "Enable body code"
+msgstr "Aktivieren Sie Körper-Code"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:54
+#, fuzzy
+msgid "Add code to the top of your posts"
+msgstr "Fügen Sie den Code an die Spitze Ihrer Beiträge"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:55
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:62
+#, fuzzy
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Jeder Code, den Sie platzieren hier an der Spitze aller einzelnen Beiträge "
+"platziert werden. Dies ist nützlich, wenn Sie die Integration Dinge wie "
+"Social Bookmarking Links suchen."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:58
+#, fuzzy
+msgid "Enable single post top code"
+msgstr "Aktivieren Sie Single Mastaufsatz-Code"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:61
+#, fuzzy
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr ""
+"Fügen Sie den Code an der Unterseite Ihrer Beiträge, vor den Kommentaren"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:65
+#, fuzzy
+msgid "Enable single post bottom code"
+msgstr "Aktivieren Sie Single post bottom-Code"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:126
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:276
+#, fuzzy
+msgid "Social Shares"
+msgstr "Social Media Links"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:207
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:357
+#, fuzzy
+msgid "Social Bookmark"
+msgstr "Setze Lesezeichen %i\tAlt+%i"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:208
+msgid ""
+"Please choose appropriate social media bookmark options and its layout to "
+"show in post."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:238
+#, fuzzy
+msgid "Add code to the top of your pages"
+msgstr "Fügen Sie den Code an die Spitze Ihrer Seiten"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:239
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:246
+#, fuzzy
+msgid ""
+"Any code you place here will be placed at the top of all single pages. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Jeder Code, den Sie platzieren hier an der Spitze aller einzelnen Seiten "
+"platziert werden. Dies ist nützlich, wenn Sie die Integration Dinge wie "
+"Social Bookmarking Links suchen."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:242
+#, fuzzy
+msgid "Enable single page top code"
+msgstr "Aktivieren Sie Single Seitenanfang Code"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:245
+#, fuzzy
+msgid "Add code to the bottom of your pages, before the comments"
+msgstr "Fügen Sie den Code an der Unterseite Ihrer Seiten, vor den Kommentaren"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:249
+#, fuzzy
+msgid "Enable single page bottom code"
+msgstr "Aktivieren Sie Single Seitenende Code"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:277
+msgid ""
+"Please choose appropriate social media share options and its layout to show "
+"in page."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:358
+msgid ""
+"Please choose appropriate social media bookmark options and its layout to "
+"show in page."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/menu.php:12
+#, fuzzy
+msgid "settings"
+msgstr "Allgemeine Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/menu.php:15
+#, fuzzy
+msgid "options"
+msgstr "Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/menu.php:15
+#, fuzzy
+msgid "Options"
+msgstr "Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/responsive.php:6
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/responsive.php:13
+msgid "Responsive"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/responsive.php:18
+msgid "Make My Site Responsive"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/responsive.php:28
+msgid "Disable Slider for Mobile Devices"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/responsive.php:33
+msgid ""
+"Choose what to display in the slider area of your website on mobile devices"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:7
+msgid "Meta"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:14
+#, fuzzy
+msgid "Title Formats"
+msgstr "Anzeige Titel des Beitrags?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:19
+#, fuzzy
+msgid "Title Delimiter"
+msgstr "Anzeige Titel des Beitrags?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:23
+msgid ""
+"This is the symbol that will appear in the title of the page.<br /><br /"
+">Some common examples would be:<br /><br /><pre>| / > - , :: >></pre>"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:29
+#, fuzzy
+msgid "Single Post Title Format"
+msgstr "Aktivieren Sie Single Mastaufsatz-Code"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:32
+msgid "Choose Single Post Title Format"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:33
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:45
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:56
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:64
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:73
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:82
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:91
+#, fuzzy
+msgid "Blog Title"
+msgstr "Anzeige Titel des Beitrags?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:33
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:45
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:56
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:65
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:74
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:83
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:91
+#, fuzzy
+msgid "Blog Description"
+msgstr "Bearbeite Kontextbeschreibung"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:34
+#, fuzzy
+msgid "Post Title"
+msgstr "Vorherige Beitrag"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:34
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:57
+#, fuzzy
+msgid "Category Title"
+msgstr "Anzeige Titel des Beitrags?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:35
+#, fuzzy
+msgid "Tag Title"
+msgstr "Anzeige Titel des Beitrags?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:36
+#, fuzzy
+msgid "Post's Author Nicename"
+msgstr "Archiv für Autor:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:37
+msgid "Post's Author First Name"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:38
+msgid "Post's Author Last Name"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:41
+#, fuzzy
+msgid "Single Page Title Format"
+msgstr "Aktivieren Sie Single Seitenanfang Code"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:44
+msgid "Choose Single Page Title Format"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:46
+#, fuzzy
+msgid "Page Title"
+msgstr "&Seitenumbruch"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:47
+#, fuzzy
+msgid "Page's Author Nicename"
+msgstr "Archiv für Autor:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:48
+msgid "Page's Author First Name"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:49
+msgid "Page's Author Last Name"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:52
+#, fuzzy
+msgid "Category Title Format"
+msgstr "Zeilenende-Format:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:55
+msgid "Choose Category Page Title Format"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:57
+#, fuzzy
+msgid "Category Description"
+msgstr "Bearbeite Kontextbeschreibung"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:60
+#, fuzzy
+msgid "Archive Title Format"
+msgstr "Zeilenende-Format:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:63
+msgid "Choose Archieve Page Title Format"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:66
+#, fuzzy
+msgid "Default Date"
+msgstr "Standardkodierung"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:69
+#, fuzzy
+msgid "Tag Title Format"
+msgstr "Zeilenende-Format:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:72
+msgid "Choose Tag Page Title Format"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:75
+#, fuzzy
+msgid "The name of the tag"
+msgstr "Projektname:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:78
+#, fuzzy
+msgid "Search Title Format"
+msgstr "Zeilenende-Format:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:81
+msgid "Choose Search Page Title Format"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:84
+msgid "What was searched for"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:87
+#, fuzzy
+msgid "404 Title Format"
+msgstr "Zeilenende-Format:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:90
+msgid "Choose 404 Page Title Format"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:135
+#, fuzzy
+msgid "Metadata and others"
+msgstr "&Erledigt und Nächster"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:138
+msgid "Canonical URLs"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:138
+msgid ""
+"This option will automatically generate Canonical URLS for your entire "
+"WordPress installation. This will help to prevent duplicate content "
+"penalties by Google."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:139
+#, fuzzy
+msgid "Use noindex for Categories"
+msgstr "Die Übersetzung kann verwendet werden."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:139
+msgid ""
+"Check this for excluding category pages from being crawled. Useful for "
+"avoiding duplicate content."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:140
+#, fuzzy
+msgid "Use noindex for Archives"
+msgstr "Die Übersetzung kann verwendet werden."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:140
+msgid ""
+"Check this for excluding archive pages from being crawled. Useful for "
+"avoiding duplicate content."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:141
+msgid "Use noindex for Tag Archives"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:141
+msgid ""
+"Check this for excluding tag pages from being crawled. Useful for avoiding "
+"duplicate content."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:142
+msgid "Use Tags for META keywords"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:142
+msgid ""
+"Check this if you want your tags for a given post used as the META keywords "
+"for this post (in addition to any keywords you specify on the post edit "
+"page)."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:143
+msgid "Use Categories for META keywords"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:143
+msgid ""
+"Check this if you want your categories for a given post used as the META "
+"keywords for this post (in addition to any keywords and tags you specify on "
+"the post edit page)."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:144
+msgid "Autogenerate Descriptions"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:144
+msgid ""
+"Check this and your META descriptions will get autogenerated for post and "
+"page."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:42
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:56
+msgid "Appearance"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:43
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:57
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/skins.php:6
+msgid "Skins"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:44
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:58
+#, fuzzy
+msgid "Integration"
+msgstr "Integration"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:45
+msgid "SEO"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:46
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:59
+msgid "Specialty Pages"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:48
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:61
+msgid "Widget Area"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:49
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:62
+msgid "Responsive &amp; Mobile"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:50
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:63
+msgid "Branding"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:51
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:64
+msgid "Buddha Bar"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:82
+#, fuzzy
+msgid "Import Dummy Data"
+msgstr "Unbekanntes Datenformat"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:101
+#, fuzzy
+msgid "Reset All"
+msgstr "Alle aktualisieren"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:102
+#, fuzzy
+msgid "Save All"
+msgstr "Alle aktualisieren"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/skins.php:16
+#, fuzzy
+msgid "Current Skin"
+msgstr "Aktuelles Verzeichnis:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/skins.php:28
+#, fuzzy
+msgid "Available Skins"
+msgstr "Verfügbare Schriftarten."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:6
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:17
+#, fuzzy
+msgid "Sliders"
+msgstr "Banners / Schieberegler"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:7
+#, fuzzy
+msgid "Cycle Slider"
+msgstr "Wählen Sie Schieberegler Bilder Wirkung"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:8
+#, fuzzy
+msgid "Nivo Slider"
+msgstr "Wählen Sie Schieberegler Bilder Wirkung"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:9
+#, fuzzy
+msgid "Touch Slider"
+msgstr "Wählen Sie Schieberegler Bilder Wirkung"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:18
+msgid ""
+"You can select any number of silders. And you can re-arrange by drag - drop"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:22
+#, fuzzy
+msgid "Used Sliders"
+msgstr "Gebrauchte Schieberegler"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:23
+#, fuzzy
+msgid "Please, add some sliders"
+msgstr "Bitte fügen Sie einige Schieberegler"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:46
+#, fuzzy
+msgid "Available Sliders"
+msgstr "Verfügbaren Schieberegler"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:86
+#, fuzzy
+msgid "Cycle Slider Settings"
+msgstr "Galerie Bilder-Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:90
+#, fuzzy
+msgid "Transition effects"
+msgstr "Wählen Sie Effekte:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:100
+#, fuzzy
+msgid "You can choose Transition effects here."
+msgstr "Sie können Animationseffekte hier wählen."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:107
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:243
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:532
+msgid "Slider Width x Height (in px)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:111
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:247
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:536
+msgid ""
+"For better view,<ol><li>Please re-upload all the slider images with the "
+"correct dimensions.</li><li>The slider height should be above 300px.</li></"
+"ol>"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:121
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:125
+msgid "Easing"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:126
+msgid "Easing method for both in and out transitions"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:127
+msgid "EaseIn"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:128
+#, fuzzy
+msgid "easing for 'in' transition"
+msgstr "Auf Fehler in der Übersetzung prüfen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:129
+msgid "EaseOut"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:130
+msgid "easing for 'out' transition"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:151
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:156
+msgid "Speed"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:157
+msgid "speed of the transition (any valid fx speed value ,eg:1000)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:161
+#, fuzzy
+msgid "Speed In"
+msgstr "(im Modul \"%s\")"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:162
+msgid "speed of the 'in' transition (eg:2500)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:166
+#, fuzzy
+msgid "Speed Out"
+msgstr "Ver&kleinern"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:167
+msgid "speed of the 'out' transition (eg : 500)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:171
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:522
+msgid "Delay Time"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:172
+msgid "additional delay (in ms) for first transition (hint: can be negative)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:197
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:297
+#, fuzzy
+msgid "Would you like to pasue the slider on hover?"
+msgstr "Möchten Sie den Schieberegler auf hover pasue?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:198
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:298
+#, fuzzy
+msgid "Would you like to use random slider?"
+msgstr "Möchten Sie zufälligen Schieberegler benutzen?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:199
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:299
+#, fuzzy
+msgid "Would you like to show slider navigation?"
+msgstr "Möchten Sie den Schieberegler Navigation zeigen?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:200
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:300
+#, fuzzy
+msgid "Would you like to show control navigation on bottom of slider?"
+msgstr ""
+"Möchten Sie steuern die Navigation auf der Unterseite des Schiebers zeigen?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:201
+#, fuzzy
+msgid "Would you like to pause the slider on control navigation hover?"
+msgstr "Möchten Sie den Schieberegler Navigation nur auf schweben zu zeigen?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:202
+msgid "Disable (It cause transitions should not occur simultaneously)."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:222
+#, fuzzy
+msgid "Nivo Slider Settings"
+msgstr "Galerie Bilder-Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:227
+#, fuzzy
+msgid "Choose effects"
+msgstr "Wählen Sie Effekte:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:237
+#, fuzzy
+msgid "You can choose animation effects here."
+msgstr "Sie können Animationseffekte hier wählen."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:253
+#, fuzzy
+msgid "Animation Speed"
+msgstr "Box Animationseinstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:254
+#, fuzzy
+msgid "Please enter slider transition(eg: 500) in ms"
+msgstr "Bitte geben Sie Schieberegler Übergangs & pasue Zeit in ms"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:258
+msgid "Pause Time"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:259
+msgid "Please enter slider pause time(eg: 3000) in ms"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:263
+#, fuzzy
+msgid "Box Animation Columns"
+msgstr "Box Animationseinstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:264
+msgid ""
+"For box animation( boxRain, boxRainGrow, boxRainGrowReverse, boxRainReverse "
+"and boxRandom ), you can give number of columns(eg: 5)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:268
+#, fuzzy
+msgid "Box Animation Rows"
+msgstr "Box Animationseinstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:269
+msgid ""
+"For box animation( boxRain, boxRainGrow, boxRainGrowReverse, boxRainReverse "
+"and boxRandom ), you can give number of rows(eg: 8)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:273
+#, fuzzy
+msgid "Slices"
+msgstr "Scheiben"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:274
+#, fuzzy
+msgid ""
+"For slice animation( SliceDown, SliceDownLeft, SliceUp, SliceUpDown, "
+"sliceUpDownLeft and sliceUpLeft ), you can give number of slices here. For "
+"eg: 15"
+msgstr ""
+"Für slice Animation (SliceDown, SliceDownLeft, SliceUp, SliceUpDown, "
+"sliceUpDownLeft und sliceUpLeft) können Sie die Anzahl der Scheiben hier zu "
+"geben. Für zB: 15"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:322
+#, fuzzy
+msgid "Background Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:326
+#, fuzzy
+msgid "Background Image"
+msgstr "Bild einfügen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:335
+msgid "Upload an image for slider background."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:344
+msgid "Enable fullscreen background animation."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:347
+msgid ""
+"Check if you want to enable the fullscreen background animation for touch "
+"slider."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:356
+msgid "Enable background move animation."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:358
+msgid ""
+"Check if you want to enable the fullscreen background moving animation for "
+"touch slider."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:365
+#, fuzzy
+msgid "Pagination Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:372
+#, fuzzy
+msgid "Auto hide."
+msgstr "&Einzelheiten verbergen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:374
+msgid ""
+"Check if you want to enable the auto hide option for the pagination in touch "
+"slider."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:381
+#, fuzzy
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:384
+#, fuzzy
+msgid "Bottom Center"
+msgstr "Unterer Rand (mm)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:385
+#, fuzzy
+msgid "Top Left"
+msgstr "Linksbündig"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:386
+#, fuzzy
+msgid "Top Center"
+msgstr "Der obere Rand."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:387
+#, fuzzy
+msgid "Top Right"
+msgstr "Rechtsbündig"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:388
+#, fuzzy
+msgid "Bottom Left"
+msgstr "Linksbündig"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:389
+#, fuzzy
+msgid "Bottom Right"
+msgstr "Rechtsbündig"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:390
+#, fuzzy
+msgid "Left Center"
+msgstr "Linksbündig"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:391
+#, fuzzy
+msgid "Right Center"
+msgstr "Rechtsbündig"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:392
+msgid "Center"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:400
+msgid "Choose pagination alignment for touch slider."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:406
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:444
+#, fuzzy
+msgid "Type"
+msgstr "Typ"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:408
+#, fuzzy
+msgid "Bullets"
+msgstr "Gliederungspunkte"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:409
+#, fuzzy
+msgid "Bullets with BG"
+msgstr "Es wurde %d Problem mit der Übersetzung gefunden"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:409
+#, fuzzy
+msgid "Decimal"
+msgstr "DEZIMAL"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:416
+msgid "Choose pagination type for touch slider."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:425
+#, fuzzy
+msgid "Navigation Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:434
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:436
+#, fuzzy
+msgid "Disable auto-hide navigation."
+msgstr "Suchbaum ein-/ausschalten"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:445
+msgid "Choose previous, next navigation type."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:448
+msgid "Arrow"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:449
+#, fuzzy
+msgid "Circle Arrow"
+msgstr "Standard/Kreis"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:450
+#, fuzzy
+msgid "Square Arrow"
+msgstr "Standard/Quadrat"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:454
+#, fuzzy
+msgid "Left Alignment"
+msgstr "&Vertikale Ausrichtung:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:456
+msgid "Choose the alignment / position for the 'left' navigation icon"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:460
+#, fuzzy
+msgid "Right Alignment"
+msgstr "&Vertikale Ausrichtung:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:462
+msgid "Choose the alignment / position for the 'right' navigation icon"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:493
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:494
+msgid "Disable desktop drag"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:498
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:499
+#, fuzzy
+msgid "Disable slideshow animation."
+msgstr "Box Animationseinstellungen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:525
+msgid "Additional delay time of slideshow animation in seconds. (eg:) 2"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:9
+#, fuzzy
+msgid "404"
+msgstr "Wahrscheinlich 404!"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:17
+msgid "Archives Layout"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:18
+msgid ""
+"You can choose between a left, right, or no sidebar layout for your Archieve "
+"page."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:20
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:36
+#, fuzzy
+msgid "Posts Layout"
+msgstr " Related Posts "
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:24
+#, fuzzy
+msgid "Archives Background"
+msgstr "Hintergrund&farbe:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:25
+#, fuzzy
+msgid "Archives background image"
+msgstr "PCX: ungültiges Bild"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:26
+msgid "Upload an image for the theme's Archives page background"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:29
+#, fuzzy
+msgid "Archives Background Color"
+msgstr "Ermöglicht eine Hintergrundfarbe."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:30
+msgid ""
+"Pick a custom color for background color of the theme's archives page.(e.g. "
+"#a314a3)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:33
+#, fuzzy
+msgid "Search Layout"
+msgstr "Suchpfade"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:34
+msgid ""
+"You can choose between a left, right, or no sidebar layout for your Search "
+"page."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:39
+#, fuzzy
+msgid "Search Background"
+msgstr "Hintergrund&farbe:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:40
+#, fuzzy
+msgid "Search background image"
+msgstr "PCX: ungültiges Bild"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:41
+msgid "Upload an image for the theme's Search page background"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:44
+#, fuzzy
+msgid "Search Background Color"
+msgstr "Ermöglicht eine Hintergrundfarbe."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:45
+msgid ""
+"Pick a custom color for background color of the theme's search page.(e.g. "
+"#a314a3)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:49
+#, fuzzy
+msgid "404 Layout"
+msgstr "Wahrscheinlich 404!"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:50
+msgid ""
+"You can choose between a left, right, or no sidebar layout for your 404 page."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:52
+#, fuzzy
+msgid "404 Background"
+msgstr "Hintergrund&farbe:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:53
+#, fuzzy
+msgid "404 background image"
+msgstr "PCX: ungültiges Bild"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:54
+msgid "Upload an image for the theme's 404 page background"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:57
+#, fuzzy
+msgid "404 Background Color"
+msgstr "Ermöglicht eine Hintergrundfarbe."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:58
+msgid ""
+"Pick a custom color for background color of the theme's 404 page.(e.g. "
+"#a314a3)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:60
+#, fuzzy
+msgid "404 Message"
+msgstr "&Nächster Text"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:61
+msgid "You can give custom 404 page message"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:114
+#, fuzzy
+msgid "404 Custom Message"
+msgstr "Ungültiger Nachrichtenkatalog."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:120
+#, fuzzy
+msgid "Disable Font Settings"
+msgstr "Zeigt eine Vorschau der Schriftarteinstellungen."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:121
+msgid "This is disables the 404 Font settings"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:138
+msgid ""
+"Pick a custom color for 404 message font color of the theme e.g. #a314a3"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:6
+#, fuzzy
+msgid "For Pages"
+msgstr "Suchen nach:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:7
+#, fuzzy
+msgid "For Posts"
+msgstr " Related Posts "
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:8
+#, fuzzy
+msgid "For Categories"
+msgstr "Suchen nach:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:16
+msgid "Add new widget areas for pages"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:17
+msgid "Select a PAGE that should receive a new widget area:"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:44
+msgid "Add new widget areas for posts"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:45
+msgid "Select a POST that should receive a new widget area:"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:72
+msgid "Add new widget areas for categories"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:73
+msgid "Select a Category that should receive a new widget area:"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:4
+msgid "Enquiry"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:13
+msgid "E-mail"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:15
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:27
+#, fuzzy
+msgid "Send Email"
+msgstr "E-Mail-Adresse setzen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:25
+#, fuzzy
+msgid "Your E-mail"
+msgstr "Ihr Name:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/others.php:46
+#, fuzzy
+msgid "top"
+msgstr "&Oben"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/others.php:260
+msgid "Phone:"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/others.php:261
+msgid "Fax:"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/others.php:262
+#, fuzzy
+msgid "Email:"
+msgstr "E-Mail"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/others.php:263
+msgid "Web:"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/social.php:60
+msgid "Tweet"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/social.php:98
+msgid "Delicious"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/social.php:113
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/social.php:117
+msgid "Pin It"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/social.php:117
+msgid "Pin It on Pinterest"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/widgets.php:34
+#, php-format
+msgid ""
+"%s: Widget class not found. Make sure this widget exists and the class name "
+"is correct"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:10
+msgid " Portfolio"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:23
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_pages.php:21
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:23
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:25
+#, fuzzy
+msgid "Title:"
+msgstr "Titel:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:28
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:28
+msgid "Choose the categories you want to display (multiple selection possible)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:41
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_pages.php:39
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:41
+msgid "Display title only or title &amp; excerpt"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:51
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_pages.php:49
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:51
+#, fuzzy
+msgid "Show Image"
+msgstr "Zeige Bild"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:53
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:53
+#, fuzzy
+msgid "No.of posts to show:"
+msgstr "No.of Beiträge zu zeigen:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_pages.php:10
+#, fuzzy
+msgid " Pages"
+msgstr "Seiten"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_pages.php:26
+msgid "Choose the pages you want to display (multiple selection possible)"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_pages.php:109
+#, fuzzy
+msgid "No Pages found"
+msgstr "Keine Einträge gefunden."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:10
+#, fuzzy
+msgid " Posts"
+msgstr " Related Posts "
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:129
+#, fuzzy
+msgid "No Posts found"
+msgstr "Keine Einträge gefunden."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:10
+#, fuzzy
+msgid " Twitter Widget"
+msgstr "Aktivieren Twitter"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:15
+msgid "Latest Tweets"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:29
+msgid "Enter your twitter username:"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:33
+msgid "How many entries do you want to show:"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:42
+msgid "Exclude @replies"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:45
+#, fuzzy
+msgid "Show time of tweet"
+msgstr "Nicht mehr anzeigen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:48
+#, fuzzy
+msgid "Show user avatar"
+msgstr "Nicht mehr anzeigen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/parsers.php:42
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/parsers.php:67
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/parsers.php:72
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/parsers.php:262
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:134
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:143
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:194
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:198
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:178
+#, fuzzy
+msgid "All done."
+msgstr "Alle aktualisieren"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:299
+#, fuzzy
+msgid "Import author:"
+msgstr "Archiv für Autor:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:313
+#, fuzzy
+msgid "as a new user:"
+msgstr "Neues Verzeichnis anlegen"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:324
+#, fuzzy
+msgid "- Select -"
+msgstr "AUSWAHL"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:423
+#, fuzzy, php-format
+msgid "Failed to import category %s"
+msgstr "Konnte Zwischenablage nicht schließen."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:505
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:631
+#, fuzzy, php-format
+msgid "Failed to import %s %s"
+msgstr "Kann '%s' nicht ausführen\n"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:548
+#, fuzzy, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "Dateiname bereits vorhanden"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:832
+#, fuzzy
+msgid "Invalid file type"
+msgstr "Ungültige Sperr-Datei '%s'."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""

@@ -1,0 +1,4307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-11 12:34+0530\n"
+"PO-Revision-Date: 2013-03-12 17:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: DesignThemes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: D:\\Program Files\\wamp\\www\\wp\\themes\\core\\wp-content"
+"\\themes\\core\\\n"
+"X-Poedit-SearchPath-0: D:\\Program Files\\wamp\\www\\wp\\themes\\core\\wp-"
+"content\\themes\\core\n"
+
+#: D:\Program Files\wamp\www\wp\themes\core\wp-content\themes\core/404.php:33
+msgid "Back to home"
+msgstr "Înapoi la casa"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/archive.php:30
+msgid "Tag archive for"
+msgstr "Arhiva tag-ul pentru"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/archive.php:32
+msgid "Category archive for"
+msgstr "Arhiva pentru categoria"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/archive.php:85
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/search.php:82
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1673
+msgid "Read full story"
+msgstr "Citeste complet poveste"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/archive.php:97
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/search.php:94
+msgid "Nothing Found"
+msgstr "nimic găsit"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/archive.php:98
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/search.php:95
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+"Ne cerem scuze, dar nu au fost găsite rezultate pentru arhiva solicitat."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:5
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Acest post este protejat de parolă. Introduceți parola pentru a vizualiza "
+"orice comentarii."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:9
+msgid "No Comments "
+msgstr "No Comments"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:9
+msgid "Comment (1)"
+msgstr "Comentariu (1)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:9
+msgid "Comments ( % )"
+msgstr "Comentarii (%)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:16
+msgid "Older Comments"
+msgstr "Comentarii mai mari"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:17
+msgid "Newer Comments"
+msgstr "Mai nou Comentarii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:27
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:36
+msgid "Post a comment"
+msgstr "Postează un comentariu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:37
+#, php-format
+msgid "Post a comment to %s"
+msgstr "Postează un comentariu la %s"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:40
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:12
+msgid "Your Name"
+msgstr "Numele tau"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:40
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:44
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:12
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:13
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:14
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:25
+msgid "required"
+msgstr "necesar"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:44
+msgid "Your Email"
+msgstr "Email-ul dvs."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/comments.php:50
+msgid "Comment"
+msgstr "comentariu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/functions.php:7
+msgid "Sample Font"
+msgstr "Exemplu de fonturi"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/functions.php:33
+msgid "Heading"
+msgstr "titre"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/functions.php:34
+msgid "Buy Now"
+msgstr "Cumpara acum"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/search.php:31
+msgid "Search for"
+msgstr "Căutați"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/tpl-sitemap.php:134
+msgid "Pages"
+msgstr "pagini"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/tpl-sitemap.php:138
+msgid "Authors"
+msgstr "autori"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/tpl-sitemap.php:144
+msgid "Categories"
+msgstr "categorii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/tpl-sitemap.php:148
+msgid "Latest Posts"
+msgstr "Ultimele Posturi"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/tpl-sitemap.php:152
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:7
+msgid "Archives"
+msgstr "arhive"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/tpl-sitemap.php:156
+msgid "Tags"
+msgstr "Tag-uri"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/tpl-sitemap.php:178
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1436
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1582
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/loops/content-page.php:143
+msgid " Edit "
+msgstr "edita"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:13
+msgid "Show Google+ One"
+msgstr "Arată Google+ Un"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:15
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:82
+msgid "Standard"
+msgstr "standard"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:16
+msgid "Small"
+msgstr "mic"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:17
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:91
+msgid "Medium"
+msgstr "mediu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:18
+msgid "Tall"
+msgstr "înalt"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:20
+msgid "Arabic"
+msgstr "limba arabă"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:21
+msgid "Bengali"
+msgstr "bengali"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:22
+msgid "Bulgarian"
+msgstr "bulgar"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:23
+msgid "Catalan"
+msgstr "catalan"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:24
+msgid "Chinese"
+msgstr "chinezesc"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:25
+msgid "Chinese (China)"
+msgstr "Chineză (China)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:26
+msgid "Chinese (Hong Kong)"
+msgstr "Chineză (Hong Kong)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:27
+msgid "Chinese (Taiwan)"
+msgstr "Chineză (Taiwan)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:28
+msgid "Croation"
+msgstr "Croation"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:29
+msgid "Czech"
+msgstr "ceh"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:30
+msgid "Danish"
+msgstr "danez"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:31
+msgid "Dutch"
+msgstr "olandez"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:32
+msgid "English (India)"
+msgstr "Engleză (India)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:33
+msgid "English (Ireland)"
+msgstr "Engleză (Irlanda)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:34
+msgid "English (Singapore)"
+msgstr "Engleză (Singapore)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:35
+msgid "English (South Africa)"
+msgstr "Engleză (Africa de Sud)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:36
+msgid "English (United Kingdom)"
+msgstr "Engleză (Marea Britanie)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:37
+msgid "Filipino"
+msgstr "filipineză"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:38
+msgid "Finnish"
+msgstr "finlandeză"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:39
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:125
+msgid "French"
+msgstr "franceză"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:40
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:126
+msgid "German"
+msgstr "german"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:41
+msgid "German (Switzerland)"
+msgstr "Germană (Elveția)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:42
+msgid "Greek"
+msgstr "grec"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:43
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:44
+msgid "Hebrew"
+msgstr "evreiesc"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:45
+msgid "Hindi"
+msgstr "hindi"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:46
+msgid "Hungarian"
+msgstr "limba maghiară"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:47
+msgid "Indonesian"
+msgstr "indoneziană"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:48
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:127
+msgid "Italian"
+msgstr "italian"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:49
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:128
+msgid "Japanese"
+msgstr "japonez"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:50
+msgid "Kannada"
+msgstr "Kannada"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:51
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:129
+msgid "Korean"
+msgstr "coreean"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:52
+msgid "Latvian"
+msgstr "leton"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:53
+msgid "Lingala"
+msgstr "Lingala"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:54
+msgid "Lithuanian"
+msgstr "lituanian"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:55
+msgid "Malay"
+msgstr "malaezian"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:56
+msgid "Malayalam"
+msgstr "malayalam"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:57
+msgid "Marathi"
+msgstr "Marathi"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:58
+msgid "Norwegian"
+msgstr "norvegian"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:59
+msgid "Oriya"
+msgstr "Oriya"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:60
+msgid "Persian"
+msgstr "persană"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:61
+msgid "Polish"
+msgstr "polonez"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:62
+msgid "Portugese (Brazil)"
+msgstr "Portugheză (Brazilia)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:63
+msgid "Portugese (Portugal)"
+msgstr "Portugheză (Portugalia)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:64
+msgid "Romanian"
+msgstr "român"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:65
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:130
+msgid "Russian"
+msgstr "rus"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:66
+msgid "Serbian"
+msgstr "sârb"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:67
+msgid "Slovak"
+msgstr "slovac"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:68
+msgid "Slovenian"
+msgstr "sloven"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:69
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:131
+msgid "Spanish"
+msgstr "spaniol"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:70
+msgid "Swedish"
+msgstr "suedez"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:71
+msgid "Swiss German"
+msgstr "germană elvețiană"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:72
+msgid "Tamil"
+msgstr "tamil"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:73
+msgid "Telugu"
+msgstr "Telugu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:74
+msgid "Thai"
+msgstr "tailandez"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:75
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:132
+msgid "Turkish"
+msgstr "turc"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:76
+msgid "Ukranian"
+msgstr "ucraineană"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:77
+msgid "Vietnamese"
+msgstr "vietnameză"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:80
+msgid "Show Facebook like"
+msgstr "Arată la fel ca Facebook"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:83
+msgid "Box Count"
+msgstr "Numar cutie"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:84
+msgid "Button Count"
+msgstr "butonul Numar"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:88
+msgid "Show Digg"
+msgstr "Arată Digg"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:90
+msgid "Wide"
+msgstr "larg"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:92
+msgid "Compact"
+msgstr "compact"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:93
+msgid "Icon"
+msgstr "icoană"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:96
+msgid "Show Stumbleupon"
+msgstr "Arată Stumbleupon"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:98
+msgid "style1"
+msgstr "STYLE1"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:99
+msgid "style2"
+msgstr "style2"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:100
+msgid "style3"
+msgstr "style3"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:101
+msgid "style4"
+msgstr "style4"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:102
+msgid "style5"
+msgstr "style5"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:103
+msgid "style6"
+msgstr "style6"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:105
+msgid "Show LinkedIn"
+msgstr "Arată LinkedIn"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:109
+msgid "Show Pintrest"
+msgstr "Arată Pintrest"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:110
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:119
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:651
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:156
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:397
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:795
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:141
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:18
+msgid "None"
+msgstr "nici unul"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:110
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:120
+msgid "Vertical"
+msgstr "vertical"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:110
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:121
+msgid "Horizontal"
+msgstr "orizontală"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:113
+msgid "Show Delicious"
+msgstr "Arată Delicious"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:117
+msgid "Show Twitter"
+msgstr "Arată Twitter"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:124
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:499
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:193
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:247
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:262
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:396
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:434
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:488
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:503
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:794
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:833
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:887
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:902
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:140
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:179
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:233
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:248
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:103
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:136
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:383
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:408
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:447
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:31
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:31
+msgid "Select"
+msgstr "selecta"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:138
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:565
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:62
+msgid "Disable the Author info."
+msgstr "Dezactivează info Autor."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:139
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:566
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:63
+msgid ""
+"By default the author info will display when viewing your posts.<br><br>You "
+"can choose to disable it here."
+msgstr ""
+"În mod implicit meciului autorul va afișa când vizualizați mesajele "
+"dumneavoastră. <br> <br>Puteți alege să dezactivați-l aici."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:142
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:569
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:66
+msgid "Disable the date info."
+msgstr "Dezactivează info data."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:143
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:570
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:67
+msgid ""
+"By default the date info will display when viewing your posts.<br><br>You "
+"can choose to disable it here."
+msgstr ""
+"În mod implicit meciului data se va afișa când vizualizați mesajele "
+"dumneavoastră. <br> <br> Puteți alege să dezactivați-l aici."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:147
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:574
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:71
+msgid "Disable the comment info."
+msgstr "Dezactivează info comentariu."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:148
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:575
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:72
+msgid ""
+"By default the comment info will display when viewing your posts.<br><br>You "
+"can choose to disable it here."
+msgstr ""
+"În mod implicit meciului comentariu se va afișa când vizualizați mesajele "
+"dumneavoastră. <br> <br>Puteți alege să dezactivați-l aici."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:152
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:579
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:76
+msgid "Disable the category info."
+msgstr "Dezactivează info categorie."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:153
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:580
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:77
+msgid ""
+"By default the category info will display when viewing your posts."
+"<br><br>You can choose to disable it here."
+msgstr ""
+"În mod implicit meciului categorie va afișa când vizualizați mesajele "
+"dumneavoastră. <br> <br>Puteți alege să dezactivați-l aici."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:157
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:584
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:81
+msgid "Disable the tag info."
+msgstr "Dezactivează info tag-ul."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/include.php:158
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:585
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:82
+msgid ""
+"By default the tag info will display when viewing your posts.<br><br>You can "
+"choose to disable it here."
+msgstr ""
+"În mod implicit meciului tag-ul va afișa când vizualizați mesajele "
+"dumneavoastră. <br> <br> Puteți alege să dezactivați-l aici."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_admin.php:52
+msgid "This will restore all of your options to default. Are you sure?"
+msgstr ""
+"Acest lucru va restaura toate opțiunile la valorile implicite. Ești sigur?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_admin.php:53
+msgid ""
+"You are going to import the dummy data provided with the theme, kindly "
+"confirm?"
+msgstr ""
+"Ai de gând să importați datele furnizate manechinului cu tema, confirma?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_admin.php:54
+msgid ""
+"Importing is disabled.. :), Please set Disable Import to NO in Buddha Panel "
+"General Settings"
+msgstr ""
+"Importul este dezactivat .. :), Vă rugăm să setați Disable Import pentru a "
+"NU în Buddha Panoul Setări Generale"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_admin.php:79
+msgid "Error: Options not saved, please try again."
+msgstr "Eroare: Opțiuni nu salvat, vă rugăm să încercați din nou."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_admin.php:86
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_admin.php:88
+msgid "Options Saved."
+msgstr "Opțiuni Salvat."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_media_uploader.php:73
+msgid "Delete Permanently"
+msgstr "ștergeți definitiv"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_media_uploader.php:75
+msgid "Delete"
+msgstr "șterge"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_media_uploader.php:76
+#, php-format
+msgid "You are about to delete <strong>%s</strong>."
+msgstr "Sunteți pe cale să ștergeți <strong>%s</strong>."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_media_uploader.php:77
+msgid "Continue"
+msgstr "continua"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_media_uploader.php:78
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:220
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:244
+msgid "Cancel"
+msgstr "anula"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_media_uploader.php:81
+msgid "Move to Trash"
+msgstr "Mutați în Coșul de gunoi"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_media_uploader.php:82
+msgid "Undo"
+msgstr "anula"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1023
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1290
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1025
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1057
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1292
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1322
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/loops/content-single-portfolio.php:44
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:201
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:233
+msgid "Edit"
+msgstr "edita"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1046
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s la%2$s"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1055
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1320
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariul dvs. este în așteptarea moderare."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1118
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1139
+msgid "Home"
+msgstr "acasă"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1215
+msgid "Archive for Category: "
+msgstr "Arhiva pentru categoria:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1220
+msgid "Archive for Author: "
+msgstr "Arhiva pentru Autor:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1223
+msgid "Archive for Tag: "
+msgstr "Arhiva pentru Tag:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1225
+msgid "LOST"
+msgstr "LOST"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1227
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:8
+msgid "Search"
+msgstr "Căutați"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1306
+msgid "Select Your Style"
+msgstr "Selectați stilul tau"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1328
+msgid "Color scheme"
+msgstr "schema de culori"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/register_public.php:1333
+msgid "Patterns Shapes"
+msgstr "modele Forme"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:43
+msgid "&copy; iamdesigning | All Rights Reserved"
+msgstr "&copy; iamdesigning | Toate drepturile rezervate"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:105
+msgid "Sorry, the page you requested could not be found"
+msgstr "Ne pare rău, pagina solicitată nu a putut fi găsit"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:105
+msgid "Try looking somewhere else. You might get lucky"
+msgstr "Încercați să căutați în altă parte. S-ar putea avea noroc"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:314
+msgid "Select Post"
+msgstr "Selectați Mesaj"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:345
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_pages.php:29
+msgid "Select Page"
+msgstr "Selectați pagina"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:375
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:397
+msgid "Select Category"
+msgstr "Selectați Categorie"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:562
+msgid "Footer Column"
+msgstr "Coloana subsol"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:651
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:155
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:396
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:794
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:140
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:18
+msgid "Pattern"
+msgstr "model"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:651
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:155
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:396
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:794
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:140
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:18
+msgid "Custom Background"
+msgstr "Context personalizat"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:653
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:154
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:395
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:793
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:139
+msgid "Background Type"
+msgstr "Tipul de fundal"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:790
+msgid "Search results for"
+msgstr "Rezultatele cautarii pentru"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:803
+msgid "Page not found"
+msgstr "Pagina nu a fost găsită"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1199
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/loops/content-single-portfolio.php:71
+msgid "Share"
+msgstr "acțiune"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1326
+msgid "Reply"
+msgstr "răspunde"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1379
+msgid " Avatar"
+msgstr "avatar"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/utils.php:1455
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:543
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:712
+msgid "All"
+msgstr "toate"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Vă rugăm introduceți numele de utilizator Envato Piata."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Va rugam sa introduceti Envato Piata cheie API."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "API-ul \"set \" este un parametru necesar."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "Piata Envato \"articol ID-ul \" este un parametru necesar."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:279
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr "Descărcarea pachet de upgrade de la API Envato &#8230;"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:290
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr "Descărcarea pachetul de instalare de la API Envato&#8230;"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/loops/content-single-portfolio.php:48
+msgid "Project Details"
+msgstr "Detalii proiect"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:4
+msgid "Portfolios"
+msgstr "portofoliile"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:5
+msgid "All Portfolios"
+msgstr "toate Portofolii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:6
+msgid "Portfolio Entry"
+msgstr "portofoliul de intrare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:7
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:9
+msgid "Add New"
+msgstr "Add New"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:8
+msgid "Add New Portfolio Entry"
+msgstr "Adaugă Intrarea nou portofoliu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:9
+msgid "Edit Portfolio Entry"
+msgstr "Editare intrare Portofoliu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:10
+msgid "New Portfolio Entry"
+msgstr "Noul portofoliu de intrare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:11
+msgid "View Portfolio Entry"
+msgstr "Vezi Intrarea Portofoliu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:12
+msgid "Search Portfolio Entries"
+msgstr "Portofoliu de căutare intrările"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:13
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:119
+msgid "No Portfolio Entries found"
+msgstr "Nu sunt intrările de portofoliu găsit"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:14
+msgid "No Portfolio Entries found in Trash"
+msgstr "Nu sunt intrările de portofoliu găsit în Coșul de gunoi"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_portfolio_post.php:82
+msgid "No Featured Image"
+msgstr "Nr Featured Imagine"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:6
+msgid "Slides"
+msgstr "diapozitive"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:7
+msgid "All Slides"
+msgstr "toate Diapozitive"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:8
+msgid "Slide"
+msgstr "diapozitiv"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:10
+msgid "Add New Slide"
+msgstr "Adăugați New Slide"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:11
+msgid "Edit Slide"
+msgstr "edit slide"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:12
+msgid "New Slide"
+msgstr "Slide nou"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:13
+msgid "View Slide"
+msgstr "Vezi Slide"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:14
+msgid "Search Slides"
+msgstr "Caută Diapozitive"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:15
+msgid "No Slides found"
+msgstr "Nu există diapozitive găsit"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:16
+msgid "No Slides found in Trash"
+msgstr "Nici un Diapozitive găsite în Coșul de gunoi"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_customposts/register_slider_post.php:69
+msgid "Set Featured Image or Video Url"
+msgstr "Setați evidență URL a imaginii sau video"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:3
+msgid "Default page Options"
+msgstr "Implicit Page Opțiuni"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:27
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:306
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:637
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:17
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:15
+msgid "Sub Title"
+msgstr "sub titlul"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:30
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:309
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:640
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:20
+msgid "You can add sbu title"
+msgstr "Puteți adăuga SBU titlu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:35
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:23
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:234
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:156
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:305
+msgid "Layout"
+msgstr "schemă"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:46
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:34
+msgid ""
+"You can choose between a left, right, or no sidebar layout for the page."
+msgstr ""
+"Puteți alege între un drept la stânga, sau nu aspectul bara laterală pentru "
+"pagină."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:50
+msgid "Allow Comments"
+msgstr "Permiteți Comentarii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:55
+msgid "Allow Comments for this particular page."
+msgstr "Permiteți Comentarii pentru această pagină special."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:59
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:347
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:744
+msgid "Apply Dark Background"
+msgstr "Aplicați fundalul întunecat"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:64
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:352
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:749
+msgid "Apply Dark Background in Single page template"
+msgstr "Se aplică fundal întunecat, în șablonul de pagină unică"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:68
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:356
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:754
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:111
+msgid "Apply Pattern"
+msgstr "se aplică de model"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:77
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:365
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:763
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:120
+msgid "Available Patterns"
+msgstr "Modele disponibile"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:89
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:378
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:775
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:132
+msgid "Apply Pattern in Single page template"
+msgstr "Se aplică de model în șablonul de pagină unice"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:94
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:383
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:780
+msgid "Apply Bottom shadow"
+msgstr "Aplicați umbra de fund"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:99
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:388
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:785
+msgid "Apply Bottom shadow in Single page template"
+msgstr "Aplicati umbra de fund în șablonul de pagină unice"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:104
+msgid "Apply Font Settings"
+msgstr "Aplicare Setări Font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:114
+msgid "Title Font Color"
+msgstr "Titlul Culoare font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:117
+msgid "Pick a custom font color for title tag for the page.(e.g. #a314a3)"
+msgstr ""
+"Alege o culoare de font personalizat pentru tag-ul titlu pentru pagină. (De "
+"exemplu, # a314a3)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:122
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:291
+msgid "Body Font Color"
+msgstr "Organismul Culoare font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:125
+msgid "Pick a custom font color for the page.(e.g. #a314a3)"
+msgstr ""
+"Alege o culoare de font personalizat pentru pagina. (De exemplu, # a314a3)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:133
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:42
+msgid "Primary Color"
+msgstr "primar de culoare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:136
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:304
+msgid ""
+"Pick a custom primary color for links and buttons in body/content are of the "
+"theme e.g. #551256"
+msgstr ""
+"Alege o culoare personalizată primară pentru link-uri si butoane în "
+"organism / conținut sunt de exemplu, tema # 551256"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:141
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:50
+msgid "Secondary Color"
+msgstr "Culoare secundară"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:144
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:314
+msgid ""
+"Pick a custom secondary color for links and buttons hover state in body/"
+"content are of the theme e.g. #564912"
+msgstr ""
+"Alege o culoare personalizată secundar pentru link-uri si butoane mutați de "
+"stat în organism / conținut sunt de exemplu, tema # 564912"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:172
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:413
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:812
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:158
+msgid "Available BG Patterns"
+msgstr "Modele disponibile BG"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:184
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:425
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:824
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:170
+msgid ""
+"Choose background pattern, you can add patterns by placing images in the "
+"folder "
+msgstr ""
+"Alege model de fundal, puteți adăuga modele prin plasarea imaginile din dosar"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:190
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:244
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:431
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:485
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:830
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:884
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:176
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:230
+msgid "BG Pattern repeat"
+msgstr "BG mod repetat"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:202
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:277
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:443
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:518
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:842
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:917
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:188
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:263
+msgid "BG opacity"
+msgstr "BG opacitate"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:205
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:446
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:845
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:191
+msgid "Select how you would like to repeat the pattern image"
+msgstr "Selectați modul în care doriți să se repete imaginea modelului"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:211
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:279
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:452
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:520
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:851
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:919
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:197
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:265
+msgid "Disable BG Color"
+msgstr "Dezactivați Culoare BG"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:214
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:282
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:455
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:523
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:854
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:922
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:200
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:268
+msgid "BG Color"
+msgstr "BG Color"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:217
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:458
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:857
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:203
+msgid "Pick a custom color for background color of the page.(e.g. #a314a3)"
+msgstr ""
+"Alege o culoare personalizată pentru culoarea de fundal a paginii. (De "
+"exemplu, # a314a3)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:230
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:471
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:870
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:216
+msgid "Custom BG image"
+msgstr "Personalizat BG imagine"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:235
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:476
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:875
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:221
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:33
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:55
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:78
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:50
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:97
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:210
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:239
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:331
+msgid "Upload"
+msgstr "Încărcați"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:236
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:477
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:876
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:222
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:34
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:56
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:79
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:51
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:98
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:218
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:242
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:332
+msgid "Remove"
+msgstr "scoate"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:259
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:500
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:899
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:245
+msgid "BG Pattern Position"
+msgstr "BG model pozitie"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:541
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:710
+msgid "Post per page"
+msgstr "Postati pe pagină"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:549
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:718
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:68
+msgid "Your blog pages show at most selected number of posts per page."
+msgstr ""
+"Paginile blog-ul dvs. arată la numărul cel mai selectat de mesaje pe pagină."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:554
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:701
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:74
+msgid "Excerpt Length"
+msgstr "extras Lungime"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:557
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:77
+msgid ""
+" This is the number of content character want to appears for each blog post"
+"( numbers only)."
+msgstr ""
+"Acesta este numărul de caractere conținut doriți să apare pentru fiecare "
+"post pe blog-ul (doar numere)."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:562
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:59
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:89
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:172
+msgid "Post Meta Options"
+msgstr "Postati Opțiuni Meta"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:612
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:122
+msgid "Exclude Categories"
+msgstr "Excludeți Categorii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:627
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:738
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:123
+msgid "You can choose certain categories to exclude from your blog page."
+msgstr ""
+"Puteți alege anumite categorii pentru a exclude din pagina de blog-ul dvs.."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:681
+msgid "Allow Filters"
+msgstr "Permiteți Filtre"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:686
+msgid "Allow portfolio items filter options"
+msgstr "Permiteți articole portofoliu opțiunile de filtrare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:691
+msgid "Show Excerpt"
+msgstr "Arată Extras"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:696
+msgid "Show portfolio items excerpt"
+msgstr "Arată portofoliu extras elementele"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:704
+msgid ""
+" This is the number of content character want to appears for each portfolio "
+"post( numbers only)."
+msgstr ""
+"Acesta este numărul de caractere conținut doriți să apare pentru fiecare "
+"post de portofoliu (numai cifre)."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/page_metabox.php:723
+msgid "Choose Categories"
+msgstr "Alege Categorii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:3
+msgid "Default Options"
+msgstr "Opțiuni implicite"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:4
+msgid "Meta Options"
+msgstr "meta Opțiuni"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:5
+msgid "Featured Video"
+msgstr "Featured Video"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:6
+msgid "Media Settings"
+msgstr "media Setări"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:24
+msgid "Show Social Share"
+msgstr "Arată capitalului social"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:29
+msgid "Would you like to show the social share at the bottom"
+msgstr "Doriți să arate capitalului social de la partea de jos"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:41
+msgid "Client Name"
+msgstr "Nume client"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:44
+msgid "You can given your client name"
+msgstr "Puteți dat numele dumneavoastră client"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:48
+msgid "Project Url"
+msgstr "Url-ul proiectului"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:51
+msgid "You can given your client's project url"
+msgstr "Puteți dat adresa URL clientului dvs. de proiect"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:63
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/slide_videourl_metabox.php:3
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/slide_videourl_metabox.php:10
+msgid "Video Url"
+msgstr "Url Video"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:67
+msgid "Working examples:"
+msgstr "Exemple de lucru:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:70
+msgid "Enter the URL to the Video url"
+msgstr "Introduceți URL-ul pentru a url-ul video"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:86
+msgid "Used Images / Videos"
+msgstr "Imagini de ocazie / Video"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:92
+msgid "Please, add some image"
+msgstr "Te rog, adăuga unele imagini"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:116
+msgid "Add Videos"
+msgstr "Adauga Video"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/portfolio_metabox.php:118
+msgid "Available Images"
+msgstr "Imagini disponibile"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:3
+msgid "Post Options"
+msgstr "Postati Opțiuni"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:18
+msgid "You can add sub title"
+msgstr "Puteți adăuga titlul sub"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:39
+msgid "Disable Comments"
+msgstr "Dezactivați Comentarii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:44
+msgid "Disable Comments for this particular post."
+msgstr "Dezactivează Comentarii pentru acest post special."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:49
+msgid "Disable Every Where Sidebar"
+msgstr "Dezactivează Fiecare Sidebar În cazul în care"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/post_metabox.php:54
+msgid "Disable Every Where Sidebar for this particular post."
+msgstr ""
+"Dezactivează Fiecare Sidebar În cazul în care pentru acest post special."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/seo_metabox.php:6
+msgid "SEO Options"
+msgstr "Opțiuni de SEO"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/seo_metabox.php:14
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:6
+msgid "Title"
+msgstr "titlu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/seo_metabox.php:16
+msgid ""
+"The title display in search engines is limited to 70 chars. If the SEO title "
+"is empty the title will be generated based on your title template in your "
+"SEO settings."
+msgstr ""
+"Afișarea titlului în motoarele de căutare este limitată la 70 de caractere. "
+"În cazul în care titlul SEO este gol titlu va fi generat bazat pe șablonul "
+"dvs. titlu în setările SEO."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/seo_metabox.php:19
+msgid "Description"
+msgstr "descriere"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/seo_metabox.php:21
+msgid ""
+"The meta description will be limited to 140 chars. If the meta description "
+"is empty the description will be generated based on your meta description "
+"options in your SEO settings."
+msgstr ""
+"Descrierea meta va fi limitat la 140 de caractere. În cazul în care "
+"descrierea meta descriere este gol va fi generat pe baza opțiunilor dvs. "
+"Descriere Meta în setările de SEO."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/seo_metabox.php:24
+msgid "Keywords"
+msgstr "Cuvinte cheie"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/seo_metabox.php:26
+msgid "Add any additional comma separated keywords here."
+msgstr "Adăugați orice cuvinte cheie suplimentare separate prin virgulă aici."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_metaboxes/slide_videourl_metabox.php:12
+msgid "Enter the URL to the Video instead of Featured image"
+msgstr "Introduceți URL-ul pentru video în loc de evidență imagini"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:7
+msgid "Menu"
+msgstr "meniu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:8
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:97
+msgid "Header"
+msgstr "antet"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:9
+msgid "Body"
+msgstr "corp"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:10
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:7
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:16
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:47
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:60
+msgid "Footer"
+msgstr "subsol"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:11
+msgid "Typography"
+msgstr "tipografie"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:25
+msgid "Disable Menu Settings"
+msgstr "Dezactiva setările de meniu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:26
+msgid "This is disables the menu settings"
+msgstr "Acest lucru este dezactivează setările de meniu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:31
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:34
+msgid "Menu Font"
+msgstr "meniul Font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:36
+msgid "Menu Font Size"
+msgstr "Meniu Dimensiune font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:38
+msgid "Change the menu font"
+msgstr "Modificarea fontului meniul"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:45
+msgid "Pick a custom primary color for menu are of the theme e.g. #551256"
+msgstr ""
+"Alege o culoare personalizată pentru meniul principal sunt de exemplu, tema "
+"# 551256"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:53
+msgid ""
+"Pick a custom secondary color for hover state in menu are of the theme e.g. "
+"#564912"
+msgstr ""
+"Alege o culoare personalizată secundar pentru hover de stat în meniu sunt de "
+"exemplu, tema # 564912"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:101
+msgid "Disable Header Settings"
+msgstr "Dezactivați setările de antet"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:102
+msgid "This is disables the header settings"
+msgstr "Acest lucru este dezactivează setările de antet"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:109
+msgid "Header Border Color"
+msgstr "Antet Culoare chenar"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:112
+msgid ""
+"Pick a custom color for border color of the theme's header section.(e.g. "
+"#a314a3)"
+msgstr ""
+"Alege o culoare personalizată pentru culoarea de frontieră din secțiunea "
+"antet temei. (De exemplu, # a314a3)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:116
+msgid "Header BG Color"
+msgstr "Antet BG Color"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:119
+msgid ""
+"Pick a custom color for background color of the theme's header section.(e.g. "
+"#a314a3)"
+msgstr ""
+"Alege o culoare personalizată pentru culoarea de fundal a secțiunii antet "
+"temei. (De exemplu, # a314a3)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:269
+msgid "Disable Body Settings"
+msgstr "Dezactiva setările corpului"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:270
+msgid "This is disables the body settings"
+msgstr "Acest lucru este dezactivează setările de corp"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:275
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:280
+msgid "Body Font"
+msgstr "organismul Font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:283
+msgid "Body Font Size"
+msgstr "Organismul Dimensiune font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:286
+msgid "Change the body font"
+msgstr "Modificarea fontului corpului"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:294
+msgid ""
+"Pick a custom color for body/content font color of the theme e.g. #a314a3"
+msgstr ""
+"Alege o culoare personalizată pentru corp / font color conținutul de "
+"exemplu, tema # a314a3"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:299
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:504
+msgid "Primary Color (default color for links, buttons)"
+msgstr "Culoare primară (de culoare implicit pentru link-uri, butoane)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:309
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:512
+msgid "Secondary Color (hover color for links, buttons)"
+msgstr "Culoare secundară (mutați culoare pentru link-uri, butoane)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:474
+msgid "Disable Footer Settings"
+msgstr "Dezactiva setările de subsol"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:475
+msgid "This is disables the footer settings"
+msgstr "Acest lucru este dezactivează setările de subsol"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:480
+msgid "Footer Font"
+msgstr "Font subsol"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:485
+msgid "Footer Title Font"
+msgstr "Titlul subsol Font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:488
+msgid "Footer Font Size"
+msgstr "Subsol Dimensiune font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:491
+msgid "Change the footer font"
+msgstr "Modificarea fontului subsol"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:496
+msgid "Footer Title Font Color"
+msgstr "Subsol Titlul Culoare font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:499
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:534
+msgid "Pick a custom color for footer font color of the theme e.g. #a314a3"
+msgstr ""
+"Alege o culoare personalizată pentru culoarea fontului subsol de exemplu, "
+"tema # a314a3"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:507
+msgid ""
+"Pick a custom primary color for links and buttons in footer are of the theme "
+"e.g. #551256"
+msgstr ""
+"Alege o culoare personalizată primară pentru link-uri si butoane în subsol "
+"sunt de exemplu, tema # 551256"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:515
+msgid ""
+"Pick a custom secondary color for links and buttons hover state in footer "
+"are of the theme e.g. #564912"
+msgstr ""
+"Alege o culoare personalizată primară pentru link-uri si butoane în subsol "
+"sunt de exemplu, tema # 551256..."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:521
+msgid "Footer Content Font"
+msgstr "Subsol de conținut Font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:524
+msgid "Footer Content Font Size"
+msgstr "Subsol Conținut Dimensiune font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:526
+msgid "Change the footer content font"
+msgstr "Modificarea fontului conținutul subsol"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:531
+msgid "Footer Content Font Color"
+msgstr "Subsol de conținut Culoare font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:538
+msgid "Footer BG Color"
+msgstr "Subsol BG Color"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:541
+msgid ""
+"Pick a custom color for background color of the theme's foter section.(e.g. "
+"#a314a3)"
+msgstr ""
+"Alege o culoare personalizată pentru culoarea de fundal a secțiunii foter "
+"temei. (De exemplu, # a314a3)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:691
+msgid "Disable Typography Settings"
+msgstr "Dezactiva setările Tipografia"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:692
+msgid "This is disables the typography settings"
+msgstr "Acest lucru este dezactivează setările de tipografie"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:697
+msgid "Font and Color"
+msgstr "Font și culoare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:698
+msgid "Change Font and Color for"
+msgstr "Modificarea și culoarea fontului pentru"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:703
+msgid "Font"
+msgstr "font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:705
+msgid "Font Size"
+msgstr "Dimensiune font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/appearance.php:710
+msgid "Font Color"
+msgstr "Culoare font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:6
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:14
+msgid "Bar Settings"
+msgstr "Bar Setări"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:18
+msgid "Enable Bar"
+msgstr "Activați Bar"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:22
+msgid "Show Bar by default"
+msgstr "Arată Bar implicit"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:27
+msgid "Bar BG Color"
+msgstr "Bar BG Color"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:30
+msgid "Pick a custom budhha bar background color of the theme e.g. #a314a3"
+msgstr ""
+"Alege un obicei de fundal de culoare budhha bar de exemplu, tema # a314a3"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:32
+msgid "Show BG Color"
+msgstr "Arată BG Color"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:36
+msgid "Shadow Color"
+msgstr "Shadow Color"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:39
+msgid "Pick a custom budhha shadow color of the theme e.g. #a314a3"
+msgstr "Alege o culoare personalizată budhha umbra de exemplu, tema # a314a3"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:41
+msgid "Show Shadow Color"
+msgstr "Arată culoarea umbrei"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:50
+msgid "Message Settings"
+msgstr "Setări mesaje"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:54
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:14
+msgid "Message"
+msgstr "mesaj"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:56
+msgid "You can give custom buddha bar message."
+msgstr "Puteți da personalizat mesaj de Buddha Bar."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:61
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:127
+msgid "Message Font"
+msgstr "Font mesaj"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:63
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:129
+msgid "Message Font Size"
+msgstr "Mesaj Dimensiune font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:65
+msgid "Choose Message Font"
+msgstr "Alege Font Mesaj"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:68
+msgid "Disable Font Color"
+msgstr "Dezactivați Culoare font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:74
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:135
+msgid "Message Font Color"
+msgstr "Mesaj Culoare font"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:77
+msgid "Pick a custom color message font color of the theme e.g. #a314a3"
+msgstr ""
+"Alege un obicei mesaj de culoarea fontului culoarea de exemplu, tema # a314a3"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:82
+msgid "Link Color"
+msgstr "link-ul de culoare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:85
+msgid ""
+"Pick a custom primary color for links state in buddha bar of the theme e.g. "
+"#564912 "
+msgstr ""
+"Alege o culoare personalizată pentru primar de stat link-uri în bara de "
+"Buddha de exemplu, tema # 564912"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:90
+msgid "Link hover Color"
+msgstr "Link-ul Hover Culoare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/bbar.php:93
+msgid ""
+"Pick a custom secondary color for links hover state in buddha bar of the "
+"theme e.g. #564912 "
+msgstr ""
+"Alege o culoare personalizată secundar pentru link-uri de stat hover în "
+"Buddha Bar de exemplu, tema # 564912"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:6
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:16
+msgid "Blog"
+msgstr "Blog"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:7
+msgid "Blog Single"
+msgstr "Blog single"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:22
+msgid "Choose Blog page"
+msgstr "Alegeți pagina de blog"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:24
+msgid ""
+"Select which page to display as your Blog Page. If left blank no blog will "
+"be displayed"
+msgstr ""
+"Selectați ce pagina pentru a afișa ca pagina de blog. În cazul în care "
+"stânga martor nu va fi afisat pe blog-ul"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:30
+msgid "Blogpage Layout"
+msgstr "Blogpage Aspect"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:39
+msgid ""
+"You can choose between a left, right, or no sidebar layout for your blogpage."
+msgstr ""
+"Puteți alege între un drept la stânga, sau nu aspectul bara laterală pentru "
+"blogpage dumneavoastră."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:45
+msgid "Post Layout"
+msgstr "Postati Aspect"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:48
+msgid "Single post per row."
+msgstr "Singur post pe rând."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:49
+msgid "Two posts per row."
+msgstr "Două posturi pe rand."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:50
+msgid "Three posts per row."
+msgstr "Trei mesaje pe rând."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:59
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:21
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:37
+msgid "Your blog posts will use the layout you select here."
+msgstr "Mesajele dumneavoastră blog vor folosi aspect selectați aici."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:65
+msgid "Posts per page"
+msgstr "Mesaje pe pagină"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:154
+msgid "Single Post Layout"
+msgstr "Single Post Aspect"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:155
+msgid ""
+"You can choose between a left, right, or no sidebar layout for your single "
+"post."
+msgstr ""
+"Puteți alege între un drept la stânga, sau nu aspectul bara laterală pentru "
+"postul dvs. unice."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:203
+msgid "Social Bookmarks"
+msgstr "Social Bookmarks"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:204
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:127
+msgid ""
+"Please choose appropriate social media share options and its layout to show "
+"in post."
+msgstr ""
+"Va rugam sa alegeti sociale adecvate mass-media opțiuni pe acțiuni și în "
+"configurația acestuia pentru a vedea în post."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:223
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:146
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:296
+msgid "Username"
+msgstr "Nume de utilizator"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:237
+msgid "Select Layout"
+msgstr "Selectați Layout"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:247
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:167
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:316
+msgid "Color Scheme"
+msgstr "Schema de culoare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:258
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:178
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:327
+msgid "Language"
+msgstr "limbă"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/blog.php:269
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:189
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:338
+msgid "Default Text"
+msgstr "default text"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:6
+msgid "Admin"
+msgstr "admin"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:16
+msgid "Custom Admin Login Logo"
+msgstr "Logo-ul personalizat Admin Autentificare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:17
+msgid ""
+"Upload an image to replace the default wordpress admin panel login logo "
+"(274px*63px)."
+msgstr ""
+"Încărcați o imagine pentru a înlocui implicit WordPress autentificare admin "
+"logo-ul panoului (274px * 63px)."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:26
+msgid "Enable Admin Login Logo"
+msgstr "Activează Logo Autentificare Admin"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:39
+msgid "Custom Admin Logo"
+msgstr "Logo personalizat Admin"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:40
+msgid ""
+"Upload an image to replace the default wordpress admin panel logo "
+"(20px*20px).<b><i>The image will be shown at the top left corner</i></b>. "
+msgstr ""
+"Încărcați o imagine pentru a înlocui implicit WordPress logo-ul admin panel "
+"(20px*20px ) <b> <i>. Imagine va fi afișată în colțul din stânga sus </ i> "
+"</ b>."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:48
+msgid "Enable Admin Logo"
+msgstr "Activați Logo Admin"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:61
+msgid "Buddha Panel Logo"
+msgstr "Buddha Panel Logo"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:62
+msgid ""
+"Upload an image to replace the default buddha panel logo.<b><i>You can set "
+"your own brnad</i></b>. "
+msgstr ""
+"Încărcați o imagine pentru a înlocui logo-ul implicit Buddha panoul de <b> "
+"<i> Puteți seta brnad ta. </ I> </ b>."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/branding.php:70
+msgid "Enable Buddha Panel Logo"
+msgstr "Activează Buddha Logo Panel"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:23
+msgid "Show Footer"
+msgstr "Arată subsol"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:30
+msgid "Footer Column Layout"
+msgstr "Subsol Coloana Aspect"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:43
+msgid "Select which column layout you would like to display with your footer."
+msgstr ""
+"Selectați aspectul pe care coloana pe care doriți să afișați cu subsol ta."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:50
+msgid "Show Copyright Text"
+msgstr "Afișare text Drepturi de autor"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:57
+msgid "Copyright Text"
+msgstr "drepturile de autor text"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/footer.php:60
+msgid ""
+"You can paste your copyright text in this box. This will be automatically "
+"added to the footer."
+msgstr ""
+"Aveți posibilitatea să lipiți textul drepturilor de autor în această casetă. "
+"Acest lucru va fi adăugat automat la subsol."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:7
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:6
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:41
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:55
+msgid "General"
+msgstr "general"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:8
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:173
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:187
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:232
+msgid "Sociable"
+msgstr "sociabil"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:17
+msgid "Logo"
+msgstr "logo"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:26
+msgid "Custom Image Logo"
+msgstr "Imaginea personalizat Logo"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:27
+msgid ""
+"Display Site Title <small><a href=\"options-general.php\">(click here to "
+"edit site title)</a></small>"
+msgstr ""
+"Afișarea Site Title <small> <a href=\"options-general.php\"> (click aici "
+"pentru a edita titlul site-ului) </ a> </ small>"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:42
+msgid ""
+"You can choose whether you wish to display a custom logo or your site title."
+msgstr ""
+"Aveți posibilitatea să alegeți dacă doriți să afișați un logo personalizat "
+"sau titlul site-ului."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:54
+msgid ""
+"Upload a logo for your theme, or specify the image address of your online "
+"logo."
+msgstr ""
+"Încărcați un logo pentru tema dvs., sau specifica adresa imaginii logo-ul "
+"dvs. on-line."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:58
+msgid "Top"
+msgstr "top"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:59
+msgid "Input number to set the top space of the logo. The minimum value is 1."
+msgstr ""
+"Numărul de intrare pentru a seta spațiul de sus a logo-ului.Valoarea minimă "
+"este de 1."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:60
+msgid "Right"
+msgstr "dreapta"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:61
+msgid ""
+"Input number to set the right space of the logo. The minimum value is 1."
+msgstr ""
+"Numărul de intrare pentru a seta spațiul din dreapta a logo-ului.Valoarea "
+"minimă este de 1."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:62
+msgid "Bottom"
+msgstr "de jos"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:63
+msgid ""
+"Input number to set the bottom space of the logo. The minimum value is 1."
+msgstr ""
+"Numărul de intrare pentru a seta spațiul partea de jos a logo-ului.Valoarea "
+"minimă este de 1."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:64
+msgid "Left"
+msgstr "Stânga"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:65
+msgid "Input number to set the left space of the logo. The minimum value is 1."
+msgstr ""
+"Numărul de intrare pentru a seta spațiul din stânga a logo-ului.Valoarea "
+"minimă este de 1."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:83
+msgid "Favicon"
+msgstr "favicon"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:84
+msgid ""
+"Upload a favicon for your theme, or specify the image address of your online."
+msgstr ""
+"Încărcați un favicon pentru tema dvs., sau specifica adresa imaginii online."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:92
+msgid "Enable Favicon"
+msgstr "Activați Favicon"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:102
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:194
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:294
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:488
+msgid "Others"
+msgstr "alții"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:111
+msgid "Globally Disable Comments on Pages"
+msgstr "Dezactivează toată lumea Comentarii despre Pagini"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:112
+msgid ""
+"Check if you want to disable comments on pages.<br/> This will globally "
+"override your \"Allow comments.\" option under your pages \"Discussion\" "
+"settings. "
+msgstr ""
+"Verificați dacă doriți să dezactivați un comentariu la pagini. <br/> Acest "
+"lucru va înlocui la nivel global ta \"Permiteți comentarii \". Opțiunea în "
+"temeiul paginile dvs. \" Discuție setări."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:121
+msgid "Globally Disable Comments on Posts"
+msgstr "Dezactivează toată lumea Comentarii despre mesaje"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:122
+msgid ""
+"Check if you want to disable comments on posts.<br/> This will globally "
+"override your \"Allow comments.\" option under your posts \"Discussion\" "
+"settings. "
+msgstr ""
+"Verificați dacă doriți să dezactivați un comentariu la posturi. <br/> Acest "
+"lucru va înlocui la nivel global \"Permiteți comentarii \". Opțiunea în "
+"temeiul mesajele dumneavoastră \"\" Discuție setări."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:130
+msgid "Globally Disable Breadcrumbs"
+msgstr "Dezactivați lumea Breadcrumbs"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:131
+msgid "Check if you do not want breadcrumbs to display anywhere in your site."
+msgstr "Verificați dacă nu doriți să afișați pesmet oriunde în site-ul tău."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:135
+msgid "Breadcrumb Delimiter"
+msgstr "breadcrumb Delimiter"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:138
+msgid ""
+"This is the symbol that will appear in between your breadcrumbs.<br /><br /"
+">Some common examples would be:<br /><br /><pre>/ > - , :: >></pre>"
+msgstr ""
+"Aceasta este simbolul care va apărea între pesmet dvs. <br /> <br /> Câteva "
+"exemple comune ar fi:. <br /> <br /> <pre> /> -, :: >> </ Pre>"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:146
+msgid "Disable Style Picker"
+msgstr "Dezactivează Picker Stil"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:147
+msgid "Check if you do not want disable the front end style picker option"
+msgstr ""
+"Verificați dacă nu doriți dezactivați față selectorul de final de stil "
+"opțiune"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:155
+msgid "Disable import dummy content"
+msgstr "Dezactivează inactiv conținut de import"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:156
+msgid "Check if you do not want disable the import option at the top :)"
+msgstr ""
+"Verificați dacă nu doriți să dezactivați opțiunea de import la partea de "
+"sus :)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:173
+msgid "You can add List of Social icons here."
+msgstr "Puteți adăuga Lista de icoane sociale aici."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:179
+msgid "Show Sociable"
+msgstr "Arată Sociabil"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:188
+msgid "Add New Sociable"
+msgstr "Add New Sociabil"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:204
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:237
+msgid "Sociable Icon"
+msgstr "sociabil Icon"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:207
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:238
+msgid "Custom Icon"
+msgstr "personalizat Icon"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:213
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/general.php:240
+msgid "Sociable Link"
+msgstr "sociabil Link"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:7
+msgid "Post"
+msgstr "post"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:8
+msgid "Page"
+msgstr "pagină"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:15
+msgid "Add code to the &lt;head&gt of your blog"
+msgstr "Adauga codul de la &lt;head&gt a blog-ul dvs."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:16
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Orice cod ce plasati aici, va apărea în partea de capul fiecărei pagini de "
+"blog-ul dvs.. Acest lucru este util atunci când aveți nevoie să adăugați "
+"JavaScript sau CSS pentru toate paginile."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:19
+msgid "Enable header code"
+msgstr "Activează codul de antet"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:22
+msgid "Add code to the  &lt;/body&gt;"
+msgstr "Adauga codul de la &lt;/body&gt;"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:23
+msgid ""
+"You can paste your Google Analytics or other website tracking code in this "
+"box. This will be automatically added to the footer."
+msgstr ""
+"Aveți posibilitatea să lipiți Google Analytics sau alte site-ul codul de "
+"urmărire în această casetă. Acest lucru va fi adăugat automat la subsol."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:26
+msgid "Enable body code"
+msgstr "Activează codul de corp"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:54
+msgid "Add code to the top of your posts"
+msgstr "Adauga codul de la partea de sus a mesajele dumneavoastră"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:55
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:62
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Orice cod ce plasati aici vor fi plasate la partea de sus a toate posturile "
+"unice. Acest lucru este util în cazul în care sunteți în căutarea pentru "
+"integrarea lucruri, cum ar fi link-uri de marcare socială."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:58
+msgid "Enable single post top code"
+msgstr "Activează un singur cod de top mesaj"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:61
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr ""
+"Adauga codul de la partea de jos a mesajele dumneavoastră, înainte de "
+"comentarii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:65
+msgid "Enable single post bottom code"
+msgstr "Activează un singur cod de jos mesaj"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:126
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:276
+msgid "Social Shares"
+msgstr "Actiuni sociale"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:207
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:357
+msgid "Social Bookmark"
+msgstr "Social Bookmark"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:208
+msgid ""
+"Please choose appropriate social media bookmark options and its layout to "
+"show in post."
+msgstr ""
+"Va rugam sa alegeti sociale adecvate mass-media opțiuni de marcare și "
+"dispunerea sa în post pentru a vedea."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:238
+msgid "Add code to the top of your pages"
+msgstr "Adauga codul de la partea de sus a paginilor dvs."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:239
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:246
+msgid ""
+"Any code you place here will be placed at the top of all single pages. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Orice cod ce plasati aici vor fi plasate la partea de sus a tuturor "
+"paginilor unice. Acest lucru este util în cazul în care sunteți în căutarea "
+"pentru integrarea lucruri, cum ar fi link-uri de marcare socială."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:242
+msgid "Enable single page top code"
+msgstr "Activează singur cod de sus a paginii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:245
+msgid "Add code to the bottom of your pages, before the comments"
+msgstr ""
+"Adauga codul de la partea de jos a paginilor dvs., înainte de comentarii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:249
+msgid "Enable single page bottom code"
+msgstr "Activează singur cod de jos paginii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:277
+msgid ""
+"Please choose appropriate social media share options and its layout to show "
+"in page."
+msgstr ""
+"Va rugam sa alegeti sociale adecvate mass-media opțiuni pe acțiuni și în "
+"configurația acestuia pentru a vedea in pagina."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/integration.php:358
+msgid ""
+"Please choose appropriate social media bookmark options and its layout to "
+"show in page."
+msgstr ""
+"Va rugam sa alegeti sociale adecvate mass-media opțiuni de marcare și "
+"dispunerea sa pentru a vedea in pagina."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/menu.php:12
+msgid "settings"
+msgstr "setări"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/menu.php:15
+msgid "options"
+msgstr "Opțiuni"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/menu.php:15
+msgid "Options"
+msgstr "Opțiuni"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/responsive.php:6
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/responsive.php:13
+msgid "Responsive"
+msgstr "sensibil"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/responsive.php:18
+msgid "Make My Site Responsive"
+msgstr "Asigurați-Site-ul meu Responsive"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/responsive.php:28
+msgid "Disable Slider for Mobile Devices"
+msgstr "Dezactivează Slider pentru dispozitive mobile"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/responsive.php:33
+msgid ""
+"Choose what to display in the slider area of your website on mobile devices"
+msgstr ""
+"Alegeți ce să se afișeze în zona cursorul de site-ul dvs. pe dispozitive "
+"mobile"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:7
+msgid "Meta"
+msgstr "meta"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:14
+msgid "Title Formats"
+msgstr "Titlu Formate"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:19
+msgid "Title Delimiter"
+msgstr "Titlul Delimiter"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:23
+msgid ""
+"This is the symbol that will appear in the title of the page.<br /><br /"
+">Some common examples would be:<br /><br /><pre>| / > - , :: >></pre>"
+msgstr ""
+"Aceasta este simbolul care va apărea în titlul paginii <br /> <br /> Câteva "
+"exemple comune ar fi:. <br /> <br /> <pre> | /> -, :: >> </ pre>"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:29
+msgid "Single Post Title Format"
+msgstr "Single Post Titlu Format"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:32
+msgid "Choose Single Post Title Format"
+msgstr "Alege un singur format Titlul mesajului"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:33
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:45
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:56
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:64
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:73
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:82
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:91
+msgid "Blog Title"
+msgstr "Blog Titlu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:33
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:45
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:56
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:65
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:74
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:83
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:91
+msgid "Blog Description"
+msgstr "Blog Descriere"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:34
+msgid "Post Title"
+msgstr "Postati Titlu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:34
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:57
+msgid "Category Title"
+msgstr "Categorie Titlu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:35
+msgid "Tag Title"
+msgstr "Titlul tag-ul"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:36
+msgid "Post's Author Nicename"
+msgstr "Post Autor Nicename"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:37
+msgid "Post's Author First Name"
+msgstr "Post Primul Autor Nume"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:38
+msgid "Post's Author Last Name"
+msgstr "Ultimul mesaj de Autor Numele"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:41
+msgid "Single Page Title Format"
+msgstr "Pagina de Titlu Format single"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:44
+msgid "Choose Single Page Title Format"
+msgstr "Alege un singur format titlul paginii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:46
+msgid "Page Title"
+msgstr "pagina de Titlu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:47
+msgid "Page's Author Nicename"
+msgstr "Pagina lui Autorul Nicename"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:48
+msgid "Page's Author First Name"
+msgstr "Pagina Primul Autorul Nume"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:49
+msgid "Page's Author Last Name"
+msgstr "Pagina lui Ultima Autorul Nume"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:52
+msgid "Category Title Format"
+msgstr "Categorie Titlu Format"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:55
+msgid "Choose Category Page Title Format"
+msgstr "Alege Page Categorie Titlu Format"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:57
+msgid "Category Description"
+msgstr "Descriere categorie"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:60
+msgid "Archive Title Format"
+msgstr "Arhiva Titlu Format"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:63
+msgid "Choose Archieve Page Title Format"
+msgstr "Alege Arhiva Format titlul paginii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:66
+msgid "Default Date"
+msgstr "implicit Data"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:69
+msgid "Tag Title Format"
+msgstr "Titlul tag-ul Format"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:72
+msgid "Choose Tag Page Title Format"
+msgstr "Alege Pagina de Titlu Tag Format"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:75
+msgid "The name of the tag"
+msgstr "Numele de tag-ul"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:78
+msgid "Search Title Format"
+msgstr "Titlul de căutare Format"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:81
+msgid "Choose Search Page Title Format"
+msgstr "Alege Titlul paginii de căutare Format"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:84
+msgid "What was searched for"
+msgstr "Ceea ce a fost cautat"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:87
+msgid "404 Title Format"
+msgstr "404 Titlu Format"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:90
+msgid "Choose 404 Page Title Format"
+msgstr "Alege 404 Format titlul paginii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:135
+msgid "Metadata and others"
+msgstr "Metadate și altele"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:138
+msgid "Canonical URLs"
+msgstr "Canonical URL-uri"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:138
+msgid ""
+"This option will automatically generate Canonical URLS for your entire "
+"WordPress installation. This will help to prevent duplicate content "
+"penalties by Google."
+msgstr ""
+"Această opțiune va genera în mod automat URL-uri pentru Canonical de "
+"instalare întregul WordPress. Acest lucru va ajuta la prevenirea sancțiuni "
+"duplicat de conținut de către Google."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:139
+msgid "Use noindex for Categories"
+msgstr "Utilizați noindex pentru Categorii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:139
+msgid ""
+"Check this for excluding category pages from being crawled. Useful for "
+"avoiding duplicate content."
+msgstr ""
+"Verificați acest lucru pentru a exclude paginile de categorii de a fi "
+"accesate cu crawlere. Util pentru evitarea conținut duplicat."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:140
+msgid "Use noindex for Archives"
+msgstr "Utilizați noindex pentru Arhivele"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:140
+msgid ""
+"Check this for excluding archive pages from being crawled. Useful for "
+"avoiding duplicate content."
+msgstr ""
+"Verificați acest lucru pentru a exclude pagini de arhivă de a fi accesate cu "
+"crawlere. Util pentru evitarea conținut duplicat."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:141
+msgid "Use noindex for Tag Archives"
+msgstr "Utilizați noindex pentru Tag Archives"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:141
+msgid ""
+"Check this for excluding tag pages from being crawled. Useful for avoiding "
+"duplicate content."
+msgstr ""
+"Verificați acest lucru pentru a exclude pagini tag-ul cu crawlere. Util "
+"pentru evitarea conținut duplicat."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:142
+msgid "Use Tags for META keywords"
+msgstr "Folositi cuvinte-cheie META Tag-uri pentru"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:142
+msgid ""
+"Check this if you want your tags for a given post used as the META keywords "
+"for this post (in addition to any keywords you specify on the post edit "
+"page)."
+msgstr ""
+"Verificați acest lucru dacă doriți ca etichetele pentru un post anumit "
+"folosit ca cuvintele cheie META pentru acest post (în plus față de orice "
+"cuvinte cheie pe care le specificați pe pagina postul de editare)."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:143
+msgid "Use Categories for META keywords"
+msgstr "Folositi cuvinte-cheie Categorii pentru META"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:143
+msgid ""
+"Check this if you want your categories for a given post used as the META "
+"keywords for this post (in addition to any keywords and tags you specify on "
+"the post edit page)."
+msgstr ""
+"Verificați acest lucru în cazul în care doriți să vă categorii pentru un "
+"post anumit folosit ca cuvintele cheie META pentru acest post (în plus față "
+"de orice cuvinte cheie si tag-uri pe care le specificați pe pagina postul de "
+"editare)."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:144
+msgid "Autogenerate Descriptions"
+msgstr "autogenerați Descrieri"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/seo.php:144
+msgid ""
+"Check this and your META descriptions will get autogenerated for post and "
+"page."
+msgstr ""
+"Verificați acest lucru și descrierile dvs. META va primi generată automat de "
+"poștă și pagina."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:42
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:56
+msgid "Appearance"
+msgstr "aspect"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:43
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:57
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/skins.php:6
+msgid "Skins"
+msgstr "Skins"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:44
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:58
+msgid "Integration"
+msgstr "integrare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:45
+msgid "SEO"
+msgstr "SEO"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:46
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:59
+msgid "Specialty Pages"
+msgstr "Pagini de specialitate"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:48
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:61
+msgid "Widget Area"
+msgstr "Widget Zona"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:49
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:62
+msgid "Responsive &amp; Mobile"
+msgstr "sensibil &amp; Mobile"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:50
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:63
+msgid "Branding"
+msgstr "branding"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:51
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:64
+msgid "Buddha Bar"
+msgstr "Buddha Bar"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:82
+msgid "Import Dummy Data"
+msgstr "Import de date dummy"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:101
+msgid "Reset All"
+msgstr "Reset All"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/settings.php:102
+msgid "Save All"
+msgstr "Salvare toate"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/skins.php:16
+msgid "Current Skin"
+msgstr "curent pielii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/skins.php:28
+msgid "Available Skins"
+msgstr "skin-uri disponibile"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:6
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:17
+msgid "Sliders"
+msgstr "Sliders"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:7
+msgid "Cycle Slider"
+msgstr "ciclul Slider"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:8
+msgid "Nivo Slider"
+msgstr "Nivo Slider"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:9
+msgid "Touch Slider"
+msgstr "Touch Slider"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:18
+msgid ""
+"You can select any number of silders. And you can re-arrange by drag - drop"
+msgstr ""
+"Puteți selecta orice număr de silders. Și vă puteți re-aranja prin drag - "
+"meniurile"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:22
+msgid "Used Sliders"
+msgstr "Sliders Second Hand"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:23
+msgid "Please, add some sliders"
+msgstr "Te rog, adăuga unele glisoarele"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:46
+msgid "Available Sliders"
+msgstr "Sliders disponibile"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:86
+msgid "Cycle Slider Settings"
+msgstr "Slider ciclu Setări"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:90
+msgid "Transition effects"
+msgstr "de tranziție efecte"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:100
+msgid "You can choose Transition effects here."
+msgstr "Puteți alege efecte de tranziție aici."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:107
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:243
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:532
+msgid "Slider Width x Height (in px)"
+msgstr "Slider Lățime x Înălțime (în px)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:111
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:247
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:536
+msgid ""
+"For better view,<ol><li>Please re-upload all the slider images with the "
+"correct dimensions.</li><li>The slider height should be above 300px.</li></"
+"ol>"
+msgstr ""
+"Pentru o mai bună vizualizare, <ol> <li> Vă rugăm să re-incarcati toate "
+"imaginile slider cu dimensiunile corecte. </ Li> <li> înălțimea cursorul ar "
+"trebui să fie mai sus 300px. </ Li> </ ol>"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:121
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:125
+msgid "Easing"
+msgstr "facilitarea"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:126
+msgid "Easing method for both in and out transitions"
+msgstr "Facilitarea metodă pentru, atât în ​​și în afara tranziții"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:127
+msgid "EaseIn"
+msgstr "EaseIn"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:128
+msgid "easing for 'in' transition"
+msgstr "facilitarea tranziției \"în\""
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:129
+msgid "EaseOut"
+msgstr "EaseOut"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:130
+msgid "easing for 'out' transition"
+msgstr "relaxarea pentru \"out\" de tranziție"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:151
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:156
+msgid "Speed"
+msgstr "viteză"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:157
+msgid "speed of the transition (any valid fx speed value ,eg:1000)"
+msgstr ""
+"viteza de tranziție (orice validă fx valoarea vitezei, de exemplu: 1000)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:161
+msgid "Speed In"
+msgstr "viteza în"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:162
+msgid "speed of the 'in' transition (eg:2500)"
+msgstr "viteza \"în\" tranziție (de exemplu: 2500)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:166
+msgid "Speed Out"
+msgstr "Speed out"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:167
+msgid "speed of the 'out' transition (eg : 500)"
+msgstr "viteza de \"out\" de tranziție (de exemplu: 500)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:171
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:522
+msgid "Delay Time"
+msgstr "Timpul de intarziere"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:172
+msgid "additional delay (in ms) for first transition (hint: can be negative)"
+msgstr ""
+"întârziere suplimentară (în ms) pentru prima tranziție (sugestie: poate fi "
+"negativă)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:197
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:297
+msgid "Would you like to pasue the slider on hover?"
+msgstr "Doriți să pasue cursorul pe hover?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:198
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:298
+msgid "Would you like to use random slider?"
+msgstr "Doriți să utilizați cursorul aleatoare?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:199
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:299
+msgid "Would you like to show slider navigation?"
+msgstr "Doriți să arate navigare cursorul?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:200
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:300
+msgid "Would you like to show control navigation on bottom of slider?"
+msgstr "Doriți să arate navigare controlul asupra partea de jos a cursorului?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:201
+msgid "Would you like to pause the slider on control navigation hover?"
+msgstr "Doriți să întrerupeți cursorul privind controlul de navigare hover?"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:202
+msgid "Disable (It cause transitions should not occur simultaneously)."
+msgstr "Dezactiva (Acesta produce tranziții nu ar trebui să apară simultan)."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:222
+msgid "Nivo Slider Settings"
+msgstr "Nivo Slider Setări"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:227
+msgid "Choose effects"
+msgstr "Alege efecte"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:237
+msgid "You can choose animation effects here."
+msgstr "Puteți alege efecte de animație aici."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:253
+msgid "Animation Speed"
+msgstr "Viteza de animație"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:254
+msgid "Please enter slider transition(eg: 500) in ms"
+msgstr "Vă rugăm să introduceți tranziție cursorul (de ex: 500) în ms"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:258
+msgid "Pause Time"
+msgstr "Timp de pauză"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:259
+msgid "Please enter slider pause time(eg: 3000) in ms"
+msgstr ""
+"Vă rugăm să introduceți pauză indicatorul de timp (de exemplu: 3000) în ms"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:263
+msgid "Box Animation Columns"
+msgstr "Animation Box Coloane"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:264
+msgid ""
+"For box animation( boxRain, boxRainGrow, boxRainGrowReverse, boxRainReverse "
+"and boxRandom ), you can give number of columns(eg: 5)"
+msgstr ""
+"Pentru animație caseta (boxRain, boxRainGrow, boxRainGrowReverse, "
+"boxRainReverse și boxRandom), vă pot da numărul de coloane (de exemplu: 5)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:268
+msgid "Box Animation Rows"
+msgstr "Animation Box Rânduri"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:269
+msgid ""
+"For box animation( boxRain, boxRainGrow, boxRainGrowReverse, boxRainReverse "
+"and boxRandom ), you can give number of rows(eg: 8)"
+msgstr ""
+"Pentru animație caseta (boxRain, boxRainGrow, boxRainGrowReverse, "
+"boxRainReverse și boxRandom), vă pot da numărul de rânduri (de exemplu: 8)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:273
+msgid "Slices"
+msgstr "felii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:274
+msgid ""
+"For slice animation( SliceDown, SliceDownLeft, SliceUp, SliceUpDown, "
+"sliceUpDownLeft and sliceUpLeft ), you can give number of slices here. For "
+"eg: 15"
+msgstr ""
+"Pentru animație felie (SliceDown, SliceDownLeft, SliceUp, SliceUpDown, "
+"sliceUpDownLeft și sliceUpLeft), vă pot da numărul de felii aici. De ex: 15"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:322
+msgid "Background Settings"
+msgstr "Context Setări"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:326
+msgid "Background Image"
+msgstr "Imaginea de fundal"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:335
+msgid "Upload an image for slider background."
+msgstr "Încărcați o imagine de fundal pentru slider."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:344
+msgid "Enable fullscreen background animation."
+msgstr "Activează animație de fundal pe tot ecranul."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:347
+msgid ""
+"Check if you want to enable the fullscreen background animation for touch "
+"slider."
+msgstr ""
+"Verificați dacă doriți să activați animație de fundal pe tot ecranul pentru "
+"slider tactil."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:356
+msgid "Enable background move animation."
+msgstr "Activează mișcare animație de fundal."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:358
+msgid ""
+"Check if you want to enable the fullscreen background moving animation for "
+"touch slider."
+msgstr ""
+"Verificați dacă doriți să activați fundal pe tot ecranul se deplasează de "
+"animație pentru slider tactil."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:365
+msgid "Pagination Settings"
+msgstr "paginare Setări"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:372
+msgid "Auto hide."
+msgstr "Auto ascunde."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:374
+msgid ""
+"Check if you want to enable the auto hide option for the pagination in touch "
+"slider."
+msgstr ""
+"Verificați dacă doriți să activați opțiunea Ascunde auto de paginația în "
+"glisorul legătura."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:381
+msgid "Alignment"
+msgstr "aliniere"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:384
+msgid "Bottom Center"
+msgstr "Centrul de jos"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:385
+msgid "Top Left"
+msgstr "stânga sus"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:386
+msgid "Top Center"
+msgstr "Centrul de top"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:387
+msgid "Top Right"
+msgstr "din dreapta sus"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:388
+msgid "Bottom Left"
+msgstr "din stânga jos"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:389
+msgid "Bottom Right"
+msgstr "dreapta jos"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:390
+msgid "Left Center"
+msgstr "Centrul de stânga"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:391
+msgid "Right Center"
+msgstr "centru dreapta"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:392
+msgid "Center"
+msgstr "centru"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:400
+msgid "Choose pagination alignment for touch slider."
+msgstr "Alegeți alinierea paginație pentru slider tactil."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:406
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:444
+msgid "Type"
+msgstr "tip"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:408
+msgid "Bullets"
+msgstr "Marcatori"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:409
+msgid "Bullets with BG"
+msgstr "Marcatori cu BG"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:409
+msgid "Decimal"
+msgstr "zecimal"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:416
+msgid "Choose pagination type for touch slider."
+msgstr "Alege tipul de paginație pentru slider tactil."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:425
+msgid "Navigation Settings"
+msgstr "Setări navigare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:434
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:436
+msgid "Disable auto-hide navigation."
+msgstr "Dezactivați auto-ascunde de navigare."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:445
+msgid "Choose previous, next navigation type."
+msgstr "Alegeți tipul precedent, navigare următor."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:448
+msgid "Arrow"
+msgstr "săgeată"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:449
+msgid "Circle Arrow"
+msgstr "cerc Arrow"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:450
+msgid "Square Arrow"
+msgstr "Piața Arrow"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:454
+msgid "Left Alignment"
+msgstr "Aliniere la stânga"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:456
+msgid "Choose the alignment / position for the 'left' navigation icon"
+msgstr "Alege aliniere / poziția de \"stânga\" de navigare pe pictograma"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:460
+msgid "Right Alignment"
+msgstr "Aliniere dreapta"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:462
+msgid "Choose the alignment / position for the 'right' navigation icon"
+msgstr "Alege aliniere / poziția de \"dreapta\" de navigare pe pictograma"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:493
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:494
+msgid "Disable desktop drag"
+msgstr "Dezactivați trageți ecranul"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:498
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:499
+msgid "Disable slideshow animation."
+msgstr "Dezactivează animație slideshow."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/slideshow.php:525
+msgid "Additional delay time of slideshow animation in seconds. (eg:) 2"
+msgstr ""
+"Timpul de întârziere suplimentară de animație prezentarea în câteva secunde. "
+"(de exemplu, :) 2"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:9
+msgid "404"
+msgstr "404"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:17
+msgid "Archives Layout"
+msgstr "Arhiva Aspect"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:18
+msgid ""
+"You can choose between a left, right, or no sidebar layout for your Archieve "
+"page."
+msgstr ""
+"Puteți alege între un aspect stânga, dreapta, sau nu bara laterală pentru "
+"pagina dvs. Arhiva."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:20
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:36
+msgid "Posts Layout"
+msgstr "Posturi Aspect"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:24
+msgid "Archives Background"
+msgstr "Arhiva de fundal"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:25
+msgid "Archives background image"
+msgstr "Arhiva imagine de fundal"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:26
+msgid "Upload an image for the theme's Archives page background"
+msgstr "Încărcați o imagine pentru tema de Arhivele fundalul paginii"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:29
+msgid "Archives Background Color"
+msgstr "Arhiva Culoarea de fundal"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:30
+msgid ""
+"Pick a custom color for background color of the theme's archives page.(e.g. "
+"#a314a3)"
+msgstr ""
+"Alege o culoare personalizată pentru culoarea de fundal a paginii temei "
+"arhivele. (De exemplu, # a314a3)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:33
+msgid "Search Layout"
+msgstr "căutare Aspect"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:34
+msgid ""
+"You can choose between a left, right, or no sidebar layout for your Search "
+"page."
+msgstr ""
+"Puteți alege între un drept la stânga, sau nu aspectul bara laterală pentru "
+"pagina dvs. de căutare."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:39
+msgid "Search Background"
+msgstr "Context căutare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:40
+msgid "Search background image"
+msgstr "Imaginea de fundal căutare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:41
+msgid "Upload an image for the theme's Search page background"
+msgstr "Încărcați o imagine de fundal pentru tema pagina lui de căutare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:44
+msgid "Search Background Color"
+msgstr "Căutare Culoarea de fundal"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:45
+msgid ""
+"Pick a custom color for background color of the theme's search page.(e.g. "
+"#a314a3)"
+msgstr ""
+"Alege o culoare personalizată pentru culoarea de fundal a paginii de căutare "
+"temei. (De exemplu, # a314a3)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:49
+msgid "404 Layout"
+msgstr "404 Aspect"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:50
+msgid ""
+"You can choose between a left, right, or no sidebar layout for your 404 page."
+msgstr ""
+"Puteți alege între un aspect stânga, dreapta, sau nu bara laterală pentru "
+"pagina dvs. de 404."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:52
+msgid "404 Background"
+msgstr "404 Context"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:53
+msgid "404 background image"
+msgstr "404 imagine de fundal"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:54
+msgid "Upload an image for the theme's 404 page background"
+msgstr "Încărcați o imagine de fundal pentru tema pagina lui 404"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:57
+msgid "404 Background Color"
+msgstr "404 Culoarea de fundal"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:58
+msgid ""
+"Pick a custom color for background color of the theme's 404 page.(e.g. "
+"#a314a3)"
+msgstr ""
+"Alege o culoare personalizată pentru culoarea de fundal a paginii 404 temei. "
+"(De exemplu, # a314a3)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:60
+msgid "404 Message"
+msgstr "404 Mesaj"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:61
+msgid "You can give custom 404 page message"
+msgstr "Puteți da personalizat mesaj pagina 404"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:114
+msgid "404 Custom Message"
+msgstr "404 Mesaj personalizat"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:120
+msgid "Disable Font Settings"
+msgstr "Dezactiva setările de fonturi"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:121
+msgid "This is disables the 404 Font settings"
+msgstr "Acest lucru este dezactivează setările de font 404"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/specialty-pages.php:138
+msgid ""
+"Pick a custom color for 404 message font color of the theme e.g. #a314a3"
+msgstr ""
+"Alege o culoare personalizată pentru 404 culoarea fontului mesajul de "
+"exemplu, tema # a314a3"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:6
+msgid "For Pages"
+msgstr "pentru Pagini"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:7
+msgid "For Posts"
+msgstr "pentru posturi"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:8
+msgid "For Categories"
+msgstr "pentru categoriile"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:16
+msgid "Add new widget areas for pages"
+msgstr "Adăugați domenii noi widget pentru pagini"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:17
+msgid "Select a PAGE that should receive a new widget area:"
+msgstr "Selectați o pagină care ar trebui să primească o zonă de widget nou:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:44
+msgid "Add new widget areas for posts"
+msgstr "Adăugați domenii noi widget pentru posturi"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:45
+msgid "Select a POST that should receive a new widget area:"
+msgstr "Selectați un post in care ar trebui să primească o zonă de widget nou:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:72
+msgid "Add new widget areas for categories"
+msgstr "Adăugați domenii noi widget pentru categoriile"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_options/widgetarea.php:73
+msgid "Select a Category that should receive a new widget area:"
+msgstr ""
+"Selectați o categorie care ar trebui să primească o zonă de widget nou:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:4
+msgid "Enquiry"
+msgstr "Intrebare"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:13
+msgid "E-mail"
+msgstr "E-mail"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:15
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:27
+msgid "Send Email"
+msgstr "Trimite un e-mail"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/contactform.php:25
+msgid "Your E-mail"
+msgstr "Adresa dvs. de e-mail-ul"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/others.php:46
+msgid "top"
+msgstr "top"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/others.php:260
+msgid "Phone:"
+msgstr "telefon:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/others.php:261
+msgid "Fax:"
+msgstr "fax:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/others.php:262
+msgid "Email:"
+msgstr "E-mail:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/others.php:263
+msgid "Web:"
+msgstr "web:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/social.php:60
+msgid "Tweet"
+msgstr "Tweet"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/social.php:98
+msgid "Delicious"
+msgstr "delicios"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/social.php:113
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/social.php:117
+msgid "Pin It"
+msgstr "Acesta pin"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/social.php:117
+msgid "Pin It on Pinterest"
+msgstr "Acesta Pin pe Pinterest"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_shortcodes/widgets.php:34
+#, php-format
+msgid ""
+"%s: Widget class not found. Make sure this widget exists and the class name "
+"is correct"
+msgstr ""
+"%s: Clasei widget nu a fost găsit. Asigurați-vă că acest widget există și "
+"numele clasei este corect"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:10
+msgid " Portfolio"
+msgstr "portofoliu"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:23
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_pages.php:21
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:23
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:25
+msgid "Title:"
+msgstr "titlu:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:28
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:28
+msgid "Choose the categories you want to display (multiple selection possible)"
+msgstr ""
+"Alege categoriile pe care doriți să afișați (selecție multiplă posibilă)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:41
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_pages.php:39
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:41
+msgid "Display title only or title &amp; excerpt"
+msgstr "Afișa numai titlu sau titlu & extras"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:51
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_pages.php:49
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:51
+msgid "Show Image"
+msgstr "Afișare imagine"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/portfolio_widgets.php:53
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:53
+msgid "No.of posts to show:"
+msgstr "Mesaje No.of pentru a vedea:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_pages.php:10
+msgid " Pages"
+msgstr "pagini"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_pages.php:26
+msgid "Choose the pages you want to display (multiple selection possible)"
+msgstr ""
+"Alegeți paginile pe care doriți să afișați (selecție multiplă posibilă)"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_pages.php:109
+msgid "No Pages found"
+msgstr "Nici un Pagini găsit"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:10
+msgid " Posts"
+msgstr "Posturi"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/recent_posts.php:129
+msgid "No Posts found"
+msgstr "Nici o postare găsită"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:10
+msgid " Twitter Widget"
+msgstr "twitter Widget"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:15
+msgid "Latest Tweets"
+msgstr "Ultimele Tweets"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:29
+msgid "Enter your twitter username:"
+msgstr "Introduceți numele de utilizator Twitter:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:33
+msgid "How many entries do you want to show:"
+msgstr "Cate intrari vrei sa arate:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:42
+msgid "Exclude @replies"
+msgstr "Excludeți @ raspunsuri"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:45
+msgid "Show time of tweet"
+msgstr "Afișare timp de tweet"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/theme_widgets/twitter.php:48
+msgid "Show user avatar"
+msgstr "Arată Avatar utilizator"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/parsers.php:42
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr "A apărut o eroare la citirea acest fișier WXR"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Detaliile sunt prezentate mai sus.Importatorul va încerca acum din nou cu un "
+"alt parser ..."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/parsers.php:67
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/parsers.php:72
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/parsers.php:262
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"Acest lucru nu pare a fi un fișier WXR, lipsă / număr de versiune invalid WXR"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:134
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:143
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:194
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:198
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr "Ne pare rău, a existat o eroare."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr "Fișier nu există, vă rugăm să încercați din nou."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr "Toate terminat."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr "Distreaza-te!"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+"Amintiți-vă pentru a actualiza parolele și rolurile de utilizatori importate."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"Fisierul de export nu a putut fi găsit la <code>% s </ code>. Este probabil "
+"ca acest lucru a fost cauzat de o problema permisiuni."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"Acest fișier WXR (versiunea% s) nu poate fi acceptat de această versiune a "
+"importatorului. Vă rugăm să ia în considerare actualizarea."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"Nu a reușit să importe% s autor. Posturile lor vor fi atribuite "
+"utilizatorului curent."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr "Atribuirea Autori"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"Pentru a face mai ușor pentru tine de a edita și salva conținutul importat, "
+"poate doriți să realocați autorul articolului importat la un utilizator "
+"existent al acestui site. De exemplu, poate doriți să importați toate "
+"intrările ca admin <code> </ code> intrărilor s."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"Dacă un utilizator nou este creat de WordPress, o noua parola va fi generata "
+"aleator și rolul noul utilizator va fi setat ca% s.. Schimbarea manuală "
+"detaliu noul utilizator va fi necesar."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr "Echipamente de import"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr "Descărcați și import fișierele atașate"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr "Import autor:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr "sau să creați un nou utilizator cu numele de autentificare:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr "ca un utilizator nou:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr "atribui mesaje la un utilizator existent:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr "sau atribui posturile către un utilizator existent:"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr "- Selectați -"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Nu a reușit să creeze un nou utilizator pentru %s. Posturile lor vor fi "
+"atribuite utilizatorului curent."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Nu a reușit să importe categorie %s"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Nu a reușit să importe mesaj tag-ul %s"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:505
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Nu a reușit să importe %s %s"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Nu a reușit să importe &#8220;%s&#8221;: Tip nevalid %s mesaj"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; există deja."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Nu a reușit să importe %s &#8220;%s&#8221;"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Element de meniu omise din cauza Slug meniu lipsesc"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Element de meniu omise din cauza Slug meniul nevalide: %s"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr "Preluarea atașări nu este activat"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr "Ungültige Sperr-Datei '%s'."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr "Serverul de la distanță nu a răspuns"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Serverul de la distanță a returnat un răspuns de eroare %1$d %2$s"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr "Fișier de la distanță este dimensiunea incorectă"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr "Zero Dimensiune fisier descarcat"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Fișier de la distanță este prea mare, limita este %s"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr "import WordPress"
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"O versiune nouă a acestui importator este disponibil. Vă rugăm să "
+"actualizați la versiunea% s pentru a asigura compatibilitatea cu fișierele "
+"de export noi."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"Howdy! Încărcați dvs. WordPress eXtended RSS (WXR) dosar și noi&#8217;voi "
+"importa posturi, pagini, comentarii, câmpuri personalizate, categorii, tag-"
+"uri și în acest site."
+
+#: D:\Program
+#: Files\wamp\www\wp\themes\core\wp-content\themes\core/framework/wordpress-importer/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Alege o WXR (. Xml) fișier de încărcat, apoi faceți clic pe Încărcați fișier "
+"și de import."
