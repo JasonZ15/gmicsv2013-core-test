@@ -1494,7 +1494,7 @@ function get_portfolio_page_content($post_id){
 					
 					echo "<div class='portfolio four-column all-sort $sort'>";
 					echo '	<div class="portfolio-image">';
-					echo "		<a href='$permalink' title='$the_title'>";
+					echo "		<a href='$permalink'>";
 								if(has_post_thumbnail()):
 									the_post_thumbnail($image_type);
 								else:
@@ -1506,25 +1506,10 @@ function get_portfolio_page_content($post_id){
 									$full = wp_get_attachment_image_src(get_post_thumbnail_id($the_id), 'full', false);
 									$portfolio_settings = get_post_meta($the_id,'_portfolio_settings',TRUE);
 									$portfolio_settings = is_array($portfolio_settings) ? $portfolio_settings  : array();
-						echo $portfolio_settings['sub-title'];
+									echo $portfolio_settings['sub-title'];
 								
 									
-									if(array_key_exists("video_url",$portfolio_settings)):
-										$url = $portfolio_settings['video_url'];
-										echo "<a href='$url' target='_blank' data-gal='prettyPhoto[gallery]' class='zoom'><i class='icon-video'></i></a>";
-									elseif($full):
-										$url = $full[0];
-										echo "<a href='$url' data-gal='prettyPhoto[gallery]' class='zoom'><i class='icon-plus'></i></a>";
-									else:
-										echo "<a href='$dummy_image' data-gal='prettyPhoto[gallery]' class='zoom'><i class='icon-plus'></i></a>";
-									endif;
 									
-									if(array_key_exists("url",$portfolio_settings)):
-										$url = $portfolio_settings["url"];
-										echo "<a href='$url' class='link' target='_blank'> <i class='icon-link'> </i> </a>";
-									else:
-										echo "<a href='$permalink' class='link' target='_blank'> <i class='icon-link'> </i> </a>";
-									endif;
 									
 					echo '		</div>';
 			
