@@ -1494,13 +1494,12 @@ function get_portfolio_page_content($post_id){
 					
 					echo "<div class='portfolio four-column all-sort $sort'>";
 					echo '	<div class="portfolio-image">';
-					echo "		<a href='$permalink'>";
+					
 								if(has_post_thumbnail()):
 									the_post_thumbnail($image_type);
 								else:
 									echo "<img src='$dummy_image' alt='dummy image' />";
 								endif;
-					echo '		</a>';
 									
 					echo '		<div class="image-overlay">';
 									$full = wp_get_attachment_image_src(get_post_thumbnail_id($the_id), 'full', false);
@@ -1515,7 +1514,7 @@ function get_portfolio_page_content($post_id){
 			
 					echo '	</div>';
 					echo '	<div class="portfolio-title">';
-					echo "		<a href='$permalink' title='$the_title'>$the_title</a><h5>";
+					echo "		$the_title<h5>";
 						$portfolio_settings = get_post_meta($the_id,'_portfolio_settings',TRUE);
 									$portfolio_settings = is_array($portfolio_settings) ? $portfolio_settings  : array();
 									if(array_key_exists("client",$portfolio_settings)):
