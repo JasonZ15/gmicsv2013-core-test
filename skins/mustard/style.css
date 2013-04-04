@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+	/*----*****---- << Headings >> ----*****----*/
+	
+	#home .main-title { background:url(images/title-border.png) center bottom no-repeat; }
+
+	/*----*****---- << Sprite icons background >> ----*****----*/
+	
+	.rounded-icon span { background:url(images/home-icons.png) no-repeat; }	
+	
+	/*----*****---- << Text Elements >> ----*****----*/
+	
+	.content.dark-bg .hr { background:#3b2e13; }
+	.content.dark-bg .hr-border { border:4px double #3b2e13; }
+	
+	.content.dark-bg pre, .content.dark-bg code{ background-color:#3b2e13; }
+
+		/*----*****---- << Home >> ----*****----*/
+		
+		#home { background:#b58d39 url(images/home-mountain-bg.png) center bottom no-repeat; }
+		
+		.work-flow, #primary.content-full-width .work-flow { background:url(images/workflow-sep.png) 182px 60px no-repeat; }
+		
+		.rounded-icon span { border:5px solid #896820; }		
+		
+		/*----*****---- << Portfolio >> ----*****----*/
+		
+		.portfolio-image .image-overlay	{ background:url(images/portfolio-four-col.png) center center no-repeat; }
+		.portfolio.four-column.with-sidebar .image-overlay { background:url(images/portfolio-four-col-sidebar.png) center center no-repeat; }
+		.portfolio.three-column .image-overlay { background:url(images/portfolio-three-col.png) center center no-repeat; }
+		.portfolio.three-column.with-sidebar .image-overlay { background:url(images/portfolio-three-col-sidebar.png) center center no-repeat; }
+		
+	/*----*****---- << Main >> ----*****----*/
+	
+	.content.dark-bg { background:url(images/dark-bg.jpg) repeat; }
+	
+		/*----*****---- << About >> ----*****----*/
+		
+		.testimonial-wrapper .rounded-image span { border:5px solid #3b2e13; }
+	
+		.testimonial-content-wrapper { background:url(images/testimonial-arrow.png) left 30px no-repeat; }
+		.testimonial-content { background:#3b2e13 url(../../images/quote.png) 95% 85% no-repeat; border-bottom:2px solid #5f5646; }
+		
+		.testimonial-slider-arrows a { color:#3b2e13; }
+		
+		/*----*****---- << Blog >> ----*****----*/
+		
+		.blog-entry .entry-metadata { background:#3b2e13; }
+		
+		.slider-controls a.prev-posts, .slider-controls a.next-posts { color:#3b2e13; }
+		
+		.slider-controls #pager a { background:#3b2e13; }
+		
+		/*----*****---- << Portfolio >> ----*****----*/
+		
+		.portfolio-image .image-overlay a.zoom .icon-plus, .portfolio-image .image-overlay a.link .icon-link { color:#aa8036; }
+		
+		/*----*****---- << Contact >> ----*****----*/
+		
+		.dark-box { background:#3b2e13; }
+		
+		/*----*****---- << Footer >> ----*****----*/
+		
+		#footer { background:#211b0e; }
+		
+		#footer .widget.widget_recent_entries .entry-metadata { background:#302a1e; }		
+		#footer .hr { background:#302a1e; }
