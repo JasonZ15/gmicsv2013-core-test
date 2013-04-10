@@ -47,7 +47,7 @@ Text Domain: core
 	#home h5 a:hover {color: #e96666;}
 	#home .main-title { padding-bottom:30px; margin-bottom:60px; }
 	#home .main-title h2 {font-size:20px;margin-bottom:6px;}
-	#home .main-title {margin-top:8px;padding-bottom: 8px;margin-bottom:16px;}
+	#home .main-title {margin-top:8px;padding-bottom: 8px;margin-bottom:16px;float:none;}
 	
 	.sub-title { width:100%; padding-bottom:10px; margin-bottom:20px; margin-top:50px; float:left; clear:both; }
 		
@@ -369,8 +369,8 @@ Text Domain: core
 	#main-nav ul > li.current_page_item:hover > a { color:#ffffff; }
 	#main-nav ul > li:hover > a { color:#1461a2; }
 	#main-nav ul li#menu-item-960 { background-color: #4fc29f; }
-	#main-nav ul li#menu-item-960 a, #main-nav ul li#menu-item-671 a { color: #fff; }
-	#main-nav ul li#menu-item-671 {background-color: #1c879b;}
+	#main-nav ul li#menu-item-960 a, #main-nav ul li#menu-item-1471 a { color: #fff; }
+	#main-nav ul li#menu-item-1471 {background-color: #1c879b;}
 	
 	#main-nav ul li.hasSubmenu:hover span { display:none; }	
 	#main-nav ul ul { 
@@ -957,3 +957,90 @@ Text Domain: core
 		#bbar-wrapper { width:100%; float:left; margin:0px; padding:0px; text-align:center; text-shadow:none; }
 		#bbar-close, #bbar-open { position:absolute; right:10px; top:0px; cursor:pointer; }
 		#bbar-body > img { max-width:80%; }
+		
+	/*---------------------[twitter ticker slider]-------------------*/
+	#twitter-ticker.image_carousel {position: fixed; left: 500px;}
+	#twitter-ticker.image_carousel .tweet {float: left;}
+	
+	/*------------------------------------------------*/
+/*------------[Twitter Ticker]-----------*/
+/*------------------------------------------------*/
+h2.tut{
+	/* This is the "MY TWEETS" title */
+	color:white;
+	font-family:"Myriad Pro", Arial, Helvetica, sans-serif;
+	font-size:16px;
+	padding:12px 0 0 58px;
+	text-transform:uppercase;
+
+	/* The CSS3 text-shadow property */
+	text-shadow:2px 1px 6px #333;
+}
+
+#twitter-ticker{
+	/* Styling the ticker */
+	height:60px;
+	background: transparent url(images/twitter_03.png) 41px 4px no-repeat;
+	color:#666666;
+	display:none;
+	clear: left;
+	width: 700px;
+	padding:0;
+	background-color: transparent;
+-moz-box-shadow: none;
+-webkit-box-shadow: none;
+box-shadow: none;
+border-top: 0px solid white;
+}
+
+#tweet-container{
+	/* This is where the tweets are inserted */
+	height:230px;
+	width: 700px;
+}
+
+.tweet{
+	/* Affects the tweets */
+	padding:0px;
+	margin:0 8px 0 0;
+
+
+	width:586px;
+}
+#tweet-container .tweet a {color:#1A78C8;}
+.tweet .avatar,
+.tweet .user,
+.tweet .time{
+	float:left;
+}
+
+.tweet .time{
+	text-transform:uppercase;
+	font-size:10px;
+	color:#AAAAAA;
+	white-space:nowrap;
+}
+
+.tweet .avatar img{
+	width:38px;
+	height:38px;
+	border:2px solid #eeeeee;
+	margin:0 5px 5px 0; padding: 4px;
+}
+.tweet .user a {font-size: 12px; font-weight: normal; padding-right: 3px;margin-left:21px;}
+.tweet .txt{
+	/* Using the text container to clear the floats */
+	float: left;
+	width: 700px;
+	font-size: 11px; line-height: 14px;
+	padding-top: 2px;
+}
+.tweet .txt a {display: inline; float: none;}
+.tweet .user{
+	font-weight:bold;
+}
+#loading{
+	/* The loading gif animation */
+	margin:100px 95px;
+}
+#twitter-ticker .avatar {position: static; }

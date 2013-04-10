@@ -11,7 +11,34 @@
 	
 	<meta name="description" content="">
 	<meta name="author" content="">
+	
+    <meta property="og:title" content="<?php 
+    if ( is_home() ) {
+    mytheme_public_title();// This is a homepage
+} else {
+    the_title();// This is not a homepage
+}
     
+    ?>" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="<?php 
+	if ( is_home() ) {
+    echo home_url(); // This is a homepage
+} else {
+    the_permalink();// This is not a homepage
+}
+	 ?>" />
+	<meta property="og:image" content="<?php $image = wp_get_attachment_image_src ( get_post_thumbnail_id ( $post_id ), 'single-post-thumbnail' ); echo $image[0]; ?>" />
+	<meta property="og:site_name" content="<?php mytheme_public_title();?>" />
+	<meta property="og:description" content="<?php 
+	if ( is_home() ) {
+    echo get_post_meta(5, 'page-excerpt', true);// This is a homepage
+} else {
+    echo get_the_excerpt();// This is not a homepage
+}
+	 ?>" />
+	<meta property="fb:admins" content="670979947" />
+    <meta property="fb:app_id" content="241568569321866" />
     <!--[if lt IE 9]>
         <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -47,6 +74,7 @@
 		echo stripslashes($mytheme_integration['header-code']);
 	endif;?>
 <?php wp_head(); ?>
+<script src="<?php echo get_template_directory_uri(); ?>/framework/js/public/twitter-script.js" type="text/javascript"></script>
 </head>
 
 <body <?php body_class(); ?>>
@@ -88,6 +116,12 @@
 <!-- **Header** -->
 <header id="header">
 	    <div id="top-bar">
+	    	<div id="twitter-ticker" class="image_carousel">
+
+        
+        <div id="tweet-container"><img id="loading" src="img/loading.gif" width="16" height="11" alt="Loading.." /></div>
+        
+    </div>
 		<div class="holder">
 		<a href="http://www.thegmic.com" id="thegmic"></a>
 		<a href="http://gmic.greatwallclub.com" id="gmic-beijing"></a>
