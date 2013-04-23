@@ -344,7 +344,7 @@ Text Domain: core
 	/*----*****---- << Header >> ----*****----*/
 	#top-bar {background: #212121 url(images/bar-on-top.png) center 0 no-repeat; z-index: 999999999999;}
 	#top-bar .holder {width: 960px; margin: 0 auto; height: 29px; position: relative;}
-	#top-bar .holder a {position: absolute; top: 0;display: block; height: 29px;}
+	#top-bar .holder > a {position: absolute; top: 0;display: block; height: 29px;}
 	a#thegmic {width:34px; left:0;}
 	a#gmic-beijing {left: 46px; width:200px;}
 	a#gmic-sv {left: 250px; width:224px;}
@@ -959,7 +959,7 @@ Text Domain: core
 		#bbar-body > img { max-width:80%; }
 		
 	/*---------------------[twitter ticker slider]-------------------*/
-	#twitter-ticker.image_carousel {position: fixed; left: 500px;}
+	#twitter-ticker.image_carousel {position: absolute; left: 375px;z-index: 99999999999;}
 	#twitter-ticker.image_carousel .tweet {float: left;}
 	
 	/*------------------------------------------------*/
@@ -979,12 +979,12 @@ h2.tut{
 
 #twitter-ticker{
 	/* Styling the ticker */
-	height:60px;
-	background: transparent url(images/twitter_03.png) 41px 4px no-repeat;
+	height:27px; overflow: hidden;
+	background: transparent url(images/twitter_03.png) 0px 4px no-repeat;
 	color:#666666;
 	display:none;
 	clear: left;
-	width: 700px;
+	width: 480px;
 	padding:0;
 	background-color: transparent;
 -moz-box-shadow: none;
@@ -996,18 +996,18 @@ border-top: 0px solid white;
 #tweet-container{
 	/* This is where the tweets are inserted */
 	height:230px;
-	width: 700px;
+	width: 480px;
 }
 
 .tweet{
 	/* Affects the tweets */
 	padding:0px;
-	margin:0 8px 0 0;
+	margin:6px 0px 0 19px;
 
 
 	width:586px;
 }
-#tweet-container .tweet a {color:#1A78C8;}
+#tweet-container .tweet a {color:#36ccff;}
 .tweet .avatar,
 .tweet .user,
 .tweet .time{
@@ -1027,12 +1027,12 @@ border-top: 0px solid white;
 	border:2px solid #eeeeee;
 	margin:0 5px 5px 0; padding: 4px;
 }
-.tweet .user a {font-size: 12px; font-weight: normal; padding-right: 3px;margin-left:21px;}
+.tweet .user a {font-size: 11px; font-weight: normal; padding-right: 3px;margin-left:0px;}
 .tweet .txt{
 	/* Using the text container to clear the floats */
-	float: left;
+	color:#fff;
 	width: 700px;
-	font-size: 11px; line-height: 14px;
+	font-size: 11px; line-height: 18px;
 	padding-top: 2px;
 }
 .tweet .txt a {display: inline; float: none;}

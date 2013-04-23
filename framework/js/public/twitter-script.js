@@ -28,11 +28,8 @@ function TweetTick(ob)
 	jQuery(ob.results).each(function(el){
 	
 		var str = '	<div class="tweet">\
-					<div class="avatar"><a href="http://twitter.com/'+this.from_user+'" target="_blank"><img src="'+this.profile_image_url+'" alt="'+this.from_user+'" /></a></div>\
-					<div class="user"><a href="http://twitter.com/'+this.from_user+'" target="_blank">'+this.from_user+'</a></div>\
-					<span><span class="time">'+relativeTime(this.created_at)+'</span>\
-					<br /><span class="txt">'+formatTwitString(this.text)+'</span>\
-					</span>\
+					<div class="user"><a href="http://twitter.com/'+this.from_user+'" target="_blank">'+this.from_user+': </a></div>\
+					<span class="txt">'+formatTwitString(this.text)+'</span>\
 					</div>';
 		
 		container.append(str);

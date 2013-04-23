@@ -75,6 +75,7 @@
 	endif;?>
 <?php wp_head(); ?>
 <script src="<?php echo get_template_directory_uri(); ?>/framework/js/public/twitter-script.js" type="text/javascript"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/framework/js/public/amcharts.js" type="text/javascript"></script>
 </head>
 
 <body <?php body_class(); ?>>
@@ -116,13 +117,10 @@
 <!-- **Header** -->
 <header id="header">
 	    <div id="top-bar">
-	    	<div id="twitter-ticker" class="image_carousel">
-
-        
-        <div id="tweet-container"><img id="loading" src="img/loading.gif" width="16" height="11" alt="Loading.." /></div>
-        
-    </div>
 		<div class="holder">
+			<div id="twitter-ticker" class="image_carousel">        
+        		<div id="tweet-container"><img id="loading" src="img/loading.gif" width="16" height="11" alt="Loading.." /></div>
+        	</div>
 		<a href="http://www.thegmic.com" id="thegmic"></a>
 		<a href="http://gmic.greatwallclub.com" id="gmic-beijing"></a>
 		<a href="http://sv.thegmic.com" id="gmic-sv"></a>
