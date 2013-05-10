@@ -191,6 +191,8 @@ Text Domain: core
 	table{ border-collapse:separate; border-spacing:0; margin-bottom:20px; width:100%; clear:both; border:1px solid #dfdfdf; border-bottom:0px; border-right:0px;  }
 	th{ background:#ffc956; border-bottom:5px solid #dfdfdf; border-right:1px solid #e2b85f; padding:17px 15px; font-size:16px; line-height:normal; font-weight:bold; text-transform:uppercase; text-align:center; }
 	td{ border-right:1px solid #dfdfdf; border-bottom:1px solid #dfdfdf; background:#f7f7f7; font-size:14px; line-height:normal; text-align:left; padding:13px 15px; vertical-align: top;}
+		table.transparent  {border: none;}
+		.transparent td {background: transparent; border: none;}
 	.tabs-frame-content table {border:none;}
 	.tabs-frame-content table th {background:transparent; border: none;}
 	.tabs-frame-content td {background:transparent; border:none;}
@@ -345,22 +347,33 @@ Text Domain: core
 	#top-bar {background: #212121 url(images/bar-on-top.png) center 0 no-repeat; z-index: 999999999999;}
 	#top-bar .holder {width: 960px; margin: 0 auto; height: 29px; position: relative;}
 	#top-bar .holder > a {position: absolute; top: 0;display: block; height: 29px;}
-	a#thegmic {width:34px; left:0;}
-	a#gmic-beijing {left: 46px; width:200px;}
-	a#gmic-sv {left: 250px; width:224px;}
+	a#thegmic {width:34px; left:-72px;}
+	a#gmic-beijing {left: -28px; width:120px;}
+	a#gmic-sv {left: 98px; width:176px;}
 	a.chinese {right:0; width:48px;}
 	
 	#header { position:fixed; top:0; left:0; right:0; display:block; width:100%; margin:0px; padding:0px; z-index:9999; background:#252525; border-bottom:1px solid #171717; -moz-box-shadow:0px 2px 5px #000000; -webkit-box-shadow:0px 2px 5px #000000; box-shadow:0px 2px 5px #000000; }
-	#logo { float:left; margin:0px 0px 0px; padding:0px; }
+	#logo { float:left; margin:0px 0px 0px; padding:0px; width: 187px;}
 	#logo img { /*max-height:40px;*/ }
 	
-	#main-nav { float:right; margin:0px; padding:0px; overflow:visible; width:84%; }	
+	#main-nav { float:right; margin:0px; padding:0px; overflow:visible; width:78%; margin-top:2px;}	
+		#logo { float:left; margin:6px 0px 0px; padding:0px; }
+		#logo a {display:block; padding-left: 187px; width:0; overflow: hidden; background: transparent url(images/logo.png) 0 0 no-repeat;}
+		.large #logo {}
+		.large #logo a {height:57px;}
+		.small #logo {}
+		.small #logo a {height:57px;background-position: 0px -57px;}
+	#logo img {  }
+	
+	#main-nav { }	
+		.large #main-nav {}
+		.small #main-nav {}
 	#main-nav:before ul, #main-nav:after ul { content:""; display:table; }	
 	#main-nav:after ul { clear:both; }	
 	#main-nav ul { zoom:1; }	
 	#main-nav ul { float:right; margin:0px; padding:0px; }
 	#main-nav ul li { display:inline; float:left; margin:0px; padding:0px 2px 0px 0px; height:55px; background:url(images/menu-splitter.png) right repeat-y; position:relative; }
-	#main-nav ul li a { font-size:16px; line-height:58px; padding:0px 18px; margin:0px; float:left; text-transform:uppercase; color:#ffffff; }
+	#main-nav ul li a { font-size:16px; line-height:58px; padding:0px 10px; margin:0px; float:left; text-transform:uppercase; color:#ffffff; }
 	#main-nav ul li:last-child { background:none; }
 	#main-nav ul li span { transition: all .3s linear; -moz-transition: all .3s linear; -o-transition: all .3s linear; -webkit-transition: all .3s linear; width:0; height:0; border-left:6px solid transparent; border-right:6px solid transparent; position:absolute; left:0; right:0; text-align:center; bottom:0; margin:0 auto;  }
 	#main-nav ul li:hover span { border-bottom:6px solid #1461a2; }
@@ -413,6 +426,7 @@ Text Domain: core
 	
 	.content.dark-bg { color:#f1ead7; }
 		.content.dark-bg .tabs-container, .content.dark-bg .tabs-container h5 { color:#3d3d3d; }
+			#why-gmic .tabs-frame-content {background: #fff url(framework/theme_options/images/pattern/pattern4.png) center top no-repeat;}
 		.content.dark-bg .tabs-container h5 {font-size: 16px;}
 	#primary { width:680px; margin:0px 40px 0px 0px; float:left; padding:0px; }
 	#primary.content-full-width { width:100%; margin:0px; }
@@ -425,7 +439,7 @@ Text Domain: core
 		#home { margin:-25px 0px 0px; color:#f7f0e4; }
 		#home .pattern { width:100%; float:left; min-height:540px; padding:50px 0px 120px; background:url(images/crosslines-pattern.png) repeat !important; }
 		
-		.shadow { background:url(images/shadow.png) repeat-x; position:absolute; width:100%; height:109px; bottom:0px; }
+		.shadow { background:url(images/shadow.png) repeat-x; position:absolute; width:100%; height:101px; bottom:0px; }
 		
 		.work-flow { width:100%; margin:0px; padding:0px 57px 0px 0px; overflow:visible; text-align:center; }
 		.column.last .work-flow { background:none; padding-right:0px; }	
@@ -921,7 +935,7 @@ Text Domain: core
 		#footer input[type="text"], #footer input[type="email"], #footer input[type="password"], #footer textarea { width:90%; }
 	
 		.social-icons ul { float:left; margin:0px; padding:0px; }
-		.social-icons li { position:relative; overflow:hidden; width:21px; height:21px; padding:0px; clear:none; margin:4px 3px 5px; display:inline-block; *display:inline; zoom:1;  }
+		.social-icons li { position:relative; overflow:hidden; width:21px; height:21px; padding:0px; clear:none; margin:4px 1px 5px 0px; display:inline-block; *display:inline; zoom:1;  }
 		.social-icons li img { top:0px; left:0px; position:absolute; transition: opacity .5s ease-in-out; -moz-transition: opacity .5s ease-in-out; -webkit-transition: opacity .5s ease-in-out; } 
 		.social-icons li img:first-child { opacity:0; filter:alpha(opacity=0); z-index:100; transition: opacity .5s ease-in-out; -moz-transition: opacity .5s ease-in-out; -webkit-transition: opacity .5s ease-in-out; }
 		.social-icons li:hover img:first-child { opacity:1; filter:alpha(opacity=100); transition: opacity .5s ease-in-out; -moz-transition: opacity .5s ease-in-out; -webkit-transition: opacity .5s ease-in-out; }
@@ -959,7 +973,7 @@ Text Domain: core
 		#bbar-body > img { max-width:80%; }
 		
 	/*---------------------[twitter ticker slider]-------------------*/
-	#twitter-ticker.image_carousel {position: absolute; left: 375px;z-index: 99999999999;}
+	#twitter-ticker.image_carousel {position: absolute; left: 277px;z-index: 99999999999;}
 	#twitter-ticker.image_carousel .tweet {float: left;}
 	
 	/*------------------------------------------------*/
@@ -984,7 +998,7 @@ h2.tut{
 	color:#666666;
 	display:none;
 	clear: left;
-	width: 480px;
+	width: 638px;
 	padding:0;
 	background-color: transparent;
 -moz-box-shadow: none;
@@ -996,7 +1010,7 @@ border-top: 0px solid white;
 #tweet-container{
 	/* This is where the tweets are inserted */
 	height:230px;
-	width: 480px;
+	width: 638px;
 }
 
 .tweet{

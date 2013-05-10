@@ -115,7 +115,7 @@
 <?php endif;?>
 <!-- BBar End -->
 <!-- **Header** -->
-<header id="header">
+<header id="header" class="large">
 	    <div id="top-bar">
 		<div class="holder">
 			<div id="twitter-ticker" class="image_carousel">        
@@ -125,7 +125,7 @@
 		<a href="http://gmic.greatwallclub.com" id="gmic-beijing"></a>
 		<a href="http://sv.thegmic.com" id="gmic-sv"></a>
 		<?php if(isset($mytheme_general['show-sociables']) && !empty($mytheme_options['social'])): ?>
-                        <ul class="social-icons" style="float: right; margin-bottom: 0px;">
+                        <ul class="social-icons" style="float: right; margin-bottom: 0px; margin-right: -44px;">
                          <?php foreach($mytheme_options['social'] as $social):
                                   $link = $social['link'];
                                   $custom_image = isset($social['custom-image']) && !empty($social['custom-image']) ? "<img src='{$custom_image}' />": '';
@@ -152,7 +152,7 @@
 		<?php if($mytheme_general['logo']):
                 $url = !empty($mytheme_general['logo-url']) ? $mytheme_general['logo-url'] : IAMD_BASE_URL."/images/logo.png";?>
                 <a href="<?php echo home_url();?>" title="<?php bloginfo('title');?>">
-                    <img src="<?php echo $url;?>" alt="<?php bloginfo('title');?>" title="<?php bloginfo('title'); ?>" />
+                    SILICON VALLEY'S LARGEST MOBILE CONFERENCE & EXPO
                 </a>
         <?php else:?>    
             <h1><?php bloginfo('title');?></h1>

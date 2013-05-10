@@ -2,7 +2,14 @@ audiojs.events.ready(function() {
   "use strict";
   audiojs.createAll();
 });
-
+jQuery(document).on("scroll",function($){
+			if(jQuery(document).scrollTop()>50){ 
+				jQuery("header").removeClass("large").addClass("small");
+				}
+			else{
+				jQuery("header").removeClass("small").addClass("large");
+				}
+			});
 jQuery(document).ready(function($){
   
   "use strict";
