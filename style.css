@@ -39,6 +39,7 @@ Text Domain: core
 	
 	.main-title h1, .main-title h2, .sub-title h1, .sub-title h2 { margin-bottom:0px; font-size:50px; }	
 	.main-title { text-align:center; width:100%; padding-bottom:10px; margin-bottom:40px; margin-top:50px; float:left; clear:both; background:url(images/title-border.png) center bottom no-repeat; }
+	.page-id-2100 .main-title {display: none;}
 	.main-title h6, .sub-title h6 { font-style:italic; }
 	.content.dark-bg .main-title { background:url(images/title-border-light.png) center bottom no-repeat; }
 	
@@ -191,6 +192,7 @@ Text Domain: core
 	table{ border-collapse:separate; border-spacing:0; margin-bottom:20px; width:100%; clear:both; border:1px solid #dfdfdf; border-bottom:0px; border-right:0px;  }
 	th{ background:#ffc956; border-bottom:5px solid #dfdfdf; border-right:1px solid #e2b85f; padding:17px 15px; font-size:16px; line-height:normal; font-weight:bold; text-transform:uppercase; text-align:center; }
 	td{ border-right:1px solid #dfdfdf; border-bottom:1px solid #dfdfdf; background:#f7f7f7; font-size:14px; line-height:normal; text-align:left; padding:13px 15px; vertical-align: top;}
+		.dark-bg table td {background: transparent;}
 		table.transparent  {border: none;}
 		.transparent td {background: transparent; border: none;}
 	.tabs-frame-content table {border:none;}
@@ -342,6 +344,7 @@ Text Domain: core
 	/*----*****---- << Container >> ----*****----*/
 
 	.container { width:940px; margin:0 auto; }
+	.page-id-2100 .container {width: 980px;}
 	
 	/*----*****---- << Header >> ----*****----*/
 	#top-bar {background: #212121 url(images/bar-on-top.png) center 0 no-repeat; z-index: 999999999999;}
@@ -382,8 +385,9 @@ Text Domain: core
 	#main-nav ul > li.current_page_item:hover > a { color:#ffffff; }
 	#main-nav ul > li:hover > a { color:#1461a2; }
 	#main-nav ul li#menu-item-960 { background-color: #4fc29f; }
-	#main-nav ul li#menu-item-960 a, #main-nav ul li#menu-item-1471 a { color: #fff; }
+	#main-nav ul li#menu-item-960 a, #main-nav ul li#menu-item-1471 a, #main-nav ul li#menu-item-1805 a { color: #fff; }
 	#main-nav ul li#menu-item-1471 {background-color: #1c879b;}
+	#main-nav ul li#menu-item-1805 {background-color: #317dbe;}
 	
 	#main-nav ul li.hasSubmenu:hover span { display:none; }	
 	#main-nav ul ul { 
@@ -943,6 +947,60 @@ Text Domain: core
 		
 		#footer .widget .fancy-list li, #footer .widget .fancy-list li:hover { font-size:13px; color:#F1EAD7; padding-bottom:6px; }		
 		#footer .widget ul.fancy-list { width:95%; }
+		
+		/*----*****---- << Footer sponsors bar >> ----*****----*/
+		#sponsor-bar.image_carousel {
+			padding: 4px 0px 0px 0px; 
+			background: #e5e5e5 url("http://sv.thegmic.com/2012/wp-content/themes/gmicsv/images/control_panel/body-bg17.png") repeat 0 0; 
+			position: fixed; 
+			bottom: -20px; 
+			left:0;
+			width: 100%;
+			z-index: 99999999;
+			-moz-box-shadow:    inset 0px 0px 8px #4c4c4c;
+		    -webkit-box-shadow: inset 0px 0px 8px #4c4c4c;
+		    box-shadow:         inset 0px 0px 8px #4c4c4c;
+		    border-top: 1px solid #fff;
+		}
+		#sponsor-bar.image_carousel img {
+			border: 1px solid #c7c7c7;
+			background-color: white;
+			padding: 9px;
+			margin: 7px;
+			display: block;
+			float: left;
+		}
+		#sponsor-bar.image_carousel ul li {float: left; list-style: none;}
+		#sponsor-bar.image_carousel .pagination {
+			text-align: center;
+			padding: 0;
+			padding-top: 4px;
+			margin: 0 auto;
+			overflow: visible;
+		}
+		#sponsor-bar.image_carousel .pagination a {
+			background: url("images/nav-dot.png") 2px 0 no-repeat transparent;
+			width: 15px;
+			height: 15px;
+			padding: 0 2px 0 2px;
+			display: inline-block; float: none;
+		}
+		#sponsor-bar.image_carousel .pagination a.selected {
+			background-position: -15px 0px;
+			cursor: default;
+		}
+		#sponsor-bar.image_carousel .pagination a span {
+			display: none;
+		}
+		#sponsor-bar.image_carousel .image_carousel a {
+			display: block;
+			float: left;
+		}
+		#sponsor-bar.image_carousel .clearfix {
+			float: none;
+			clear: both;
+		}
+		img.title-tab {position: fixed; bottom: 66px; z-index: 99999999999999999; padding-left: 16px; left: 20px;}
 		
 		/*----*****---- << Layer Slider >> ----*****----*/
 		.ls-bottom-nav-wrapper a, .ls-inner a, .ls-nav-prev, .ls-nav-next { -webkit-transition:none; -moz-transition:none; -o-transition:none; -ms-transition:none; transition:none; }
