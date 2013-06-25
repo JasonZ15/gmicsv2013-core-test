@@ -74,7 +74,9 @@
 		echo stripslashes($mytheme_integration['header-code']);
 	endif;?>
 <?php wp_head(); ?>
-<script src="<?php echo get_template_directory_uri(); ?>/framework/js/public/twitter-script.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://sv.thegmic.com/demo/jScrollPane/jquery.mousewheel.js"></script>
+    <script type="text/javascript" src="http://sv.thegmic.com/demo/jScrollPane/jScrollPane.min.js"></script>
+    <script type="text/javascript" src="http://sv.thegmic.com/demo/script.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/framework/js/public/amcharts.js" type="text/javascript"></script>
 </head>
 
@@ -118,9 +120,9 @@
 <header id="header" class="large">
 	    <div id="top-bar">
 		<div class="holder">
-			<div id="twitter-ticker" class="image_carousel">        
-        		<div id="tweet-container"><img id="loading" src="img/loading.gif" width="16" height="11" alt="Loading.." /></div>
-        	</div>
+        	<div id="twitter-ticker" class="image_carousel">
+	            <div id="tweet-container"><img id="loading" src="http://sv.thegmic.com/demo/img/loading.gif" width="16" height="11" alt="Loading.." /></div>
+	        </div>
 		<a href="http://www.thegmic.com" id="thegmic"></a>
 		<a href="http://gmic.greatwallclub.com" id="gmic-beijing"></a>
 		<a href="http://sv.thegmic.com" id="gmic-sv"></a>

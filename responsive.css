@@ -84,6 +84,9 @@
 		
 	}
 	
+ @media only screen and (max-width:959px) {
+ 	#sponsor-bar {display: none;}
+ }
 
 	/*----*****---- << Mobile (Landscape) >> ----*****----*/	
 	
