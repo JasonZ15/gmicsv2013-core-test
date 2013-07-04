@@ -85,7 +85,12 @@
 	}
 	
  @media only screen and (max-width:959px) {
- 	#sponsor-bar {display: none;}
+ 	#sponsor-bar, .title-tab {display: none;}
+ 	#main-nav ul li a {
+		padding: 0px 6px;
+		font-size: 12px;
+	}
+	#main-nav {width:74%;}
  }
 
 	/*----*****---- << Mobile (Landscape) >> ----*****----*/	
@@ -112,7 +117,7 @@
 		td { padding:10px 7px; }		
 		
 		/*----*****---- << Header >> ----*****----*/
-		#header { height:105px; padding-bottom:15px; }
+		#header { height:105px; padding-bottom:45px; }
 		#logo { width:100%; text-align:center; margin-bottom:5px; }	
 		#logo img { max-height:35px; }
 		#main-nav { clear:both; width:100%; }
@@ -125,7 +130,7 @@
 		.content .container { margin-top:90px; }
 		.content .pattern { padding-top:0px; }
 		#home.content .container { margin-top:0px; }
-		#home.content { padding-top:100px; }
+		#home.content { padding-top:130px; }
 		.work-flow { background:none; padding-right:0px; }
 		
 		/*----*****---- << About >> ----*****----*/		
@@ -216,7 +221,7 @@
 		td { padding:10px 2px; font-size:10px; }		
 		
 		/*----*****---- << Header >> ----*****----*/
-		#header { height:105px; padding-bottom:15px; }
+		#header { height:105px; padding-bottom:45px; }
 		#logo { width:100%; text-align:center; margin-bottom:5px; }	
 		#logo img { max-height:35px; }
 		#main-nav { clear:both; width:100%; }
@@ -229,7 +234,7 @@
 		.content .container { margin-top:90px; }
 		.content .pattern { padding-top:0px; }
 		#home.content .container { margin-top:0px; }
-		#home.content { padding-top:100px; }
+		#home.content { padding-top:130px; }
 		.work-flow { background:none; padding-right:0px; }
 		
 		/*----*****---- << About >> ----*****----*/		

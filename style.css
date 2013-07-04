@@ -39,6 +39,7 @@ Text Domain: core
 	
 	.main-title h1, .main-title h2, .sub-title h1, .sub-title h2 { margin-bottom:0px; font-size:50px; }	
 	.main-title { text-align:center; width:100%; padding-bottom:10px; margin-bottom:40px; margin-top:50px; float:left; clear:both; background:url(images/title-border.png) center bottom no-repeat; }
+		#appattack .main-title, #gstartup .main-title, #global-game-stars .main-title {display:none;}
 	.page-id-2100 .main-title {display: none;}
 	.main-title h6, .sub-title h6 { font-style:italic; }
 	.content.dark-bg .main-title { background:url(images/title-border-light.png) center bottom no-repeat; }
@@ -276,6 +277,7 @@ Text Domain: core
 	
 	.one-half iframe, .one-third iframe, .one-fourth iframe, .three-fourth iframe, .two-third iframe, iframe { max-width:100%; }
 	embed, iframe, object, video { max-width:100%; }
+	.fb-like iframe {max-width:none;}
 	
 	/*----*****---- << Widgets >> ----*****----*/
 	
@@ -752,6 +754,9 @@ Text Domain: core
 
 		#sorting-container { float:left; clear:both; margin:0px 0px 20px; padding:0px; width:100%; text-align:center; border-top:1px solid #676562; border-bottom:1px solid #676562; }
 		#sorting-container a { font-size:14px; line-height:39px; font-weight:bold; text-transform:uppercase; color:#3d3d3d; padding:0px 15px; margin-left:-2px; display:inline-block; *display:inline; zoom:1; }
+			.dark-bg #sorting-container a {color:#dfddd5;}
+			.dark-bg #sorting-container a:hover {color:#3d3d3d;}
+			.dark-bg #sorting-container a.active-sort {color:#3d3d3d;}
 		#sorting-container a:hover, #sorting-container a.active-sort { background:#dfddd5; }
 		
 		.portfolio-container { width:100%; float:left; clear:both; }
@@ -1034,7 +1039,7 @@ Text Domain: core
 	#twitter-ticker.image_carousel {position: absolute; left: 277px;z-index: 99999999999;}
 	#twitter-ticker.image_carousel .tweet {float: left;}
 	
-	/*------------------------------------------------*/
+/*------------------------------------------------*/
 /*------------[Twitter Ticker]-----------*/
 /*------------------------------------------------*/
 h2.tut{
@@ -1116,3 +1121,6 @@ border-top: 0px solid white;
 	margin:100px 95px;
 }
 #twitter-ticker .avatar {position: static; }
+/*------------------------------------------------*/
+/*------------[facebook like button]-----------*/
+/*------------------------------------------------*/

@@ -161,4 +161,5 @@
         </div><!-- **Container end** -->
             
     </div>
+    <div class="shadow"> </div>
 </article><!-- .content -->

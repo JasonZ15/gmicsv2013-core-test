@@ -34,6 +34,15 @@
 					width: '100%',
 					scroll: 2,
 				});
+				
+				//	temp twitter ticker
+				jQuery("#tweet-container").carouFredSel({		
+					width: '100%',
+					auto : {pauseDuration   : 6000},
+					scroll      : {duration : 200},	
+					items   : 1,
+					responsive: true,
+				});
 			});
 </script>
 <img class="title-tab" src="<?php echo get_template_directory_uri(); ?>/images/sponsors-tab.png" />

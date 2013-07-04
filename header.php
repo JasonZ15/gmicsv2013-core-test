@@ -74,13 +74,21 @@
 		echo stripslashes($mytheme_integration['header-code']);
 	endif;?>
 <?php wp_head(); ?>
-    <script type="text/javascript" src="http://sv.thegmic.com/demo/jScrollPane/jquery.mousewheel.js"></script>
+    <!--<script type="text/javascript" src="http://sv.thegmic.com/demo/jScrollPane/jquery.mousewheel.js"></script>
     <script type="text/javascript" src="http://sv.thegmic.com/demo/jScrollPane/jScrollPane.min.js"></script>
-    <script type="text/javascript" src="http://sv.thegmic.com/demo/script.js"></script>
+    <script type="text/javascript" src="http://sv.thegmic.com/demo/script.js"></script>-->
 <script src="<?php echo get_template_directory_uri(); ?>/framework/js/public/amcharts.js" type="text/javascript"></script>
 </head>
 
 <body <?php body_class(); ?>>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 <?php if(!isset($mytheme_general['disable-picker'])):	mytheme_color_picker();	endif;	?>
 
@@ -120,9 +128,30 @@
 <header id="header" class="large">
 	    <div id="top-bar">
 		<div class="holder">
-        	<div id="twitter-ticker" class="image_carousel">
-	            <div id="tweet-container"><img id="loading" src="http://sv.thegmic.com/demo/img/loading.gif" width="16" height="11" alt="Loading.." /></div>
-	        </div>
+        	<div id="twitter-ticker" class="image_carousel" style="display: block;">
+  
+    <div id="tweet-container">
+      
+    <div class="tweet">
+        <div class="user"><a href="http://twitter.com/theGMIC" target="_blank">GMIC: </a></div>
+        <span class="txt">Are you an incubator/accelerator/community?  <a href="http://sv.thegmic.com/incubator-accelerator-community-program/">Join our special program</a></span> </div>
+   
+    
+    <div class="tweet">
+        <div class="user"><a href="http://twitter.com/theGMIC" target="_blank">GMIC: </a></div>
+        <span class="txt">Got a mobile startup? <a href="http://sv.thegmic.com/events/g-startup-competition/">Apply to the G-Startup competition</a></span> </div>
+    
+    <div class="tweet">
+        <div class="user"><a href="http://twitter.com/theGMIC" target="_blank">GMIC: </a></div>
+        <span class="txt">Compete in the <a href="http://sv.thegmic.com/events/appattack/">appAttack competition</a>, and win massive exposure</span> </div>
+
+	<div class="tweet">
+        <div class="user"><a href="http://twitter.com/theGMIC" target="_blank">GMIC: </a></div>
+        <span class="txt">Are you a Global Game Star? <a href="http://sv.thegmic.com/global-game-stars/">Join the competition</a></span> </div>
+
+    </div>
+  
+</div>
 		<a href="http://www.thegmic.com" id="thegmic"></a>
 		<a href="http://gmic.greatwallclub.com" id="gmic-beijing"></a>
 		<a href="http://sv.thegmic.com" id="gmic-sv"></a>
