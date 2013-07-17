@@ -45,6 +45,7 @@
     
     	<div class="hr-invisible"> </div>
         <div class="portfolio-details">
+        <div class="fb-like" data-href="<?php the_permalink(); ?>" data-send="false" data-layout="button_count" data-width="240" data-show-faces="false"></div>
 	        <h5><?php _e('Project Details',IAMD_TEXT_DOMAIN);?></h5>
             <ul>
             	<li class="date">

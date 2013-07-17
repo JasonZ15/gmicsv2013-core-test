@@ -759,8 +759,8 @@ Text Domain: core
 			.dark-bg #sorting-container a.active-sort {color:#3d3d3d;}
 		#sorting-container a:hover, #sorting-container a.active-sort { background:#dfddd5; }
 		
-		.portfolio-container { width:100%; float:left; clear:both; }
-		.portfolio { float:left; text-align:center; overflow:hidden; }
+		.portfolio-container { width:100%; float:left; clear:both;}
+		.portfolio { float:left; text-align:center; }
 		
 		.portfolio.four-column { margin:20px 22px; width:190px; }
 		.portfolio.four-column .portfolio-image { width:178px; height:178px; border-radius:178px; }
@@ -787,7 +787,7 @@ Text Domain: core
 		.portfolio.three-column.with-sidebar .portfolio-image:hover .image-overlay a.zoom { left:47px; margin-top:5px; }
 		.portfolio.three-column.with-sidebar .portfolio-image:hover .image-overlay a.link { right:48px; margin-top:5px; }
 		
-		.portfolio .portfolio-image  { border:6px solid #c4c1ae; overflow:hidden; }		
+		.portfolio .portfolio-image  { border:6px solid #c4c1ae; overflow:hidden;}		
 		.portfolio .portfolio-image img { -webkit-transition:all 300ms linear; -moz-transition:all 300ms linear; -o-transition:all 300ms linear; -ms-transition:all 300ms linear; transition:all 300ms linear; }
 		.portfolio .portfolio-title { float:left; clear:both; margin:10px 0px 0px; padding:0px; text-align:center; width:100%; }
 		.portfolio .portfolio-title a { font-weight:bold; font-size:14px; color:#3d3d3d; }
@@ -799,13 +799,13 @@ Text Domain: core
 		
 		.portfolio-image .image-overlay a { display:inline-block; margin:0px 4px; position:absolute; top:5px; width:27px; height:27px; background:#f5f2e9; border-radius:27px; -webkit-transition:all 200ms linear; -moz-transition:all 200ms linear; -o-transition:all 200ms linear; -ms-transition:all 200ms linear; transition:all 200ms linear; }
 		.portfolio-image .image-overlay a.zoom .icon-plus, .portfolio-image .image-overlay a.link .icon-link { margin-top:7px; }
-		.portfolio-image .image-overlay a.zoom { left:-27px; }
-		.portfolio-image .image-overlay a.link { right:-27px; }
+		.portfolio-image .image-overlay a.zoom { left:-27px; display: none;}
+		.portfolio-image .image-overlay a.link { right:58px; top:40px;}
 		
 		.portfolio-image .image-overlay a:hover { background:#ffffff; }	
 		.portfolio-image:hover .image-overlay { opacity:1; filter:alpha(opacity=100); color:#fff;}
 		.portfolio-image:hover .image-overlay a.zoom { left:40px; }
-		.portfolio-image:hover .image-overlay a.link { right:40px; }
+		.portfolio-image:hover .image-overlay a.link { right:58px; top:6px;}
 		
 		.portfolio-image .image-overlay a:hover { background:#252525; }
 		.portfolio-image .image-overlay a.zoom:hover .icon-plus, .portfolio-image .image-overlay a.link:hover .icon-link { color:#ffffff; }
@@ -1124,3 +1124,4 @@ border-top: 0px solid white;
 /*------------------------------------------------*/
 /*------------[facebook like button]-----------*/
 /*------------------------------------------------*/
+

@@ -86,7 +86,7 @@
         <article id="portfolio" class="content <?php echo $bg;?>" <?php echo $custom_style.$anchor_colors;?>>
     		<div class="pattern" <?php echo $pattern;?>>
         		<div class="container">
-            		<?php get_portfolio_page_content($post->ID,false);?>
+            		<?php get_voting_portfolio_page_content($post->ID,false);?>
             	</div>
         	</div>
             <?php if($mytheme_shadow): echo '<div class="shadow"> </div>'; endif;?>

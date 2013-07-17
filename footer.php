@@ -43,6 +43,8 @@
 					items   : 1,
 					responsive: true,
 				});
+				
+				jQuery('.portfolio-container').css('overflow', '');
 			});
 </script>
 <img class="title-tab" src="<?php echo get_template_directory_uri(); ?>/images/sponsors-tab.png" />
