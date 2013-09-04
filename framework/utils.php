@@ -377,7 +377,8 @@ function mytheme_categorylist($id,$selected='',$class="mytheme_select") {
 		foreach ($cats as $cat):
 			$id = esc_attr($cat->term_id);
 			$title = esc_html($cat->name);
-			$output .= "<option value='{$id}' ".selected($selected,$id,false).">{$title}</option>";
+			$slug = esc_html($cat->slug);
+			$output .= "<option value='{$id}' ".selected($selected,$id,false).">{$slug}</option>";
 		endforeach;
 	$output .= "</select>\n";
 	return $output;
@@ -399,7 +400,8 @@ function mytheme_portfolio_categorylist($id,$selected='',$class="mytheme_select"
 		foreach ($cats as $cat):
 			$id = esc_attr($cat->term_id);
 			$title = esc_html($cat->name);
-			$output .= "<option value='{$id}' ".selected($selected,$id,false).">{$title}</option>";
+			$slug = esc_html($cat->slug);
+			$output .= "<option value='{$id}' ".selected($selected,$id,false).">{$slug}</option>";
 		endforeach;
 	$output .= "</select>\n";
 	return $output;
@@ -1428,8 +1430,6 @@ function get_portfolio_page_content($post_id){
 	echo '</hgroup>';
 	echo '<div class="hr-invisible"> </div>';
 	
-	the_content();
-	
 	wp_link_pages( array('before'=>'<div class="page-link">', 'after'=>'</div>', 'link_before'=>'<span>', 'link_after'=>'</span>',
 						 'next_or_number'=>'number', 'pagelink' => '%', 'echo' => 1 ) );
 						 
@@ -1466,7 +1466,7 @@ function get_portfolio_page_content($post_id){
 		
 			if(is_array($categories) && !empty($categories)):
 				$terms = $categories;
-				$args = array(	'orderby' 			=> 'ID'
+				$args = array(	'orderby' 			=> 'title'
 								,'order' 			=> 'ASC'
 								,'paged' 			=> get_query_var( 'paged' )
 								,'posts_per_page' 	=> $tpl_portfolio_settings['post-per-page']
@@ -1492,7 +1492,7 @@ function get_portfolio_page_content($post_id){
 						endforeach;
 					endif;
 					
-					echo "<div class='portfolio four-column all-sort $sort'>";
+					echo "<div class='portfolio four-column all-sort $sort $the_title'>";
 					echo '	<div class="portfolio-image">';
 					
 								if(has_post_thumbnail()):
@@ -1523,8 +1523,13 @@ function get_portfolio_page_content($post_id){
 					echo '	</h5></div>';
 					echo '</div>';
 				endwhile;
-			endif;											
+			endif;	
+	echo '<div class="hr-invisible">';
+	$portfolio_page_content = get_post_field('post_content', $post_id);
+	echo $portfolio_page_content;	
+	echo '</div>';									
 	echo '</div><!-- **Portfolio Container** --> ';
+	
 	
 	echo "<!-- **Pagination** -->";
 	echo "<div class='pagination' data-page-id='$post_id' >";
@@ -1544,14 +1549,14 @@ function get_voting_portfolio_page_content($post_id){
 	$tpl_portfolio_settings = get_post_meta($post_id,'_tpl_portfolio_settings',TRUE);
 	$portfolio_page_content = get_post_field('post_content', $post_id);
 	$tpl_portfolio_settings = is_array($tpl_portfolio_settings) ? $tpl_portfolio_settings  : array();
-
+	echo '<div class="hr-invisible"> </div>';
 	echo '<hgroup class="main-title">';
 	echo '<h2>'.get_the_title().'</h2>';
 	if(isset($tpl_portfolio_settings['sub-title']) && !empty($tpl_portfolio_settings['sub-title'])):
 	echo '<h6>'.$tpl_portfolio_settings['sub-title'].'</h6>';
 	endif;
 	echo '</hgroup>';
-	echo '<div class="hr-invisible"> </div>';
+	echo '<div style="text-align:center;padding-bottom:8px;"><a href="http://sv.thegmic.com/compete-gmic/voting/" class="button  small   mauve">Vote for All</a><a href="http://sv.thegmic.com/appattack/voting/" class="button  small   blue">Vote for appAttack</a><a href="http://sv.thegmic.com/gstartup/voting/" class="button  small   green">Vote for G-Startup</a><a href="http://sv.thegmic.com/global-game-stars/voting/" class="button  small   orange">Vote for Global Game Stars</a></div>';
 	echo $portfolio_page_content;
 
 	wp_link_pages( array('before'=>'<div class="page-link">', 'after'=>'</div>', 'link_before'=>'<span>', 'link_after'=>'</span>',
@@ -1618,10 +1623,10 @@ function get_voting_portfolio_page_content($post_id){
 					endif;
 			
 					echo "<div style='z-index:";
-					echo $i+100;
+					echo $i+2000;
 					echo "' class='portfolio four-column all-sort $sort'>";
 					echo '	<div class="portfolio-image">';
-					echo "		<a href='$permalink' title='$the_title'>";
+					echo "		<a href='$permalink' target='_blank' title='$the_title'>";
 								if(has_post_thumbnail()):
 									the_post_thumbnail($image_type);
 								else:

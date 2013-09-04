@@ -85,7 +85,7 @@
 	}
 	
  @media only screen and (max-width:959px) {
- 	#sponsor-bar, .title-tab {display: none;}
+ 	#sponsor-bar, .title-tab, #top-bar {display: none;}
  	#main-nav ul li a {
 		padding: 0px 6px;
 		font-size: 12px;
@@ -117,7 +117,7 @@
 		td { padding:10px 7px; }		
 		
 		/*----*****---- << Header >> ----*****----*/
-		#header { height:105px; padding-bottom:45px; }
+		#header { height:105px; padding-bottom:20px; }
 		#logo { width:100%; text-align:center; margin-bottom:5px; }	
 		#logo img { max-height:35px; }
 		#main-nav { clear:both; width:100%; }

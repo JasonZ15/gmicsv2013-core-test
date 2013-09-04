@@ -34,7 +34,7 @@
     </div>
     <?php endif; ?>
     
-    <div class="column one-third last">
+    <div class="">
 		<?php the_content();?>
         <?php wp_link_pages( array(	'before'=>'<div class="page-link">',	'after'=>'</div>',
                             'link_before'=>'<span>',				'link_after'=>'</span>',
@@ -42,24 +42,13 @@
                             'echo' => 1 ) );?>
         
         <?php edit_post_link( __( 'Edit',IAMD_TEXT_DOMAIN)); ?>
-    
-    	<div class="hr-invisible"> </div>
-        <div class="portfolio-details">
+      <div class="portfolio-details" style="float:left;">
         <div class="fb-like" data-href="<?php the_permalink(); ?>" data-send="false" data-layout="button_count" data-width="240" data-show-faces="false"></div>
-	        <h5><?php _e('Project Details',IAMD_TEXT_DOMAIN);?></h5>
-            <ul>
-            	<li class="date">
-                	<i class="icon-calendar"> </i>
-                    <p><?php echo get_the_date('d');?></p>
-                    <span> <?php echo get_the_date('M');?> <br /> <?php echo get_the_date('Y');?> </span>
-                </li>
-                
+	         <ul>
                 <?php if(array_key_exists("client",$portfolio_settings)): ?>
                 <li class="author"> <i class="icon-user"> </i> <?php echo $portfolio_settings['client'];?> </li>
                 <?php endif; ?>
-                
-                <li class="tags"> <i class="icon-tag"> </i><?php echo get_the_term_list($post->ID, 'portfolio_entries', '', ', ','');?></li>
-                
+                  
                 <?php if(array_key_exists("url",$portfolio_settings)): $url = $portfolio_settings['url'];?>
                 <li class="website-link"> <i class="icon-link"> </i> <a href="<?php echo $url;?>" title="" target="_blank"><?php echo $url;?> </a> </li>
                 <?php endif; ?>

@@ -83,12 +83,12 @@
 			$pattern =  'style="background-image: url('.$url.')"';
 		endif;?>
         
-        <article id="portfolio" class="content <?php echo $bg;?>" <?php echo $custom_style.$anchor_colors;?>>
+        <article id="portfolio" class="content <?php echo $bg;?> competition-page" <?php echo $custom_style.$anchor_colors;?>>
     		<div class="pattern" <?php echo $pattern;?>>
         		<div class="container">
             		<?php get_voting_portfolio_page_content($post->ID,false);?>
             	</div>
         	</div>
-            <?php if($mytheme_shadow): echo '<div class="shadow"> </div>'; endif;?>
+            <div class="shadow"> </div>
         </article>
 <?php get_footer();?>

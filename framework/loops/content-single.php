@@ -91,7 +91,7 @@
         	
             <div class="hr-invisible"> </div>
             
-            <hgroup class="sub-title">
+            <hgroup class="main-title">
             	<h1><a href="<?php the_permalink(); ?>" title="<?php printf( esc_attr__( '%s'), the_title_attribute( 'echo=0' ) ); ?>"><?php the_title(); ?></a></h1>
                 <?php if(isset($tpl_default_settings['sub-title']) && !empty($tpl_default_settings['sub-title'])):
 					  	echo "<h6>".$tpl_default_settings['sub-title']."</h6>";
@@ -102,7 +102,7 @@
                 <!-- **Blog Single Entry** -->
                 <article class="blog-single-entry">
                 
-                	<!-- **Single Entry** -->
+                	<!-- **Single Entry** 
                 	<div class="single-entry">
 					<?php if(has_post_thumbnail()): ?>
                     	<div class="entry-thumb">
@@ -143,7 +143,7 @@
                         <?php mytheme_social_bookmarks(); ?>
                         </div>
                         
-                    </div><!-- **Single Entry** -->
+                    </div> **Single Entry** -->
                     
                     <div class="post-content">
                         <?php echo the_content();?>
@@ -186,5 +186,5 @@
         </div><!-- **Container End** -->
         
     </div><!-- **Pattern End** -->
-    
+    <div class="shadow"> </div>
 </article><!-- **Blog Single Content - End** -->

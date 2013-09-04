@@ -15,5 +15,6 @@
         </div><!-- **Container - End** -->
         
     </div>
+<div class="shadow"> </div>
 </article><!-- **Blog Single Content - End** -->
 <?php get_footer();?>
