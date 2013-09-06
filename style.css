@@ -430,7 +430,7 @@ Text Domain: core
 	.content { float:left; width:100%; position:relative; }
 	.content .pattern { float:left; width:100%; clear:both; margin:0px; padding:50px 0px 90px; background:url(framework/theme_options/images/pattern/pattern1.png) center top repeat-x; }
 	
-	.content.dark-bg { color:#f1ead7; }
+	.content.dark-bg, .content.dark-bg a, .content.dark-bg .portfolio-title a { color:#f1ead7; }
 		.content.dark-bg .tabs-container, .content.dark-bg .tabs-container h5 { color:#3d3d3d; }
 			#why-gmic .tabs-frame-content {background: #fff url(framework/theme_options/images/pattern/pattern4.png) center top no-repeat;}
 		.content.dark-bg .tabs-container h5 {font-size: 16px;}

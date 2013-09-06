@@ -66,11 +66,7 @@ jQuery(document).ready(function($){
   if( jQuery("#main-nav > ul.menu > li.current_page_item").hasClass('external') || jQuery("#main-nav > ul.menu > li").hasClass('current-page-ancestor')  ){
   
   }else if( $link.length === 0 && $index === -1 && $location !== (mytheme_urls.url+"/") ){
-    jQuery($not_external).each(function(){
-      var $href = jQuery(this).attr("href");
-          $href = mytheme_urls.url+$href;
-      jQuery(this).attr("href",$href);
-    });
+
   }else{
     
     if($index > -1){

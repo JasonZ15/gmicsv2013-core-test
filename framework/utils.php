@@ -1687,6 +1687,150 @@ function get_voting_portfolio_page_content($post_id){
 # GET VOTING PORTFOLIO PAGE CONTENT END
 ############################################
 
+############################################
+# GET PARTNER PORTFOLIO PAGE CONTENT 
+#	- USED IN SINGLE PAGE TEMPLATE
+############################################
+function get_partner_portfolio_page_content($post_id){
+	$tpl_portfolio_settings = get_post_meta($post_id,'_tpl_portfolio_settings',TRUE);
+	$portfolio_page_content = get_post_field('post_content', $post_id);
+	$tpl_portfolio_settings = is_array($tpl_portfolio_settings) ? $tpl_portfolio_settings  : array();
+	echo '<div class="hr-invisible"> </div>';
+	echo '<hgroup class="main-title">';
+	echo '<h2>'.get_the_title().'</h2>';
+	if(isset($tpl_portfolio_settings['sub-title']) && !empty($tpl_portfolio_settings['sub-title'])):
+	echo '<h6>'.$tpl_portfolio_settings['sub-title'].'</h6>';
+	endif;
+	echo '</hgroup>';
+	
+	echo $portfolio_page_content;
+
+	wp_link_pages( array('before'=>'<div class="page-link">', 'after'=>'</div>', 'link_before'=>'<span>', 'link_after'=>'</span>',
+						 'next_or_number'=>'number', 'pagelink' => '%', 'echo' => 1 ) );
+
+	edit_post_link( __( ' Edit ',IAMD_TEXT_DOMAIN ) );
+
+	#Portfolio Content begins here facebook voting
+	$post_layout	= "";
+	$categories		= "";
+	$image_type		= "portfolio-four-column";
+	$dummy_image	= IAMD_BASE_URL."images/dummy-images/{$image_type}.jpg";
+
+	$categories = isset($tpl_portfolio_settings['cats']) ? array_filter($tpl_portfolio_settings['cats']) : $categories;
+	if(empty($categories)):
+		$categories = get_categories('taxonomy=portfolio_entries&hide_empty=1');
+	else:
+		$args = array('taxonomy'=>'portfolio_entries','hide_empty'=>1,'include'=>$categories);
+		$categories = get_categories($args);
+	endif;
+
+	if( array_key_exists("filter",$tpl_portfolio_settings) && (!empty($categories)) ):
+		echo '<!-- **Sorting Container** -->';
+		echo '<div id="sorting-container">';
+		echo '	<a href="#" class="active-sort" title="" data-filter=".all-sort">'.__('All',IAMD_TEXT_DOMAIN).'</a>';
+			 foreach( $categories as $category ):
+			 echo "<a href='#' data-filter='.{$category->category_nicename}-sort'>{$category->cat_name}</a>";	
+			 endforeach;
+		echo '</div><!-- **Sorting Container** -->';
+	endif;
+
+	echo '<!-- **Portfolio Container** -->';
+	echo '<div class="portfolio-container gallery">';
+			$args = array();
+			$categories = array_filter($tpl_portfolio_settings['cats']);
+
+			if(is_array($categories) && !empty($categories)):
+				$terms = $categories;
+				$args = array(	'orderby' 			=> 'ID'
+								,'order' 			=> 'ASC'
+								,'paged' 			=> get_query_var( 'paged' )
+								,'posts_per_page' 	=> $tpl_portfolio_settings['post-per-page']
+								,'tax_query'		=> array( array( 'taxonomy'=>'portfolio_entries', 'field'=>'id', 'operator'=>'IN', 'terms'=>$terms  ) ) );
+			else:	
+				$args = array(	'paged' => get_query_var( 'paged' ) ,'posts_per_page' => $tpl_portfolio_settings['post-per-page'] ,'post_type' => 'portfolio');
+			endif;
+
+			query_posts($args);
+			if( have_posts() ):
+				while( have_posts() ):
+					the_post();
+					$the_id = get_the_ID();
+					$the_title = get_the_title();
+					$permalink = get_permalink();
+
+					#Find sort class by using the portfolio_entries
+					$sort = "";
+					$item_categories = get_the_terms( $the_id, 'portfolio_entries' );
+					if(is_object($item_categories) || is_array($item_categories)):
+						foreach ($item_categories as $category):
+							$sort .= $category->slug.'-sort ';
+							$i = $i-1;
+						endforeach;
+					endif;
+			
+					echo "<div style='z-index:";
+					echo $i+2000;
+					echo "' class='portfolio four-column all-sort $sort'>";
+					echo '	<div class="portfolio-image">';
+					echo "		<a href='$url' target='_blank' title='$the_title'>";
+								if(has_post_thumbnail()):
+									the_post_thumbnail($image_type);
+								else:
+									echo "<img src='$dummy_image' alt='dummy image' />";
+								endif;
+					echo '		</a>';
+
+					echo '		<div class="image-overlay">';
+									$full = wp_get_attachment_image_src(get_post_thumbnail_id($the_id), 'full', false);
+									$portfolio_settings = get_post_meta($the_id,'_portfolio_settings',TRUE);
+									$portfolio_settings = is_array($portfolio_settings) ? $portfolio_settings  : array();
+					
+
+
+									if(array_key_exists("video_url",$portfolio_settings)):
+										$url = $portfolio_settings['video_url'];
+										echo "<a href='$url' target='_blank' data-gal='prettyPhoto[gallery]' class='zoom'><i class='icon-video'></i></a>";
+									elseif($full):
+										$url = $full[0];
+										echo "<a href='$permalink' class='zoom'><i class='icon-plus'></i></a>";
+									else:
+										echo "<a href='$permalink' class='zoom'><i class='icon-plus'></i></a>";
+									endif;
+
+									if(array_key_exists("url",$portfolio_settings)):
+										$url = $portfolio_settings["url"];
+										echo "<a href='$url' class='link' target='_blank'> <i class='icon-link'> </i> </a>";
+									else:
+										echo "<a href='$url' class='link' target='_blank'> <i class='icon-link'> </i> </a>";
+									endif;
+
+					echo '		</div>';
+
+					echo '	</div>';
+					echo '	<div class="portfolio-title">';
+					echo "		<a href='$url' title='$the_title'>$the_title</a><h5>";
+					$portfolio_settings = get_post_meta($the_id,'_portfolio_settings',TRUE);
+									$portfolio_settings = is_array($portfolio_settings) ? $portfolio_settings  : array();
+									if(array_key_exists("client",$portfolio_settings)):
+										echo $portfolio_settings['client'];
+								endif;
+					echo "</h5>";
+					echo "</div>";
+					echo '</div>';
+				endwhile;
+			endif;											
+	echo '</div><!-- **Portfolio Container** --> ';
+
+	echo "<!-- **Pagination** -->";
+	echo "<div class='pagination' data-page-id='$post_id' >";
+			echo my_pagination('ajax-load');
+	echo '</div><!-- **Pagination - End** -->';
+	#Portfolio Content ends here for Facebook Voting
+	 }
+
+# GET PARNTER PORTFOLIO PAGE CONTENT END
+############################################
+
 
 ############################################
 # GET BLOG PAGE CONTENT 
