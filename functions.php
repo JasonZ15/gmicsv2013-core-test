@@ -54,4 +54,11 @@ function my_pricing_table_item($attrs, $content=null, $shortcodename =""){
 	return $out;
 }
 
+# Get the user role 
+# $edit_author = get_role('author');
+# Contributor can upload media 
+# $edit_author->add_cap('edit_published_pages');
+# $edit_author->add_cap('edit_pages');
+# $edit_author->add_cap('edit_published_posts');
+# $edit_author->remove_cap('delete_published_posts');
 ?>

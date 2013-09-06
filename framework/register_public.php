@@ -914,8 +914,8 @@ class my_menu_walker extends Walker_Nav_Menu {
 			$item->url = substr($item->url,strrpos($item->url,"/")+1,strlen($item->url));
 			
 			$mytheme_menu[$item->object_id] = $item->url;
-			#$item->url = get_home_url()."#".$item->url;
-			$item->url = "#".$item->url;
+			$item->url = get_home_url()."#".$item->url;
+			#$item->url = "#".$item->url;
 		endif;
 		
         $class_names = join( ' ', apply_filters( 'nav_menu_css_class', array_filter( $classes ), $item ) );

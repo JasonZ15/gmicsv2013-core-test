@@ -64,11 +64,7 @@ jQuery(document).ready(function($){
       $not_external  = jQuery("#main-nav > ul.menu > li > a:not('.external')");
   
   if( jQuery("#main-nav > ul.menu > li.current_page_item").hasClass('external') || jQuery("#main-nav > ul.menu > li").hasClass('current-page-ancestor')  ){
-    jQuery($not_external).each(function(){
-      var $href = jQuery(this).attr("href");
-          $href = mytheme_urls.url+$href;
-      jQuery(this).attr("href",$href);
-    });
+  
   }else if( $link.length === 0 && $index === -1 && $location !== (mytheme_urls.url+"/") ){
     jQuery($not_external).each(function(){
       var $href = jQuery(this).attr("href");
@@ -84,7 +80,7 @@ jQuery(document).ready(function($){
       jQuery("#main-nav > ul.menu li:first").addClass('current_page_item');
     }
     
-    jQuery('#main-nav ul').onePageNav({
+    jQuery('.home #main-nav ul').onePageNav({
       currentClass: 'current_page_item',
       filter: ':not(.external)'
     });
