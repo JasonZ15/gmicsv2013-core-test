@@ -85,10 +85,10 @@
 	}
 	
  @media only screen and (max-width:959px) {
- 	#sponsor-bar, .title-tab, #top-bar {display: none;}
+ 	#sponsor-bar, .title-tab, #top-bar, #olark_tab {display: none;}
  	#main-nav ul li a {
-		padding: 0px 6px;
-		font-size: 12px;
+		padding: 0px 5px;
+		font-size: 11px;
 	}
 	#main-nav {width:74%;}
  }

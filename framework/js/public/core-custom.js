@@ -73,7 +73,6 @@ jQuery(document).ready(function($){
       var $l = $location.substring($location.length,$index);
       jQuery("#main-nav > ul.menu").find("a[href='"+$l+"']").parent("li").addClass('current_page_item');
     }else{
-      jQuery("#main-nav > ul.menu li:first").addClass('current_page_item');
     }
     
     jQuery('.home #main-nav ul').onePageNav({

@@ -1,8 +1,10 @@
 <?php get_header();?>
 <?php global $mytheme_shadow;
+	  $mytheme_menu = array( "5" => "home", "394" => "speakers", "1836" => "compete-gmic", "940" => "program", "941" => "events", "8" => "media", "1097" => "sponsor", "554" => "register-form");
 	  if(!empty($mytheme_menu)):
 	  foreach( $mytheme_menu as $key => $value ): ?>
           <?php echo "<!-- ** $value Content** -->";
+          	
 		  
 		  		$current_page_template = get_post_meta($key, '_wp_page_template', true );
 				$mytheme_shadow = false;

@@ -1772,7 +1772,7 @@ function get_partner_portfolio_page_content($post_id){
 					echo $i+2000;
 					echo "' class='portfolio four-column all-sort $sort'>";
 					echo '	<div class="portfolio-image">';
-					echo "		<a href='$url' target='_blank' title='$the_title'>";
+					echo "		<a href='#' target='_blank' title='$the_title' onclick='return false;' style='cursor:default;'>";
 								if(has_post_thumbnail()):
 									the_post_thumbnail($image_type);
 								else:
