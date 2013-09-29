@@ -1131,4 +1131,6 @@ border-top: 0px solid white;
 /*------------------------------------------------*/
 .sub-menu.gstartup a {margin:0 5px; border-bottom: 1px dotted #318454; color: #318454}
 .sub-menu.gstartup a:hover {color:#666;border-bottom: 0px;}
-
+#the-vip-experience .testimonial-content p {color:#f1ead7;}
+.home .work-flow p span {display:none;}
+.home .work-flow h5 a {font-size: 17px;}
