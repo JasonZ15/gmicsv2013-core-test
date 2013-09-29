@@ -67,6 +67,9 @@
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.inmobi.com/" target="_blank"><img src="/wp-content/uploads/sponsors/inmobi.png" height="57" style="border: 1px solid #547bed; padding: 0;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://developer.samsung.com/" target="_blank"><img src="http://sv.thegmic.com/wp-content/uploads/sponsors/samsungdev.png" height="57" style="border: 1px solid #547bed; padding: 0;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.vodafone.com/" target="_blank"><img src="http://sv.thegmic.com/wp-content/uploads/sponsors/Vodafone.jpg" height="57" style="border: 1px solid #547bed; padding: 0;"></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="
+http://software.intel.com/android/" target="_blank"><img src="http://sv.thegmic.com/wp-content/uploads/sponsors/intel.png" height="57" style="border: 1px solid #547bed; padding: 0;"></a></li>
+	  
 	  
 	  
 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/platinum-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>
@@ -79,9 +82,13 @@
 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/gold-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.mobpartner.com/" target="_blank"><img src="/wp-content/uploads/sponsors/mobpartner.png" height="57" style="border: 1px solid #eba706; padding: 0;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.appannie.com/" target="_blank"><img src="/wp-content/uploads/sponsors/appannie.png" height="57" style="border: 1px solid #eba706; padding: 0;"></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.fiksu.com/" target="_blank"><img src="/wp-content/uploads/sponsors/fiksu.png" height="57" style="border: 1px solid #eba706; padding: 0;"></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.baidu.com/" target="_blank"><img src="/wp-content/uploads/sponsors/baidu.jpg" height="57" style="border: 1px solid #eba706; padding: 0;"></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.magstonelaw.com/" target="_blank"><img src="/wp-content/uploads/sponsors/magstone.jpg" height="57" style="border: 1px solid #eba706; padding: 0;"></a></li>
 	  
 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/silver-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://nativex.com/" target="_blank"><img src="/wp-content/uploads/sponsors/nativex.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://plugandplaytechcenter.com/" target="_blank"><img src="/wp-content/uploads/sponsors/plugandplay.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://appsfire.com/" target="_blank"><img src="/wp-content/uploads/sponsors/appsfire.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="https://www.nexmo.com/" target="_blank"><img src="/wp-content/uploads/sponsors/nextmo.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.WQMobile.com/" target="_blank"><img src="/wp-content/uploads/sponsors/wqmobile.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
@@ -89,6 +96,8 @@
 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/bronze-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="https://www.paypal.com/home/" target="_blank"><img src="/wp-content/uploads/sponsors/paypal.png" height="57" style="border: 1px solid #AC673D; padding: 0px;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="https://www.np.com/" target="_blank"><img src="/wp-content/uploads/sponsors/np.jpg" height="57" style="border: 1px solid #AC673D; padding: 0px;"></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.pwc.com/" target="_blank"><img src="/wp-content/uploads/sponsors/pwc.jpg" height="57" style="border: 1px solid #AC673D; padding: 0px;"></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.qualcomm.com/" target="_blank"><img src="/wp-content/uploads/sponsors/qualcomm.jpg" height="57" style="border: 1px solid #AC673D; padding: 0px;"></a></li>
 	  
 	  
 	
