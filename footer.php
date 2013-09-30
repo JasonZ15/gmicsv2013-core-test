@@ -46,13 +46,14 @@
 				
 				jQuery('.portfolio-container').css('overflow', '');
 				jQuery('#agenda .buy-now a').remove();
--				
--				jQuery(".home .work-flow a").click(function() {
--  			
--					jQuery('html, body').animate({ scrollTop: jQuery("#rev_slider_1_1_wrapper").offset().top}, 'slow');
--					jQuery(this).parent().next().children().fadeIn();
--  					return false;
--				});
+				
+				jQuery(".home .work-flow a").click(function() {
+			
+					jQuery('html, body').animate({ scrollTop: jQuery("#rev_slider_1_1_wrapper").offset().top}, 'slow');
+					jQuery(this).parent().next().children().fadeIn();
+  					return false;
+				});
+
 			});
 </script>
 <img class="title-tab" src="<?php echo get_template_directory_uri(); ?>/images/sponsors-tab.png" />
