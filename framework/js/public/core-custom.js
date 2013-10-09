@@ -264,4 +264,8 @@ jQuery(document).ready(function($){
     e.preventDefault();
   });
   /*Buddha Bar End*/
+ 
+  jQuery('#register .buy-now a').remove();
+  jQuery('#sched-iframe').css( "clear", "both" );
+ 
 });

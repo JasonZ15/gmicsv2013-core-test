@@ -386,6 +386,7 @@ Text Domain: core
 	#main-nav ul > li.current_page_item:hover > a { color:#ffffff; }
 	#main-nav ul > li:hover > a { color:#1461a2; }
 	#main-nav ul li#menu-item-960 { background-color: #4fc29f; }
+	#main-nav ul li#menu-item-5989 {background-color: #4fc29f;}
 	#main-nav ul li#menu-item-960 a, #main-nav ul li#menu-item-2838 a, #main-nav ul li#menu-item-1805 a { color: #fff; }
 	#main-nav ul li#menu-item-2838 {background-color: #1c879b;}
 	#main-nav ul li#menu-item-1805 {background-color: #317dbe;}
@@ -1134,3 +1135,6 @@ border-top: 0px solid white;
 #the-vip-experience .testimonial-content p {color:#f1ead7;}
 .home .work-flow p span {display:none;}
 .home .work-flow h5 a {font-size: 17px;}
+table.transparent {background-color:transparent; border: 0px;}
+table.transparent td {background-color:transparent; border: 0px; padding:0px;}
+#blog-content .column.one-half.last {width: 420px;padding-left: 30px;}

@@ -78,6 +78,8 @@
     <script type="text/javascript" src="http://sv.thegmic.com/demo/jScrollPane/jScrollPane.min.js"></script>
     <script type="text/javascript" src="http://sv.thegmic.com/demo/script.js"></script>-->
 <script src="<?php echo get_template_directory_uri(); ?>/framework/js/public/amcharts.js" type="text/javascript"></script>
+<link href="<?php echo get_template_directory_uri(); ?>/jcountdown/jcountdown.css" rel="stylesheet" type="text/css">
+<script src="<?php echo get_template_directory_uri(); ?>/jcountdown/jquery.jcountdown.min.js"></script> 
 </head>
 
 <body <?php body_class(); ?>>

@@ -1494,27 +1494,30 @@ function get_portfolio_page_content($post_id){
 					
 					echo "<div class='portfolio four-column all-sort $sort $the_title'>";
 					echo '	<div class="portfolio-image">';
-					
+					$full = wp_get_attachment_image_src(get_post_thumbnail_id($the_id), 'full', false);
+									$portfolio_settings = get_post_meta($the_id,'_portfolio_settings',TRUE);
+									$portfolio_settings = is_array($portfolio_settings) ? $portfolio_settings  : array();
+									$url = $portfolio_settings["url"];
+									
+					echo "		<a href='$url' title='$the_title' target='_blank'>";
 								if(has_post_thumbnail()):
 									the_post_thumbnail($image_type);
 								else:
 									echo "<img src='$dummy_image' alt='dummy image' />";
 								endif;
+					echo '		</a>';
 									
 					echo '		<div class="image-overlay">';
-									$full = wp_get_attachment_image_src(get_post_thumbnail_id($the_id), 'full', false);
-									$portfolio_settings = get_post_meta($the_id,'_portfolio_settings',TRUE);
-									$portfolio_settings = is_array($portfolio_settings) ? $portfolio_settings  : array();
 									echo $portfolio_settings['sub-title'];
-								
 									
+										
 									
 									
 					echo '		</div>';
 			
 					echo '	</div>';
 					echo '	<div class="portfolio-title">';
-					echo "		$the_title<h5>";
+					echo "		<a href='$url' title='$the_title' target='_blank'>$the_title</a><h5>";
 						$portfolio_settings = get_post_meta($the_id,'_portfolio_settings',TRUE);
 									$portfolio_settings = is_array($portfolio_settings) ? $portfolio_settings  : array();
 									if(array_key_exists("client",$portfolio_settings)):
