@@ -107,6 +107,7 @@ http://software.intel.com/android/" target="_blank"><img src="http://sv.thegmic.
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.pwc.com/" target="_blank"><img src="/wp-content/uploads/sponsors/pwc.jpg" height="57" style="border: 1px solid #AC673D; padding: 0px;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.qualcomm.com/" target="_blank"><img src="/wp-content/uploads/sponsors/qualcomm.jpg" height="57" style="border: 1px solid #AC673D; padding: 0px;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.applifier.com/" target="_blank"><img src="/wp-content/uploads/sponsors/applifier.png" height="57" style="border: 1px solid #AC673D; padding: 0px;"></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://about.tagged.com/" target="_blank"><img src="/wp-content/uploads/sponsors/tagged.png" height="57" style="border: 1px solid #AC673D; padding: 0px;"></a></li>
 	  
 	
 	</ul>
