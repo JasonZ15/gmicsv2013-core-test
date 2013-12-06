@@ -1,6 +1,6 @@
 <?php get_header();?>
 <?php global $mytheme_shadow;
-	  $mytheme_menu = array( "5" => "home", "394" => "speakers", "1836" => "compete-gmic", "940" => "program", "941" => "events", "8" => "media", "1097" => "sponsor", "554" => "register-form");
+	  $mytheme_menu = array( "9628" => "home", "28" => "speakers", "9532" => "program", "9544" => "events", "9548" => "media-2", "9610" => "gmic-beijing-2014-register");
 	  if(!empty($mytheme_menu)):
 	  foreach( $mytheme_menu as $key => $value ): ?>
           <?php echo "<!-- ** $value Content** -->";
