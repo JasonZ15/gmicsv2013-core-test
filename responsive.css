@@ -10,9 +10,12 @@
     @media only screen and (min-width:768px) and (max-width:959px) {
 		
 		.container { width:748px; }
+		#blog-content .column.one-half.last {width:360px; padding:0;}
 		
 		/*----*****---- << Header >> ----*****----*/
 		#main-nav ul li a { padding:0px 10px; font-size:14px; }
+		
+	#main-nav ul li#menu-item-5989 a {padding: 0 8px 0 8px; font-size:14px;}
 		
 		/*----*****---- << Home >> ----*****----*/
 		.rounded-icon span { width:88px; height:88px; max-width:88px; max-height:88px; border-radius:88px; }		
@@ -91,6 +94,8 @@
 		font-size: 11px;
 	}
 	#main-nav {width:74%;}
+	.page-id-6862 #footer {display:none;}
+	.page-id-6862 .content .container {margin-top:0px;}
  }
 
 	/*----*****---- << Mobile (Landscape) >> ----*****----*/	
@@ -327,7 +332,7 @@
 		.mobile-menu { display:block; }
 		#main-nav ul { display:none; }
 		
-		.container { width:200px; }		
+		.container { }		
 		
 		/*----*****---- << Headings >> ----*****----*/
 		.main-title h1, .main-title h2, .sub-title h1, .sub-title h2 { font-size:26px; }	

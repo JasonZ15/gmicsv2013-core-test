@@ -11,32 +11,10 @@
 	
 	<meta name="description" content="">
 	<meta name="author" content="">
-	
-    <meta property="og:title" content="<?php 
-    if ( is_home() ) {
-    mytheme_public_title();// This is a homepage
-} else {
-    the_title();// This is not a homepage
-}
+	<script type="text/javascript">
+		window.qbaka || (function(a,c){a.__qbaka_eh=a.onerror;a.__qbaka_reports=[];a.onerror=function(){a.__qbaka_reports.push(arguments);if(a.__qbaka_eh)try{a.__qbaka_eh.apply(a,arguments)}catch(b){}};a.onerror.qbaka=1;a.qbaka={report:function(){a.__qbaka_reports.push([arguments, new Error()]);},customParams:{},set:function(a,b){qbaka.customParams[a]=b},exec:function(a){try{a()}catch(b){qbaka.reportException(b)}},reportException:function(){}};var b=c.createElement("script"),e=c.getElementsByTagName("script")[0],d=function(){e.parentNode.insertBefore(b,e)};b.type="text/javascript";b.async=!0;b.src="//cdn.qbaka.net/reporting.js";"[object Opera]"==a.opera?c.addEventListener("DOMContentLoaded",d):d();qbaka.key="c5b79fe685e95872747d18cee9039727"})(window,document);qbaka.options={autoStacktrace:1,trackEvents:1};
+	</script>
     
-    ?>" />
-	<meta property="og:type" content="article" />
-	<meta property="og:url" content="<?php 
-	if ( is_home() ) {
-    echo home_url(); // This is a homepage
-} else {
-    the_permalink();// This is not a homepage
-}
-	 ?>" />
-	<meta property="og:image" content="<?php $image = wp_get_attachment_image_src ( get_post_thumbnail_id ( $post_id ), 'single-post-thumbnail' ); echo $image[0]; ?>" />
-	<meta property="og:site_name" content="<?php mytheme_public_title();?>" />
-	<meta property="og:description" content="<?php 
-	if ( is_home() ) {
-    echo get_post_meta(5, 'page-excerpt', true);// This is a homepage
-} else {
-    echo get_the_excerpt();// This is not a homepage
-}
-	 ?>" />
 	<meta property="fb:admins" content="670979947" />
     <meta property="fb:app_id" content="241568569321866" />
     <!--[if lt IE 9]>
