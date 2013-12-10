@@ -114,21 +114,13 @@
       
     <div class="tweet">
         <div class="user"><a href="http://twitter.com/theGMIC" target="_blank">GMIC: </a></div>
-        <span class="txt">Are you an incubator/accelerator/community?  <a href="http://sv.thegmic.com/incubator-accelerator-community-program/">Join our special program</a></span> </div>
+        <span class="txt">Pony Ma, CEO of the $100 Billion Tencent to Speak at GMIC</span> <a href="http://blog.thegmic.com/2013/12/11/pony-ma-ceo-100-billion-tencent-speak-gmic/" target="_blank">...</a> </div>
    
     
     <div class="tweet">
         <div class="user"><a href="http://twitter.com/theGMIC" target="_blank">GMIC: </a></div>
-        <span class="txt">Got a mobile startup? <a href="http://sv.thegmic.com/events/g-startup-competition/">Apply to the G-Startup competition</a></span> </div>
+        <span class="txt">GMIC Beijing 2014 Registration Now Open</span> <a href="http://blog.thegmic.com/2013/12/11/gmic-beijing-2014-registration-open/9456?utm_source=rss&utm_medium=rss&utm_campaign=gmic-beijing-2014-registration-open" target="_blank">...</a></div>
     
-    <div class="tweet">
-        <div class="user"><a href="http://twitter.com/theGMIC" target="_blank">GMIC: </a></div>
-        <span class="txt">Compete in the <a href="http://sv.thegmic.com/events/appattack/">appAttack competition</a>, and win massive exposure</span> </div>
-
-	<div class="tweet">
-        <div class="user"><a href="http://twitter.com/theGMIC" target="_blank">GMIC: </a></div>
-        <span class="txt">Are you a Global Game Star? <a href="http://sv.thegmic.com/global-game-stars/">Join the competition</a></span> </div>
-
     </div>
   
 </div>

@@ -18,7 +18,7 @@
 
 		/*----*****---- << Home >> ----*****----*/
 		
-		#home { background:#1461a2 url(images/home-mountain-bg.png) center bottom no-repeat; }
+		#home { background:#333 url(images/home-mountain-bg.jpg) center bottom no-repeat; }
 		
 		.work-flow, #primary.content-full-width .work-flow { background:url(images/workflow-sep.png) 262px 53px no-repeat; }
 		

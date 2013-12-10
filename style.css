@@ -385,12 +385,13 @@ Text Domain: core
 	#main-nav ul li.current_page_item span { border-bottom:6px solid #ffffff; }	
 	#main-nav ul > li.current_page_item:hover > a { color:#ffffff; }
 	#main-nav ul > li:hover > a { color:#1461a2; }
-	#main-nav ul li#menu-item-960 { background-color: #4fc29f; }
-	#main-nav ul li#menu-item-5989 {background-color: #ffc956;}
-	#main-nav ul li#menu-item-5989 a {padding: 0 22px 0 22px; font-size:16px;color:#000;}
-	#main-nav ul li#menu-item-960 a, #main-nav ul li#menu-item-2838 a, #main-nav ul li#menu-item-1805 a { color: #fff; }
-	#main-nav ul li#menu-item-2838 {background-color: #1c879b;}
-	#main-nav ul li#menu-item-1805 {background-color: #317dbe;}
+	#main-nav ul li#menu-item-9667 { background-color: #4fc29f; }
+	#main-nav ul li#menu-item-9666 {background-color: #ffc956;}
+	#main-nav ul li#menu-item-9666 a {padding: 0 22px 0 22px; font-size:16px;color:#fff;}
+	#main-nav ul li#menu-item-9667 a, #main-nav ul li#menu-item-9668 a { color: #fff; }
+	#main-nav ul li#menu-item-9667 {background-color: #1c879b;}
+	#main-nav ul li#menu-item-9668 {background-color: #317dbe;}
+	#main-nav ul li#menu-item-9666 {background-color: #826fae;}
 	
 	#main-nav ul li.hasSubmenu:hover span { display:none; }	
 	#main-nav ul ul { 
@@ -430,7 +431,6 @@ Text Domain: core
 	#main { float:left; clear:both; width:100%; padding:0px; margin:0px; }
 	.content { float:left; width:100%; position:relative; }
 	.content .pattern { float:left; width:100%; clear:both; margin:0px; padding:50px 0px 90px; background:url(framework/theme_options/images/pattern/pattern1.png) center top repeat-x; }
-	
 	.content.dark-bg, .content.dark-bg .portfolio-title a { color:#f1ead7; }
 		.content.dark-bg .tabs-container, .content.dark-bg .tabs-container h5 { color:#3d3d3d; }
 			#why-gmic .tabs-frame-content {background: #fff url(framework/theme_options/images/pattern/pattern4.png) center top no-repeat;}
@@ -1145,3 +1145,11 @@ table.transparent td {background-color:transparent; border: 0px; padding:0px;}
 .page-id-6862 #guide .hr-invisible {display:none;}
 .page-id-6862 #guide .main-title {display:none;}
 .page-id-6665 .main-title {display:none;}
+
+#blog-content a {color:#9999ff;}
+#blog-content a:hover {color:#ccccff;}
+#blog-content span.source {display:none;}
+#blog-content span.date {color:#eaeaea;}
+
+#testimonial-1 hgroup, #testimonial-2 hgroup, #testimonial-3 hgroup {display:none;}
+

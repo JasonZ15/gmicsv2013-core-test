@@ -1458,9 +1458,11 @@ function get_portfolio_page_content($post_id){
 			 endforeach;
 		echo '</div><!-- **Sorting Container** -->';
 	endif;
-
+$portfolio_page_content = get_post_field('post_content', $post_id);
+	echo $portfolio_page_content;	
 	echo '<!-- **Portfolio Container** -->';
 	echo '<div class="portfolio-container gallery">';
+	
 			$args = array();
 			$categories = array_filter($tpl_portfolio_settings['cats']);
 		
@@ -1528,8 +1530,6 @@ function get_portfolio_page_content($post_id){
 				endwhile;
 			endif;	
 	echo '<div class="hr-invisible">';
-	$portfolio_page_content = get_post_field('post_content', $post_id);
-	echo $portfolio_page_content;	
 	echo '</div>';									
 	echo '</div><!-- **Portfolio Container** --> ';
 	
