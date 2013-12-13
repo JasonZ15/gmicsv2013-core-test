@@ -56,7 +56,6 @@
 
 			});
 </script>
-<img class="title-tab" src="<?php echo get_template_directory_uri(); ?>/images/sponsors-tab.png" />
 <div id="sponsor-bar" class="image_carousel">	
 	<ul id="foo3">
 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/top-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"> </li>

@@ -816,7 +816,7 @@ Text Domain: core
 		.portfolio-image .image-overlay a:hover { background:#252525; }
 		.portfolio-image .image-overlay a.zoom:hover .icon-plus, .portfolio-image .image-overlay a.link:hover .icon-link { color:#ffffff; }
 		
-		.portfolio-image:hover img { filter:blur(2px); -webkit-filter:blur(2px); -moz-filter:blur(2px); -o-filter:blur(2px); -ms-filter:blur(2px); filter:url(blur.svg#blur); filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='2'); }
+		/*.portfolio-image:hover img { filter:blur(2px); -webkit-filter:blur(2px); -moz-filter:blur(2px); -o-filter:blur(2px); -ms-filter:blur(2px); filter:url(blur.svg#blur); filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='2'); }*/
 		
 		.isotope-hidden { display:none !important; }
 		
@@ -1147,6 +1147,7 @@ table.transparent td {background-color:transparent; border: 0px; padding:0px;}
 .page-id-6665 .main-title {display:none;}
 
 #blog-content a {color:#9999ff;}
+#blog-content .title {padding-bottom:4px;}
 #blog-content a:hover {color:#ccccff;}
 #blog-content span.source {display:none;}
 #blog-content span.date {color:#eaeaea;}

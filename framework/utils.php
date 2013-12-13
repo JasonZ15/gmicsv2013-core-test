@@ -1501,7 +1501,7 @@ $portfolio_page_content = get_post_field('post_content', $post_id);
 									$portfolio_settings = is_array($portfolio_settings) ? $portfolio_settings  : array();
 									$url = $portfolio_settings["url"];
 									
-					echo "		<a href='$url' title='$the_title' target='_blank'>";
+					echo "		<a href='$url' title='$the_title' target='_blank' style='cursor: default;' onclick='return false;'>";
 								if(has_post_thumbnail()):
 									the_post_thumbnail($image_type);
 								else:
@@ -1519,7 +1519,7 @@ $portfolio_page_content = get_post_field('post_content', $post_id);
 			
 					echo '	</div>';
 					echo '	<div class="portfolio-title">';
-					echo "		<a href='$url' title='$the_title' target='_blank'>$the_title</a><h5>";
+					echo "		$the_title<h5>";
 						$portfolio_settings = get_post_meta($the_id,'_portfolio_settings',TRUE);
 									$portfolio_settings = is_array($portfolio_settings) ? $portfolio_settings  : array();
 									if(array_key_exists("client",$portfolio_settings)):
