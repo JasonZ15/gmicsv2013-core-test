@@ -56,6 +56,7 @@
 
 			});
 </script>
+<img class="title-tab" src="<?php echo get_template_directory_uri(); ?>/images/sponsors-tab.png" />
 <div id="sponsor-bar" class="image_carousel">	
 	<ul id="foo3">
 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/top-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"> </li>
@@ -67,8 +68,17 @@
        <li style="width: 161px; margin-right: 0px;"><a href="http://us.91.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/91.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li><!--/*这是91改好的*/-->
        <li style="width: 161px; margin-right: 0px;"><a href="http://www.xiaomi.com" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/xiaomi.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li><!--/*这是小米改好的*/-->
        <li style="width: 161px; margin-right: 0px;"><a href="http://www.inmobi.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/inmobi.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li><!--/*这是inmobi改好的*/-->
-       <li style="width: 161px; margin-right: 0px;"><a href="http://www.chukong-inc.com/en/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/chukong.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li><!--/*触控科技改好的*/-->
-
+       <li style="width: 166px; margin-right: 0px;"><a href="http://www.chukong-inc.com/en/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/chukong.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li><!--/*触控科技改好的*/-->
+ 	  
+ 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/previous-sponsors.jpg" width="97" height="59" style="padding:0; border: none;"> </li>
+       <li style="width: 139px; margin-right: 0px; "><a href="http://www.nokia.com" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/2013/12/nokia.jpg" height="57" style="border: 1px solid #fff; padding: 0px;" /></a></li> 
+	   <li style="width: 139px; margin-right: 0px;"><a href="http://www.qualcomm.com" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/2013/12/qualcomm.jpg" height="57" style="border: 1px solid #fff; padding: 0px;" /></a></li>
+       <li style="width: 139px; margin-right: 0px; "><a href="http://www.motorola.com" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/2013/12/motorola.jpg" height="57" style="border: 1px solid #fff; padding: 0px;" /></a></li> 
+	   <li style="width: 139px; margin-right: 0px;"><a href="http://www.microsoft.com" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/2013/12/microsoft.jpg" height="57" style="border: 1px solid #fff; padding: 0px;" /></a></li>
+       <li style="width: 139px; margin-right: 0px; "><a href="http://www.nvidia.com" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/2013/12/nvidia.jpg" height="57" style="border: 1px solid #fff; padding: 0px;" /></a></li> 
+	   <li style="width: 139px; margin-right: 0px;"><a href="http://www.google.com" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/2013/12/google.jpg" height="57" style="border: 1px solid #fff; padding: 0px;" /></a></li>
+      
+ 
    <!-- /*<li style="width: 161px; margin-right: 0px;"><a href="http://www.ucweb.com/index.html" target="_blank"><img src="http://sv.thegmic.com/wp-content/uploads/sponsors/ucweb.png" height="57" style="border: 1px solid #7b6596; padding: 0px;"></a></li>
 	  
 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/diamond-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>i
@@ -129,7 +139,7 @@ http://software.intel.com/android/" target="_blank"><img src="http://sv.thegmic.
 <style>
     div#olark_tab{
         position: fixed;
-        left: 0;
+        right: 0;
         bottom:77px;
         z-index:5000;
     }
@@ -148,7 +158,7 @@ http://software.intel.com/android/" target="_blank"><img src="http://sv.thegmic.
 
 <div id="olark_tab">
     <a href="javascript:void(0);" onclick="olark('api.box.expand')">
-        <img src="http://static.olark.com/images/livehelp-tab-icon.png" />
+        <img src="<?php echo get_template_directory_uri(); ?>/images/olark.png" />
     </a>
 </div>
 <!-- END OLARK TAB-->
