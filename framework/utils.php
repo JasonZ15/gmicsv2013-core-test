@@ -1428,7 +1428,6 @@ function get_portfolio_page_content($post_id){
 	echo '<h6>'.$tpl_portfolio_settings['sub-title'].'</h6>';
 	endif;
 	echo '</hgroup>';
-	echo '<div class="hr-invisible"> </div>';
 	
 	wp_link_pages( array('before'=>'<div class="page-link">', 'after'=>'</div>', 'link_before'=>'<span>', 'link_after'=>'</span>',
 						 'next_or_number'=>'number', 'pagelink' => '%', 'echo' => 1 ) );

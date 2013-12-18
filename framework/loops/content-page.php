@@ -118,7 +118,7 @@
 					  endif;?>
             </hgroup>
             
-            <div class="hr-invisible"> </div>
+            
             
             <section id="primary" class="<?php echo $page_layout;?>">
             

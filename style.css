@@ -1154,4 +1154,4 @@ table.transparent td {background-color:transparent; border: 0px; padding:0px;}
 
 #testimonial-1 hgroup, #testimonial-2 hgroup, #testimonial-3 hgroup {display:none;}
 
-#reasons-to-sponsor h3 {color:#826fae; padding-top: 22px;}
+#reasons-to-sponsor h3, #sponsor h3 {color:#826fae; padding-top: 22px;}
