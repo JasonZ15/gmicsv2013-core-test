@@ -385,13 +385,13 @@ Text Domain: core
 	#main-nav ul li.current_page_item span { border-bottom:6px solid #ffffff; }	
 	#main-nav ul > li.current_page_item:hover > a { color:#ffffff; }
 	#main-nav ul > li:hover > a { color:#1461a2; }
-	#main-nav ul li#menu-item-9667 { background-color: #4fc29f; }
-	#main-nav ul li#menu-item-9666 {background-color: #ffc956;}
-	#main-nav ul li#menu-item-9666 a {padding: 0 22px 0 22px; font-size:16px;color:#fff;}
-	#main-nav ul li#menu-item-9667 a, #main-nav ul li#menu-item-9668 a { color: #fff; }
-	#main-nav ul li#menu-item-9667 {background-color: #1c879b;}
-	#main-nav ul li#menu-item-9668 {background-color: #317dbe;}
-	#main-nav ul li#menu-item-9666 {background-color: #826fae;}
+	#main-nav ul li#menu-item-8178 { background-color: #4fc29f; }
+	#main-nav ul li#menu-item-8175 {background-color: #ffc956;}
+	#main-nav ul li#menu-item-8175 a {padding: 0 22px 0 22px; font-size:16px;color:#fff;}
+	#main-nav ul li#menu-item-8178 a, #main-nav ul li#menu-item-8177 a { color: #fff; }
+	#main-nav ul li#menu-item-8178 {background-color: #1c879b;}
+	#main-nav ul li#menu-item-8177 {background-color: #317dbe;}
+	#main-nav ul li#menu-item-8175 {background-color: #826fae;}
 	
 	#main-nav ul li.hasSubmenu:hover span { display:none; }	
 	#main-nav ul ul { 

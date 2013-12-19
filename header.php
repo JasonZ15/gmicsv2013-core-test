@@ -134,7 +134,7 @@
   
 </div>
 		<a href="http://www.thegmic.com" id="thegmic"></a>
-		<a href="http://gmic.greatwallclub.com" id="gmic-beijing"></a>
+		<a href="http://beijing.thegmic.com" id="gmic-beijing"></a>
 		<a href="http://sv.thegmic.com" id="gmic-sv"></a>
 		<?php if(isset($mytheme_general['show-sociables']) && !empty($mytheme_options['social'])): ?>
                         <ul class="social-icons" style="float: right; margin-bottom: 0px; margin-right: -44px;">
