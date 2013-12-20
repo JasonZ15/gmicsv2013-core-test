@@ -122,13 +122,13 @@
     <div id="tweet-container">
       
     <div class="tweet">
-        <div class="user"><a href="http://twitter.com/theGMIC" target="_blank">GMIC: </a></div>
-        <span class="txt">Pony Ma, CEO of the $100 Billion Tencent to Speak at GMIC</span> <a href="http://blog.thegmic.com/2013/12/11/pony-ma-ceo-100-billion-tencent-speak-gmic/" target="_blank">...</a> </div>
+        <div class="user"><a href="http://www.weibo.com/gmic" target="_blank">GMIC: </a></div>
+        <span class="txt">G20峰会旨在汇聚中外知名企业领袖, 共同探讨一年一度全球移动互联网热点话题</span><a href="http://www.weibo.com/1656614907/AdXhH8mov?mod=weibotime" target="_blank">...</a> </div>
    
     
     <div class="tweet">
-        <div class="user"><a href="http://twitter.com/theGMIC" target="_blank">GMIC: </a></div>
-        <span class="txt">GMIC Beijing 2014 Registration Now Open</span> <a href="http://blog.thegmic.com/2013/12/11/gmic-beijing-2014-registration-open/9456?utm_source=rss&utm_medium=rss&utm_campaign=gmic-beijing-2014-registration-open" target="_blank">...</a></div>
+        <div class="user"><a href="http://www.weibo.com/gmic" target="_blank">GMIC: </a></div>
+        <span class="txt">透过GMIC2013看趋势 230位演讲嘉宾观点大整合！</span><a href="http://www.weibo.com/1656614907/A9SBJ4boQ?mod=weibotime" target="_blank">...</a></div>
     
     </div>
   

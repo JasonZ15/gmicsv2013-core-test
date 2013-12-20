@@ -950,7 +950,7 @@ Text Domain: core
 		#footer input[type="text"], #footer input[type="email"], #footer input[type="password"], #footer textarea { width:90%; }
 	
 		.social-icons ul { float:left; margin:0px; padding:0px; }
-		.social-icons li { position:relative; overflow:hidden; width:21px; height:21px; padding:0px; clear:none; margin:4px 1px 5px 0px; display:inline-block; *display:inline; zoom:1;  }
+		.social-icons li { position:relative; overflow:hidden; width:21px; height:21px; padding:0px; clear:none; margin:4px 1px 0px 0px; display:inline-block; *display:inline; zoom:1;  }
 		.social-icons li img { top:0px; left:0px; position:absolute; transition: opacity .5s ease-in-out; -moz-transition: opacity .5s ease-in-out; -webkit-transition: opacity .5s ease-in-out; } 
 		.social-icons li img:first-child { opacity:0; filter:alpha(opacity=0); z-index:100; transition: opacity .5s ease-in-out; -moz-transition: opacity .5s ease-in-out; -webkit-transition: opacity .5s ease-in-out; }
 		.social-icons li:hover img:first-child { opacity:1; filter:alpha(opacity=100); transition: opacity .5s ease-in-out; -moz-transition: opacity .5s ease-in-out; -webkit-transition: opacity .5s ease-in-out; }
