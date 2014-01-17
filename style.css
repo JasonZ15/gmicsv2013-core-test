@@ -1067,7 +1067,7 @@ h2.tut{
 	color:#666666;
 	display:none;
 	clear: left;
-	width: 638px;
+	width: 500px;
 	padding:0;
 	background-color: transparent;
 -moz-box-shadow: none;
@@ -1079,7 +1079,7 @@ border-top: 0px solid white;
 #tweet-container{
 	/* This is where the tweets are inserted */
 	height:230px;
-	width: 638px;
+	width: 500px;
 }
 
 .tweet{
@@ -1154,6 +1154,13 @@ table.transparent td {background-color:transparent; border: 0px; padding:0px;}
 
 #testimonial-1 hgroup, #testimonial-2 hgroup, #testimonial-3 hgroup {display:none;}
 
-#reasons-to-sponsor h3, #sponsor h3 {color:#826fae; padding-top: 22px;}
+#reasons-to-sponsor h3, #sponsor h3 {color:#1C879B; padding-top: 22px;}
 
 .Jet.Li .portfolio-title h5 {font-size:16px;}
+#nav_menu-2 {position: fixed;}
+.widget ul li a:hover {color:#1C879B;}
+.widget ul li.current_page_item a {color:#1C879B;}
+
+ul.social-icons li.chinese, ul.social-icons li.english {margin:0;height:30px; width:55px;}
+ul.social-icons li.chinese a {background: transparent url(images/language-menu.jpg) left top no-repeat;height:30px; width:55px; display: block;}
+ul.social-icons li.english a {background: transparent url(images/language-menu.jpg) right top no-repeat;height:30px; width:55px; display: block;}
