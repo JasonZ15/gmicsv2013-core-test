@@ -267,5 +267,5 @@ jQuery(document).ready(function($){
  
   jQuery('#register .buy-now a').remove();
   jQuery('#sched-iframe').css( "clear", "both" );
- 
+   
 });

@@ -39,7 +39,7 @@ Text Domain: core
 	
 	.main-title h1, .main-title h2, .sub-title h1, .sub-title h2 { margin-bottom:0px; font-size:50px; }	
 	.main-title { text-align:center; width:100%; padding-bottom:10px; margin-bottom:40px; margin-top:50px; float:left; clear:both; background:url(images/title-border.png) center bottom no-repeat; }
-		#appattack .main-title, #gstartup .main-title, #global-game-stars .main-title {display:none;}
+		/*#appattack .main-title, #gstartup .main-title, #global-game-stars .main-title {display:none;}*/
 	.page-id-2100 .main-title {display: none;}
 	.main-title h6, .sub-title h6 { font-style:italic; }
 	.content.dark-bg .main-title { background:url(images/title-border-light.png) center bottom no-repeat; }
