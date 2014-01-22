@@ -1164,3 +1164,11 @@ table.transparent td {background-color:transparent; border: 0px; padding:0px;}
 ul.social-icons li.chinese, ul.social-icons li.english {margin:0;height:30px; width:55px;}
 ul.social-icons li.chinese a {background: transparent url(images/language-menu.jpg) left top no-repeat;height:30px; width:55px; display: block;}
 ul.social-icons li.english a {background: transparent url(images/language-menu.jpg) right top no-repeat;height:30px; width:55px; display: block;}
+
+ul#menu-track-ggs li a {color:#fff}
+ul#menu-track-ggs li.button {display:block !important; float:left !important;line-height:20px;padding:11px 10px;}
+ul#menu-track-ggs li.button:last-child {padding-right:91px;}
+.menu-track-ggs-container {position:absolute;margin-top:-10px;width: 940px;
+overflow: hidden;
+height: 52px;}
+body.page-id-4971 .content .pattern, body.parent-pageid-4971 .content .pattern {background: url(framework/theme_options/images/pattern/pattern3.png) center top repeat-x;}

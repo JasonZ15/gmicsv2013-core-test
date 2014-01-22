@@ -110,7 +110,9 @@
         <!-- **Container** -->
         <div class="container">
         	<div class="hr-invisible"> </div>
-            
+            <img src="http://beijing.thegmic.com/wp-content/uploads/2014/01/ggs1.jpg" alt="Global Mobile Game Summit" />
+            <?php wp_nav_menu( array('menu' => 'track ggs' )); ?>
+           
             <hgroup class="main-title">
             	<h1><?php the_title();?></h1>
                 <?php if(isset($tpl_default_settings['sub-title']) && !empty($tpl_default_settings['sub-title'])):
@@ -118,7 +120,6 @@
 					  endif;?>
             </hgroup>
             
-            <?php wp_nav_menu( array('menu' => 'track ggs' )); ?>
             
             <section id="primary" class="<?php echo $page_layout;?>">
             
