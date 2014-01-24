@@ -1166,9 +1166,11 @@ ul.social-icons li.chinese a {background: transparent url(images/language-menu.j
 ul.social-icons li.english a {background: transparent url(images/language-menu.jpg) right top no-repeat;height:30px; width:55px; display: block;}
 
 ul#menu-track-ggs li a {color:#fff}
-ul#menu-track-ggs li.button {display:block !important; float:left !important;line-height:20px;padding:11px 10px;}
-ul#menu-track-ggs li.button:last-child {padding-right:91px;}
-.menu-track-ggs-container {position:absolute;margin-top:-10px;width: 940px;
-overflow: hidden;
-height: 52px;}
+ul#menu-track-ggs li.button {display:inline !important; float:none !important;line-height:40px;padding:11px 10px;margin:0 -2px;}
+ul#menu-track-ggs li.button:last-child {}
+ul#menu-track-ggs li.button.current_page_item {background-color: #746dfb;}
+ul#menu-track-ggs {text-align:center;}
+.menu-track-ggs-container {margin-top:-12px;}
 body.page-id-4971 .content .pattern, body.parent-pageid-4971 .content .pattern {background: url(framework/theme_options/images/pattern/pattern3.png) center top repeat-x;}
+.page-id-4971 .main-title h1, .parent-pageid-4971 .main-title h1 {display:none;}
+.page-id-4971 .main-title, .parent-pageid-4971 .main-title {margin-top:-6px;}

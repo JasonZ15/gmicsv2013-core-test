@@ -110,7 +110,7 @@
         <!-- **Container** -->
         <div class="container">
         	<div class="hr-invisible"> </div>
-            <img src="http://beijing.thegmic.com/wp-content/uploads/2014/01/ggs1.jpg" alt="Global Mobile Game Summit" />
+            <a href="http://beijing.thegmic.com/ggs/"><img src="http://beijing.thegmic.com/wp-content/uploads/2014/01/ggs11.jpg" alt="Global Mobile Game Summit" /></a>
             <?php wp_nav_menu( array('menu' => 'track ggs' )); ?>
            
             <hgroup class="main-title">
