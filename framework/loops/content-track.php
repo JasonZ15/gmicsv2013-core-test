@@ -116,7 +116,7 @@
   
             
             <?php wp_nav_menu( array('menu' => 'track ggs' )); ?>
-            <hgroup class="main-title" style="margin-top:20px;">
+            <hgroup class="main-title">
             	<h1><?php the_title();?></h1>
                 <?php if(isset($tpl_default_settings['sub-title']) && !empty($tpl_default_settings['sub-title'])):
 					  	echo "<h6>".$tpl_default_settings['sub-title']."</h6>";
