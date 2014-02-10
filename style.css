@@ -348,15 +348,15 @@ Text Domain: core
 	.page-id-2100 .container {width: 980px;}
 	
 	/*----*****---- << Header >> ----*****----*/
-	#top-bar {background: #212121 url(images/bar-on-top.png) center 0 no-repeat; z-index: 999999999999;}
-	#top-bar .holder {width: 960px; margin: 0 auto; height: 29px; position: relative;}
+	#top-bar { z-index: 999999999999;position:fixed; left:400px;}
+	#top-bar .holder { height: 29px; position: relative;}
 	#top-bar .holder > a {position: absolute; top: 0;display: block; height: 29px;}
 	a#thegmic {width:34px; left:-72px;}
 	a#gmic-beijing {left: -28px; width:120px;}
 	a#gmic-sv {left: 98px; width:176px;}
 	a.chinese {right:0; width:48px;}
 	
-	#header { position:fixed; top:0; left:0; right:0; display:block; width:100%; margin:0px; padding:0px; z-index:9999; background:#252525; border-bottom:1px solid #171717; -moz-box-shadow:0px 2px 5px #000000; -webkit-box-shadow:0px 2px 5px #000000; box-shadow:0px 2px 5px #000000; }
+	#header { position:fixed; top:29px; left:0; right:0; display:block; width:100%; margin:0px; padding:0px; z-index:9999; background:#252525; border-bottom:1px solid #171717; -moz-box-shadow:0px 2px 5px #000000; -webkit-box-shadow:0px 2px 5px #000000; box-shadow:0px 2px 5px #000000; }
 	#logo { float:left; margin:0px 0px 0px; padding:0px; width: 187px;}
 	#logo img { /*max-height:40px;*/ }
 	
@@ -1042,7 +1042,7 @@ Text Domain: core
 		#bbar-body > img { max-width:80%; }
 		
 	/*---------------------[twitter ticker slider]-------------------*/
-	#twitter-ticker.image_carousel {position: absolute; left: 277px;z-index: 99999999999;}
+	#twitter-ticker.image_carousel {float:left;z-index: 99999999999;}
 	#twitter-ticker.image_carousel .tweet {float: left;}
 	
 /*------------------------------------------------*/
@@ -1067,7 +1067,7 @@ h2.tut{
 	color:#666666;
 	display:none;
 	clear: left;
-	width: 500px;
+	width: 400px;
 	padding:0;
 	background-color: transparent;
 -moz-box-shadow: none;
@@ -1079,7 +1079,7 @@ border-top: 0px solid white;
 #tweet-container{
 	/* This is where the tweets are inserted */
 	height:230px;
-	width: 500px;
+	width: 400px;
 }
 
 .tweet{
@@ -1174,3 +1174,4 @@ ul#menu-track-ggs {text-align:center;}
 body.page-id-4971 .content .pattern, body.parent-pageid-4971 .content .pattern {background: url(framework/theme_options/images/pattern/pattern3.png) center top repeat-x;}
 .page-id-4971 .main-title h1, .parent-pageid-4971 .main-title h1 {display:none;}
 .page-id-4971 .main-title, .parent-pageid-4971 .main-title {margin-top:-6px;}
+#secondary #nav_menu-2.widget {width:210px;}
