@@ -68,8 +68,68 @@
     })(document,"script","hs-analytics",300000);
   </script>
 <!-- End of Async HubSpot Analytics Code -->
+<link rel="stylesheet" href="http://en.gwc.net/wp-content/themes/Mana/assets/css/slicknav.css">
+         <link rel="stylesheet" href="http://en.gwc.net/wp-content/themes/Mana/assets/css/style.css">
+         <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
+         <script type="text/javascript" src="http://en.gwc.net/wp-content/themes/Mana/assets/js/jquery.slicknav.min.js"></script>
+     	<script type="text/javascript">
+ 			jQuery(document).ready(function(){
+ 				jQuery('#menu').slicknav();
+ 			});
+ 		</script>
 </head>
-<body <?php body_class(); ?>>
+<body id="gmic-beijing" <?php body_class(); ?>>
+	 <div id="top-bar">
+		<div class="holder">
+        	<div id="twitter-ticker" class="image_carousel" style="display: block;">
+  
+    <div id="tweet-container">
+      
+    <div class="tweet">
+        <div class="user"><a href="http://www.weibo.com/gmic" target="_blank">GMIC: </a></div>
+        <span class="txt">G20峰会旨在汇聚中外知名企业领袖, 共同探讨一年一度全球移动互联网热点话题</span><a href="http://www.weibo.com/1656614907/AdXhH8mov?mod=weibotime" target="_blank">...</a> </div>
+   
+    
+    <div class="tweet">
+        <div class="user"><a href="http://www.weibo.com/gmic" target="_blank">GMIC: </a></div>
+        <span class="txt">透过GMIC2013看趋势 230位演讲嘉宾观点大整合！</span><a href="http://www.weibo.com/1656614907/A9SBJ4boQ?mod=weibotime" target="_blank">...</a></div>
+    
+    </div>
+  
+</div>
+		</div>
+</div><?php if(isset($mytheme_general['show-sociables']) && !empty($mytheme_options['social'])): ?>
+                        <ul class="social-icons" style="margin-bottom: 0px; position: fixed;right: 64px;z-index: 99999999999;">
+                         <?php foreach($mytheme_options['social'] as $social):
+                                  $link = $social['link'];
+                                  $custom_image = isset($social['custom-image']) && !empty($social['custom-image']) ? "<img src='{$custom_image}' />": '';
+                                  $icon = $social['icon'];
+                                  echo "<li>";
+                                  echo "	<a href='{$link}'>";
+                                  if(!empty($custom_image)):
+                                             echo $custom_image;
+                                  else:
+                                             echo "<img width='21px' src='".IAMD_BASE_URL."/images/sociable/hover/{$icon}' alt='{$icon}' />";
+                                  endif;
+                                             echo "<img width='21px' src='".IAMD_BASE_URL."/images/sociable/{$icon}' alt='{$icon}' />";
+                                  
+                                  echo "	</a>";
+                                  echo "</li>"; 						 
+                               endforeach;?>
+                               <li class="chinese"><a href="http://beijing.thegmic.com/cn/"></a></li><li class="english"><a href="http://beijing.thegmic.com/"></a></li>
+                        </ul>
+                <?php endif;?>
+	<ul id="menu">
+     <li><a href="http://www.thegmic.com" style="float: left;"><img src="http://en.gwc.net/wp-content/themes/Mana/images/gmic-logo-white-small.png" /> </a>
+         <ul>
+             <li><a href="http://beijing.thegmic.com/cn/"><img src="http://en.gwc.net/wp-content/themes/Mana/images/beijing.png" /></a></li>
+             <li><a href="http://sv.thegmic.com/"><img src="http://en.gwc.net/wp-content/themes/Mana/images/sv.png" /></a></li>
+         </ul>
+     </li>
+     <li><a href="http://www.gwc.net/network"><img src="http://en.gwc.net/wp-content/themes/Mana/images/member.png" /></a></li>
+     <li><a href="http://blog.thegmic.com"><img src="http://en.gwc.net/wp-content/themes/Mana/images/blog.png" /></a></li>
+     <li style="float:right;"><a href="http://www.gwc.net"><img src="http://en.gwc.net/wp-content/themes/Mana/images/gwc-logo-white-small-copy.png" /></a></li>
+ </ul>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -115,50 +175,7 @@
 <!-- BBar End -->
 <!-- **Header** -->
 <header id="header" class="large">
-	    <div id="top-bar">
-		<div class="holder">
-        	<div id="twitter-ticker" class="image_carousel" style="display: block;">
-  
-    <div id="tweet-container">
-      
-    <div class="tweet">
-        <div class="user"><a href="http://www.weibo.com/gmic" target="_blank">GMIC: </a></div>
-        <span class="txt">G20峰会旨在汇聚中外知名企业领袖, 共同探讨一年一度全球移动互联网热点话题</span><a href="http://www.weibo.com/1656614907/AdXhH8mov?mod=weibotime" target="_blank">...</a> </div>
-   
-    
-    <div class="tweet">
-        <div class="user"><a href="http://www.weibo.com/gmic" target="_blank">GMIC: </a></div>
-        <span class="txt">透过GMIC2013看趋势 230位演讲嘉宾观点大整合！</span><a href="http://www.weibo.com/1656614907/A9SBJ4boQ?mod=weibotime" target="_blank">...</a></div>
-    
-    </div>
-  
-</div>
-		<a href="http://www.thegmic.com" id="thegmic"></a>
-		<a href="http://beijing.thegmic.com" id="gmic-beijing"></a>
-		<a href="http://sv.thegmic.com" id="gmic-sv"></a>
-		<?php if(isset($mytheme_general['show-sociables']) && !empty($mytheme_options['social'])): ?>
-                        <ul class="social-icons" style="float: right; margin-bottom: 0px; margin-right: -44px;">
-                         <?php foreach($mytheme_options['social'] as $social):
-                                  $link = $social['link'];
-                                  $custom_image = isset($social['custom-image']) && !empty($social['custom-image']) ? "<img src='{$custom_image}' />": '';
-                                  $icon = $social['icon'];
-                                  echo "<li>";
-                                  echo "	<a href='{$link}'>";
-                                  if(!empty($custom_image)):
-                                             echo $custom_image;
-                                  else:
-                                             echo "<img width='21px' src='".IAMD_BASE_URL."/images/sociable/hover/{$icon}' alt='{$icon}' />";
-                                  endif;
-                                             echo "<img width='21px' src='".IAMD_BASE_URL."/images/sociable/{$icon}' alt='{$icon}' />";
-                                  
-                                  echo "	</a>";
-                                  echo "</li>"; 						 
-                               endforeach;?>
-                               <li class="chinese"><a href="http://beijing.thegmic.com/cn/"></a></li><li class="english"><a href="http://beijing.thegmic.com/"></a></li>
-                        </ul>
-                <?php endif;?>
-		</div>
-</div>
+	   
 	<div class="container">
     	<!-- **Logo** -->
         <div id="logo">
