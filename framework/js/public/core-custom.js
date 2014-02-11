@@ -107,6 +107,8 @@ jQuery(document).ready(function($){
   }
   
   if($("div#sorting-container").length){
+  	var selector = '.confirmed-speakers-sort';
+  	$container.isotope({ filter: selector, animationOptions: { duration: 750, easing: 'linear',  queue: false }});
     $("div#sorting-container a").click(function(){
       $("div#sorting-container a").removeClass("active-sort");
       var selector = $(this).attr('data-filter');
@@ -267,5 +269,4 @@ jQuery(document).ready(function($){
  
   jQuery('#register .buy-now a').remove();
   jQuery('#sched-iframe').css( "clear", "both" );
- 
 });
