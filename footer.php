@@ -140,7 +140,7 @@ http://software.intel.com/android/" target="_blank"><img src="http://sv.thegmic.
 	<div class="pagination" id="foo3_pag"></div>
 </div>
 <!-- BEGIN OLARK IMAGE TAB-->
-<style>
+<!--<style>
     div#olark_tab{
         position: fixed;
         right: 0;
@@ -158,17 +158,17 @@ http://software.intel.com/android/" target="_blank"><img src="http://sv.thegmic.
     #olark_tab a:hover{
         border-color: orange;
     }
-</style>
+</style>-->
 
-<div id="olark_tab">
+<!--<div id="olark_tab">
     <a href="javascript:void(0);" onclick="olark('api.box.expand')">
         <img src="<?php echo get_template_directory_uri(); ?>/images/olark.png" />
     </a>
-</div>
+</div>-->
 <!-- END OLARK TAB-->
 
 <!-- begin olark code -->
-<script data-cfasync="false" type='text/javascript'>/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+<!--<script data-cfasync="false" type='text/javascript'>/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
 f[z]=function(){
 (a.s=a.s||[]).push(arguments)};var a=f[z]._={
 },q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
@@ -185,7 +185,7 @@ var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
 b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
 loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
 /* custom configuration goes here (www.olark.com/documentation) */
-olark.identify('6268-153-10-4835');/*]]>*/</script><noscript><a href="https://www.olark.com/site/6268-153-10-4835/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+olark.identify('6268-153-10-4835');/*]]>*/</script><noscript><a href="https://www.olark.com/site/6268-153-10-4835/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>-->
 <!-- end olark code -->
 </body>
 </html>
