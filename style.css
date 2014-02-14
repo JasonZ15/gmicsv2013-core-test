@@ -1170,7 +1170,7 @@ ul#menu-track-ggs li.button {display:inline !important; float:none !important;li
 ul#menu-track-ggs li.button:last-child {}
 ul#menu-track-ggs li.button.current_page_item {background-color: #746dfb;}
 ul#menu-track-ggs {text-align:center;}
-.menu-track-ggs-container {margin-top:-12px;}
+.menu-track-ggs-container {margin-top:0px;}
 body.page-id-4971 .content .pattern, body.parent-pageid-4971 .content .pattern {background: url(framework/theme_options/images/pattern/pattern3.png) center top repeat-x;}
 .page-id-4971 .main-title h1, .parent-pageid-4971 .main-title h1 {display:none;}
 .page-id-4971 .main-title, .parent-pageid-4971 .main-title {margin-top:-6px;}
