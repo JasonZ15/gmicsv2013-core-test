@@ -73,6 +73,8 @@
 	   
 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/silver-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.mobpartner.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/mobpartner.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://nativex.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/nativex.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
+	  
  	  
  	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/previous-sponsors.jpg" width="97" height="59" style="padding:0; border: none;"> </li>
        <li style="width: 139px; margin-right: 0px; "><a href="http://www.nokia.com" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/2013/12/nokia.jpg" height="57" style="border: 1px solid #fff; padding: 0px;" /></a></li> 
