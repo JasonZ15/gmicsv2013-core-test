@@ -1500,7 +1500,7 @@ $portfolio_page_content = get_post_field('post_content', $post_id);
 									$portfolio_settings = is_array($portfolio_settings) ? $portfolio_settings  : array();
 									$url = $portfolio_settings["url"];
 									
-					echo "		<a href='$url' title='$the_title' target='_blank' style='cursor: default;' onclick='return false;'>";
+					echo "		<a href='$permalink' title='$the_title'>";
 								if(has_post_thumbnail()):
 									the_post_thumbnail($image_type);
 								else:
