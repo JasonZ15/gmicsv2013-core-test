@@ -1528,11 +1528,13 @@ $portfolio_page_content = get_post_field('post_content', $post_id);
 					echo '</div>';
 				endwhile;
 			endif;	
+
 	echo '<div class="hr-invisible">';
 	echo '</div>';									
 	echo '</div><!-- **Portfolio Container** --> ';
 	
-	
+				$additional_page_content = get_post_meta($post_id, 'additional_page_content', true);
+	echo $additional_page_content;	
 	echo "<!-- **Pagination** -->";
 	echo "<div class='pagination' data-page-id='$post_id' >";
 			echo my_pagination('ajax-load');
