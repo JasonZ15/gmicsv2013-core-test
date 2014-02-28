@@ -43,7 +43,7 @@
         
         <?php edit_post_link( __( 'Edit',IAMD_TEXT_DOMAIN)); ?>
       <div class="portfolio-details" style="float:left;">
-        <div class="fb-like" data-href="<?php the_permalink(); ?>" data-send="false" data-layout="button_count" data-width="240" data-show-faces="false"></div>
+        <!--<div class="fb-like" data-href="<?php the_permalink(); ?>" data-send="false" data-layout="button_count" data-width="240" data-show-faces="false"></div>-->
 	         <ul>
                 <?php if(array_key_exists("client",$portfolio_settings)): ?>
                 <li class="author"> <i class="icon-user"> </i> <?php echo $portfolio_settings['client'];?> </li>
