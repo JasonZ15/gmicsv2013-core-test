@@ -69,15 +69,26 @@
        <li style="width: 161px; margin-right: 0px;"><a href="http://www.xiaomi.com" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/xiaomi.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li><!--/*这是小米改好的*/-->
        <li style="width: 161px; margin-right: 0px;"><a href="http://china.inmobi.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/inmobi.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li><!--/*这是inmobi改好的*/-->
        <li style="width: 166px; margin-right: 0px;"><a href="http://www.chukong-inc.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/chukong.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li><!--/*触控科技改好的*/-->
+	   <li style="width: 166px; margin-right: 0px;"><a href="http://www.ijinshan.com/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/ijinshan.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
 	   
 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/platinum-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.domob.cn/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/domob2.png" height="57" style="border: 1px solid #547bed; padding: 0;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.wqmobile.com/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/wqmobile.png" height="57" style="border: 1px solid #547bed; padding: 0;"></a></li>
-	   
+	  <li style="width: 139px; margin-right: 0px;"><a href="https://www.mo9.com.cn/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/mo9.png" height="57" style="border: 1px solid #547bed; padding: 0px;"></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.duokoo.cn/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/baidugame.png" height="57" style="border: 1px solid #547bed; padding: 0px;"></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.zhidian3g.com/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/zhidian.png" height="57" style="border: 1px solid #547bed; padding: 0px;"></a></li>
+	  
+	  <li style="width: 111px;"><img src="<?php echo get_template_directory_uri(); ?>/images/gold-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;" /></li>
+	  <li style="width: 139px;"><a href="http://www.yicha.cn/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/yicha.png" height="57" 
+	  style="border: 1px solid #eba706; padding: 0;" /></a></li>
+	  <li style="width: 139px;"><a href="http://www.pacific-crest.com/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/pacific-crest.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
+
 	   
 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/silver-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.mobpartner.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/mobpartner.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://nativex.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/nativex.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.appsflyer.com/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/appsflyer.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
+
 	  
  	  
  	  <!--<li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/previous-sponsors.jpg" width="97" height="59" style="padding:0; border: none;"> </li>
