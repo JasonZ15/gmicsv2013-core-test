@@ -45,7 +45,7 @@
 				});
 				
 				jQuery('.portfolio-container').css('overflow', '');
-				jQuery('#agenda .buy-now a').remove();
+				
 				
 				jQuery(".home .work-flow a").click(function() {
 			
