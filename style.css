@@ -1159,9 +1159,10 @@ table.transparent td {background-color:transparent; border: 0px; padding:0px;}
 .widget ul li a:hover {color:#1C879B;}
 .widget ul li.current_page_item a {color:#1C879B;}
 
-ul.social-icons li.chinese, ul.social-icons li.english {margin:0;height:30px; width:55px;}
+ul.social-icons li.chinese, ul.social-icons li.english, ul.social-icons li.japanese {margin:0;height:30px; width:55px;}
 ul.social-icons li.chinese a {background: transparent url(images/language-menu.jpg) left top no-repeat;height:30px; width:55px; display: block;}
-ul.social-icons li.english a {background: transparent url(images/language-menu.jpg) right top no-repeat;height:30px; width:55px; display: block;}
+ul.social-icons li.english a {background: transparent url(images/language-menu.jpg) -51px top no-repeat;height:30px; width:55px; display: block;}
+ul.social-icons li.japanese a {background: transparent url(images/japanese.jpg) right top no-repeat;height:30px; width:55px; display: block;}
 
 ul#menu-track-ggs li a {color:#fff}
 ul#menu-track-ggs li.button {display:inline !important; float:none !important;line-height:40px;padding:11px 10px;margin:0 -2px;}

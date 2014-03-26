@@ -116,7 +116,7 @@
                                   echo "	</a>";
                                   echo "</li>"; 						 
                                endforeach;?>
-                               <li class="chinese"><a href="http://beijing.thegmic.com/cn/"></a></li><li class="english"><a href="http://beijing.thegmic.com/"></a></li>
+                              <li class="chinese"><a href="http://beijing.thegmic.com/cn/"></a></li><li class="english"><a href="http://beijing.thegmic.com/"></a></li><li class="japanese"><a href="http://beijing.thegmic.com/jp/"></a></li>
                         </ul>
                 <?php endif;?>
 	<ul id="menu">
