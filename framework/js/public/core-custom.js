@@ -99,6 +99,7 @@ jQuery(document).ready(function($){
 
   /*Portfolio isotope*/
   var $container = $('.portfolio-container');
+  var $containerFirst = $('#speakers .portfolio-container');
   if($container.length){
     $container.isotope({
       filter: '*',
@@ -108,7 +109,7 @@ jQuery(document).ready(function($){
   
   if($("div#sorting-container").length){
   	var selector = '.confirmed-speakers-sort';
-  	$container.isotope({ filter: selector, animationOptions: { duration: 750, easing: 'linear',  queue: false }});
+  	$containerFirst.isotope({ filter: selector, animationOptions: { duration: 750, easing: 'linear',  queue: false }});
     $("div#sorting-container a").click(function(){
       $("div#sorting-container a").removeClass("active-sort");
       var selector = $(this).attr('data-filter');
