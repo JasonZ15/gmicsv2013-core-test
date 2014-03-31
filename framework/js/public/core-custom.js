@@ -99,6 +99,11 @@ jQuery(document).ready(function($){
 
   /*Portfolio isotope*/
   var $container = $('.portfolio-container');
+  
+  var $containerHomeSpeakerSection = $('#speakers .portfolio-container');
+  var $containerSpeakerPage = $('.page-id-10787 .portfolio-container');
+  var $containerSpeakersPage = $('.page-id-28 .portfolio-container');
+  
   if($container.length){
     $container.isotope({
       filter: '*',
@@ -107,8 +112,15 @@ jQuery(document).ready(function($){
   }
   
   if($("div#sorting-container").length){
-  	var selector = '.confirmed-speakers-sort';
-  	$container.isotope({ filter: selector, animationOptions: { duration: 750, easing: 'linear',  queue: false }});
+  	var selectorHomeSpeakerSection = '.confirmed-speakers-sort';
+  	$containerHomeSpeakerSection.isotope({ filter: selectorHomeSpeakerSection, animationOptions: { duration: 750, easing: 'linear',  queue: false }});
+  	
+  	var selectorSpeakerPage = '.confirmed-speakers-sort';
+  	$containerSpeakerPage.isotope({ filter: selectorSpeakerPage, animationOptions: { duration: 750, easing: 'linear',  queue: false }});    
+
+  	var selectorSpeakersPage = '.thought-leader-sort';
+  	$containerSpeakersPage.isotope({ filter: selectorSpeakersPage, animationOptions: { duration: 750, easing: 'linear',  queue: false }});    
+
     $("div#sorting-container a").click(function(){
       $("div#sorting-container a").removeClass("active-sort");
       var selector = $(this).attr('data-filter');
