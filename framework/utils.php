@@ -1467,13 +1467,14 @@ $portfolio_page_content = get_post_field('post_content', $post_id);
 		
 			if(is_array($categories) && !empty($categories)):
 				$terms = $categories;
-				$args = array(	'orderby' 			=> 'title'
+				$args = array(	'orderby' 			=> 'date'
 								,'order' 			=> 'ASC'
 								,'paged' 			=> get_query_var( 'paged' )
 								,'posts_per_page' 	=> $tpl_portfolio_settings['post-per-page']
 								,'tax_query'		=> array( array( 'taxonomy'=>'portfolio_entries', 'field'=>'id', 'operator'=>'IN', 'terms'=>$terms  ) ) );
 			else:	
-				$args = array(	'paged' => get_query_var( 'paged' ) ,'posts_per_page' => $tpl_portfolio_settings['post-per-page'] ,'post_type' => 'portfolio');
+				$args = array(	'orderby' => 'date' ,'order' => 'ASC' ,'paged' => get_query_var( 'paged' ) ,'posts_per_page' => $tpl_portfolio_settings['post-per-page'] ,'post_type' => 'portfolio');
+				
 			endif;
 
 			query_posts($args);
