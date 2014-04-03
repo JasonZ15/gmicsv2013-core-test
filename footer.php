@@ -98,6 +98,11 @@
 	  <li style="width: 139px;"><a href="http://www.pacific-crest.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/pacific-crest.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	  <li style="width: 139px;"><a href="http://www.mafengwo.cn/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/mfw.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	  <li style="width: 139px;"><a href="http://www.lomark.cn/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/lomark.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
+	  <li style="width: 139px;"><a href="http://www.admaster.com.cn/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/admaster.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
+	  <li style="width: 139px;"><a href="http://www.sogou.com/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/sogou.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
+	  <li style="width: 139px;"><a href="https://www.talkingdata.net/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/talkingdata.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
+	  <li style="width: 139px;"><a href="http://www.gmbird.com/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/gmbird.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
+
 	   
 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/silver-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.mobpartner.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/mobpartner.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
