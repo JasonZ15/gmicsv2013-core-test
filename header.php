@@ -123,11 +123,13 @@
 	<ul id="menu">
     <li><a href="http://www.thegmic.com" target="_blank" style="float: left;"><img src="http://en.gwc.net/wp-content/themes/Mana/images/gmic-logo-white-small.png" /> </a>
         <ul>
-            <li><a href="http://beijing.thegmic.com/" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/beijing.png" /></a></li>
-            <li><a href="http://sv.thegmic.com/" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/sv.png" /></a></li>
+            <li style="padding:0;padding-left:3px;"><a href="http://beijing.thegmic.com/" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/beijing.png" /></a></li>
+            <li style="padding:0;"><a href="http://tokyo.thegmic.com/" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/tokyo.png" /></a></li>
+            <li style="padding:0;"><a href="http://nd.thegmic.com/" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/nd.png" /></a></li>
+            <li style="padding-left:0;"><a href="http://sv.thegmic.com/" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/sv.png" /></a></li>
         </ul>
     </li>
-    <li><a href="http://www.gwc.net/network" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/member.png" /></a></li>
+    <li><a href="http://en.gwc.net/network" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/member.png" /></a></li>
     <li><a href="http://blog.thegmic.com" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/blog.png" /></a></li>
     <li style="float:right;"><a href="http://www.gwc.net" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/gwc-logo-white-small-copy.png" /></a></li>
 </ul>
