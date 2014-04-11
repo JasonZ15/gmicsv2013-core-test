@@ -108,6 +108,7 @@
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.mobpartner.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/mobpartner.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://nativex.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/nativex.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.appsflyer.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/appsflyer.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="https://www.nexmo.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/nexmo.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
       
  
    <!-- /*<li style="width: 161px; margin-right: 0px;"><a href="http://www.ucweb.com/index.html" target="_blank"><img src="http://sv.thegmic.com/wp-content/uploads/sponsors/ucweb.png" height="57" style="border: 1px solid #7b6596; padding: 0px;"></a></li>
