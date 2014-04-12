@@ -74,9 +74,13 @@
 
 	   
 	   <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/diamond-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>
-	   <li style="width: 161px;"><a href="http://store.wo.com.cn/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/wostore.png" height="57" style="border: 1px solid #e70012; padding: 0;" /></a></li>
-	   <li style="width: 161px;"><a href="http://www.o2omobi.com/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/bailing.png" height="57" style="border: 1px solid #e70012; padding: 0;" /></a></li>
+	   <li style="width: 161px;"><a href="http://store.wo.com.cn/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/wostore.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
+	   <li style="width: 161px;"><a href="http://www.o2omobi.com/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/bailing.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	   
+	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/cnbc-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.cnbc.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/cnbc.png" height="57" style="border: 1px solid #e70012; padding: 0;" /></a></li>
+	  
+	  
 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/platinum-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.domob.cn/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/domob2.png" height="57" style="border: 1px solid #547bed; padding: 0;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.WQMobile.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/wqmobile.png" height="57" style="border: 1px solid #547bed; padding: 0px;"></a></li>
