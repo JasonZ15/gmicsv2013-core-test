@@ -63,14 +63,17 @@
      
       <li style="width: 161px; margin-right: 0px; "><a href="http://www.sina.com.cn/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/sina.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li> <!--这是新浪改好-->
 	  <li style="width: 161px; margin-right: 0px;"><a href="http://www.tencent.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/tencent.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li><!--这是腾讯改好的-->
+	  <li style="width: 161px; margin-right: 0px;"><a href="http://www.91.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/91.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li><!--/*这是91改好的*/-->
     
        <li style="width: 161px; margin-right: 0px;"><a href="http://www.uc.cn/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/ucweb.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li><!--这是ucweb改好的*/-->
-       <li style="width: 161px; margin-right: 0px;"><a href="http://www.91.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/91.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li><!--/*这是91改好的*/-->
+     
        <li style="width: 161px; margin-right: 0px;"><a href="http://www.xiaomi.com" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/xiaomi.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li><!--/*这是小米改好的*/-->
        <li style="width: 161px; margin-right: 0px;"><a href="http://china.inmobi.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/inmobi.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li><!--/*这是inmobi改好的*/-->
        <li style="width: 166px; margin-right: 0px;"><a href="http://www.chukong-inc.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/chukong.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li><!--/*触控科技改好的*/-->
 	   <li style="width: 166px; margin-right: 0px;"><a href="http://www.ijinshan.com/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/ijinshan.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
 	   <li style="width: 166px; margin-right: 0px;"><a href="http://www.cmge.com/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/cmge.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
+	   <li style="width: 166px; margin-right: 0px;"><a href="http://www.pwrd.com/cn/index.htm" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/pw.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
+	   
 	   
 	   <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/diamond-sponsor-tab.png" width="97" height="59" style="padding:0; border: none;"></li>
 	   <li style="width: 161px;"><a href="http://store.wo.com.cn/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/wostore.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
