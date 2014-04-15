@@ -1812,7 +1812,7 @@ function get_partner_portfolio_page_content($post_id){
 
 					echo '	</div>';
 					echo '	<div class="portfolio-title">';
-					echo "		<a href='$url' title='$the_title'>$the_title</a><h5>";
+					echo "		<a href='$url' target='_blank' title='$the_title'>$the_title</a><h5>";
 					$portfolio_settings = get_post_meta($the_id,'_portfolio_settings',TRUE);
 									$portfolio_settings = is_array($portfolio_settings) ? $portfolio_settings  : array();
 									if(array_key_exists("client",$portfolio_settings)):
