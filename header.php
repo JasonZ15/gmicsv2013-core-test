@@ -20,12 +20,13 @@
     <!--[if lt IE 9]>
         <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+	<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/70f4e05328cebbb52a19e558ac6725a2/allmobilize.min.js"></script><meta http-equiv="Cache-Control" content="no-siteapp" /><link rel="alternate" media="handheld" href="#" />
     <?php
 	/* Theme Settings */
 	 $mytheme_options = get_option(IAMD_THEME_SETTINGS);
 	 $mytheme_general = $mytheme_options['general'];
 	 $mytheme_appearance = $mytheme_options['appearance'];
-	 $mytheme_mobile = $mytheme_options['mobile'];
+	 // $mytheme_mobile = $mytheme_options['mobile'];
 	 $mytheme_integration = $mytheme_options['integration'];?>
 
     
