@@ -5,6 +5,7 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html <?php language_attributes(); ?>> <!--<![endif]-->
 
 <head>
+<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/70f4e05328cebbb52a19e558ac6725a2/allmobilize.min.js"></script><meta http-equiv="Cache-Control" content="no-siteapp" /><link rel="alternate" media="handheld" href="#" />
 	<meta charset="utf-8">
 	<?php is_moible_view(); ?>
 	<title><?php mytheme_public_title();?></title>
