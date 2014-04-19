@@ -44,7 +44,7 @@
 	
 	/*----*****---- << Buttons >> ----*****----*/
 	
-	.button { line-height:normal; display:inline-block !important; *display:inline; zoom:1; margin:10px 0px 0px; cursor:pointer; font-weight:bold; font-size:14px; text-transform:uppercase; }
+	.button { line-height:normal; display:inline-block !important; *display:inline; zoom:1; margin:10px 0px 0px; cursor:pointer; font-weight:bold; font-size:14px; text-transform:capitalize; }
 	.button:hover { opacity:0.8; filter:alpha(opacity=80); }
 	
 	.button.small { padding:11px 20px; }
@@ -401,12 +401,12 @@
 	.pr-tb-col { width:100%; margin:0px; padding:0px; text-align:center; -webkit-transition:-webkit-box-shadow 0.2s ease-out; -moz-transition:-moz-box-shadow 0.2s ease-out; 	-o-transition:-o-box-shadow 0.2s ease-out; transition:box-shadow 0.2s ease-out; }
 	
 	.tb-header { padding:20px; }
-	.tb-title h5 { font-weight:bold; font-size:16px; line-height:normal; text-transform:uppercase; margin-bottom:0px; }
+	.tb-title h5 { font-weight:bold; font-size:16px; line-height:normal; text-transform:capitalize; margin-bottom:0px; }
 	.tb-title h6 { font-size:14px; line-height:normal; margin-bottom:0px; }
 	
 	.tb-content { list-style-type:none; border-left:1px solid #dfdfdf; border-right:1px solid #dfdfdf; border-top:4px solid #dfdfdf; margin:0px; }
 	.tb-content li { background:#f7f7f7; font-size:14px; color:#757575; border-top:1px solid #dfdfdf; border-bottom:1px solid #ffffff; padding:18px 10px; }
-	.tb-content li h5 { font-weight:bold; font-size:20px; text-transform:uppercase; margin:0px; }
+	.tb-content li h5 { font-weight:bold; font-size:20px; text-transform:capitalize; margin:0px; }
 		
 	.pr-tb-col span { background:#ffffff; border:1px solid #dfdfdf; height:1px; display:block; }
 	
@@ -557,7 +557,7 @@
 	/*----*****---- << Titled Boxes >> ----*****----*/
 	
 	.titled-box { margin-bottom:20px; width:100%; clear:both; }
-	.titled-box h6.titled-box-title { font-size:14px; font-weight:bold; text-transform:uppercase; padding:10px 15px; text-shadow:none; border-bottom:5px solid #dfdfdf; margin:0px; border-radius:10px 10px 0px 0px; } 
+	.titled-box h6.titled-box-title { font-size:14px; font-weight:bold; text-transform:capitalize; padding:10px 15px; text-shadow:none; border-bottom:5px solid #dfdfdf; margin:0px; border-radius:10px 10px 0px 0px; } 
 	.titled-box-content { padding:15px 15px 20px; line-height:20px; }				
 	
 	.titled-box h6.titled-box-title { background:#515151; color:#ffffff; }
