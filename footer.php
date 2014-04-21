@@ -109,6 +109,7 @@
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.adwo.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/adwo.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.igetui.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/getui.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="https://www.tenpay.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/tenpay.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.ksyun.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/ksyun.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	  
 	  <li style="width: 111px;"><img src="<?php echo get_template_directory_uri(); ?>/images/gold-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;" /></li>
 	  <li style="width: 139px;"><a href="http://www.yicha.cn/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/yicha.png" height="57" 
@@ -125,6 +126,9 @@
 	  <li style="width: 139px;"><a href="http://www.gametider.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/guangtao.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	  <li style="width: 139px;"><a href="http://www.weiboyi.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/weiboyi.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	  <li style="width: 139px;"><a href="http://www.vhall.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/vhall.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
+	  <li style="width: 139px;"><a href="http://www.oupeng.com/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/oupeng.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
+	  <li style="width: 139px;"><a href="http://www.pivoful.com/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/veme.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
+	  
 	  
 	   
 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/silver-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>
