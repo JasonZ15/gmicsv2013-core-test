@@ -105,6 +105,7 @@
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.igetui.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/getui.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="https://www.tenpay.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/tenpay.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.ksyun.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/ksyun.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.nokia.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/nokia.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 
 	  
 	  
