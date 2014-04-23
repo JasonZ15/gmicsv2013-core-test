@@ -77,7 +77,10 @@
 	   <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/diamond-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>
 	   <li style="width: 161px;"><a href="http://store.wo.com.cn/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/wostore.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	   <li style="width: 161px;"><a href="http://www.o2omobi.com/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/bailing.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
-	   <li style="width: 161px;"><a href="http://www.autonavi.com/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/autonavi.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
+	   <li style="width: 161px;"><a href="http://www.autonavi.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/autonavi.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
+	   <li style="width: 161px;"><a href="http://www.ifc1000.org/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/ifc1000.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
+	   <li style="width: 161px;"><a href="http://www.huawei.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/honor.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
+
 	   
 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/cnbc-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.cnbc.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/cnbc.png" height="57" style="border: 1px solid #e70012; padding: 0;" /></a></li>
@@ -106,6 +109,7 @@
 	  <li style="width: 139px; margin-right: 0px;"><a href="https://www.tenpay.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/tenpay.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.ksyun.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/ksyun.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.nokia.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/nokia.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.yongche.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/yidao.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 
 	  
 	  
@@ -126,8 +130,8 @@
 	  <li style="width: 139px;"><a href="http://www.vhall.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/vhall.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	  <li style="width: 139px;"><a href="http://www.oupeng.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/oupeng.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	  <li style="width: 139px;"><a href="http://www.pivoful.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/veme.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
+	  <li style="width: 139px;"><a href="http://chumenwenwen.net/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/wenwen.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
 
-	   
 	  <li style="width: 111px; margin-right: 0px;"><img src="<?php echo get_template_directory_uri(); ?>/images/silver-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;"></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.mobpartner.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/mobpartner.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://nativex.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/nativex.png" height="57" style="border: 1px solid #B6B6B6; padding: 0px;"></a></li>
