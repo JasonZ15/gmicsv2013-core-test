@@ -34,7 +34,7 @@ Text Domain: core
 	h2{ font-size:40px; line-height:normal; margin-bottom:15px; text-transform:capitalize; }
 	h3{ font-size:30px; line-height:normal; margin-bottom:15px; }
 	h4{ font-size:25px; line-height:24px; margin-bottom:15px; text-transform:capitalize;  }
-	h5{ font-size:20px; line-height:24px; margin-bottom:10px; }
+	h5{ font-size:16px; line-height:24px; margin-bottom:10px; }
 	h6{ font-size:16px; line-height:24px; margin-bottom:10px; font-weight:normal;  }
 	
 	.main-title h1, .main-title h2, .sub-title h1, .sub-title h2 { margin-bottom:0px; font-size:50px; }	
