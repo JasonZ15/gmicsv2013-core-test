@@ -69,10 +69,10 @@
     })(document,"script","hs-analytics",300000);
   </script>
 <!-- End of Async HubSpot Analytics Code -->
-        <link rel="stylesheet" href="http://en.gwc.net/wp-content/themes/Mana/assets/css/slicknav.css">
-        <link rel="stylesheet" href="http://en.gwc.net/wp-content/themes/Mana/assets/css/style.css">
+        <link rel="stylesheet" href="http://beijing.thegmic.com/wp-content/themes/2014/css/slicknav.css">
+        <link rel="stylesheet" href="http://beijing.thegmic.com/wp-content/themes/2014/css/style.css">
         <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
-        <script type="text/javascript" src="http://en.gwc.net/wp-content/themes/Mana/assets/js/jquery.slicknav.min.js"></script>
+        <script type="text/javascript" src="http://beijing.thegmic.com/wp-content/themes/2014/framework/js/public/jquery.slicknav.min.js"></script>
     	<script type="text/javascript">
 			jQuery(document).ready(function(){
 				jQuery('#menu').slicknav();
@@ -122,17 +122,17 @@
                         </ul>
                 <?php endif;?>
 	<ul id="menu">
-    <li><a href="http://www.thegmic.com" target="_blank" style="float: left;"><img src="http://en.gwc.net/wp-content/themes/Mana/images/gmic-logo-white-small.png" /> </a>
+    <li><a href="http://www.thegmic.com" target="_blank" style="float: left;"><img src="http://beijing.thegmic.com/wp-content/themes/2014/images/gmic-logo-white-small.png" /> </a>
         <ul>
-            <li style="padding:0;padding-left:3px;"><a href="http://beijing.thegmic.com/" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/beijing.png" /></a></li>
-            <li style="padding:0;"><a href="http://tokyo.thegmic.com/" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/tokyo.png" /></a></li>
-            <li style="padding:0;"><a href="http://nd.thegmic.com/" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/nd.png" /></a></li>
-            <li style="padding-left:0;"><a href="http://sv.thegmic.com/" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/sv.png" /></a></li>
+            <li style="padding:0;padding-left:3px;"><a href="http://beijing.thegmic.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/themes/2014/images/beijing.png" /></a></li>
+            <li style="padding:0;"><a href="http://tokyo.thegmic.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/themes/2014/images/tokyo.png" /></a></li>
+            <li style="padding:0;"><a href="http://nd.thegmic.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/themes/2014/images/nd.png" /></a></li>
+            <li style="padding-left:0;"><a href="http://sv.thegmic.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/themes/2014/images/sv.png" /></a></li>
         </ul>
     </li>
-    <li><a href="http://en.gwc.net/network" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/member.png" /></a></li>
-    <li><a href="http://blog.thegmic.com" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/blog.png" /></a></li>
-    <li style="float:right;"><a href="http://www.gwc.net" target="_blank"><img src="http://en.gwc.net/wp-content/themes/Mana/images/gwc-logo-white-small-copy.png" /></a></li>
+    <li><a href="http://en.gwc.net/network" target="_blank"><img src="http://beijing.thegmic.com/wp-content/themes/2014/images/member.png" /></a></li>
+    <li><a href="http://blog.thegmic.com" target="_blank"><img src="http://beijing.thegmic.com/wp-content/themes/2014/images/blog.png" /></a></li>
+    <li style="float:right;"><a href="http://www.gwc.net" target="_blank"><img src="http://beijing.thegmic.com/wp-content/themes/2014/images/gwc-logo-white-small-copy.png" /></a></li>
 </ul>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
