@@ -109,6 +109,8 @@
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.ssipcd.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/xinchuan.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.igetui.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/getui.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.yongche.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/yidao.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.idigest.com.cn/en/index.htm/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/idigest.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
+	  
 	  
 	  <li style="width: 111px;"><img src="<?php echo get_template_directory_uri(); ?>/images/gold-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;" /></li>
 	  <li style="width: 139px;"><a href="http://www.yicha.cn/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/yicha.png" height="57" 
