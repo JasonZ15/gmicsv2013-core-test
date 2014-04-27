@@ -107,6 +107,8 @@
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.zhidian3g.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/zhidian.png" height="57" style="border: 1px solid #547bed; padding: 0px;"></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.feiliu.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/flmobile.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.ssipcd.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/xinchuan.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
+	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.google.com/ads/admob/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/admob.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
+	  
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.igetui.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/getui.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.yongche.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/yidao.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	  <li style="width: 139px; margin-right: 0px;"><a href="http://www.idigest.com.cn/en/index.htm/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/idigest.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a></li>
