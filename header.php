@@ -134,14 +134,6 @@
      <li><a href="http://blog.thegmic.com" target="_blank"><img src="http://beijing.thegmic.com/wp-content/themes/2014/images/blog.png" /></a></li>
      <li style="float:right;"><a href="http://www.gwc.net" target="_blank"><img src="http://beijing.thegmic.com/wp-content/themes/2014/images/gwc-logo-white-small-copy.png" /></a></li>
  </ul>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 
 <?php if(!isset($mytheme_general['disable-picker'])):	mytheme_color_picker();	endif;	?>
 
