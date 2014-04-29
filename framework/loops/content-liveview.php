@@ -116,7 +116,7 @@
             mode: "small"
         });
 
-        panoalbum.setScene("1001-3-TDD-130601");
+        panoalbum.setScene("1001-3-TDD-130601-9");
 
     }
 
