@@ -1041,7 +1041,7 @@ Text Domain: core
 		#bbar-body > img { max-width:80%; }
 		
 	/*---------------------[twitter ticker slider]-------------------*/
-	#twitter-ticker.image_carousel {float:left;z-index: 99999999999;}
+	#twitter-ticker.image_carousel {float:left;z-index: 9999;}
 	#twitter-ticker.image_carousel .tweet {float: left;}
 	
 /*------------------------------------------------*/
