@@ -1011,7 +1011,7 @@ Text Domain: core
 			float: none;
 			clear: both;
 		}
-		img.title-tab {position: fixed; bottom: 66px; z-index: 9999; padding-left: 16px; left: 40px;}
+		img.title-tab {position: fixed; bottom: 66px; z-index: 99999; padding-left: 16px; left: 40px;}
 		
 		/*----*****---- << Layer Slider >> ----*****----*/
 		.ls-bottom-nav-wrapper a, .ls-inner a, .ls-nav-prev, .ls-nav-next { -webkit-transition:none; -moz-transition:none; -o-transition:none; -ms-transition:none; transition:none; }
