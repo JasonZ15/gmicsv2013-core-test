@@ -348,7 +348,7 @@ Text Domain: core
 	.page-id-2100 .container {width: 980px;}
 	
 	/*----*****---- << Header >> ----*****----*/
-	#top-bar { z-index: 9999;position:fixed; left:490px;}
+	#top-bar { z-index: 99999;position:fixed; left:490px;}
 	#top-bar .holder { height: 29px; position: relative;}	#top-bar .holder > a {position: absolute; top: 0;display: block; height: 29px;}
 	a#thegmic {width:34px; left:-72px;}
 	a#gmic-beijing {left: -28px; width:120px;}
@@ -1010,7 +1010,7 @@ Text Domain: core
 			float: none;
 			clear: both;
 		}
-		img.title-tab {position: fixed; bottom: 66px; z-index: 9999; padding-left: 16px; left: 40px;}
+		img.title-tab {position: fixed; bottom: 66px; z-index: 99999; padding-left: 16px; left: 40px;}
 		
 		/*----*****---- << Layer Slider >> ----*****----*/
 		.ls-bottom-nav-wrapper a, .ls-inner a, .ls-nav-prev, .ls-nav-next { -webkit-transition:none; -moz-transition:none; -o-transition:none; -ms-transition:none; transition:none; }
