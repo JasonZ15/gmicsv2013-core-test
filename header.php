@@ -88,13 +88,17 @@
       
     <div class="tweet">
         <div class="user"><a href="http://twitter.com/theGMIC" target="_blank">GMIC: </a></div>
-        <span class="txt">Pony Ma, CEO of the $100 Billion Tencent to Speak at GMIC</span> <a href="http://blog.thegmic.com/2013/12/11/pony-ma-ceo-100-billion-tencent-speak-gmic/" target="_blank">...</a> </div>
+        <span class="txt">Get 25% discount for our partner event Pocket Gamer Connects by <a href="https://twitter.com/pgbiz">@PGbiz</a> in <a href="https://twitter.com/search?q=%23Helsinki&src=hash">#Helsinki</a></span></div>
    
     
     <div class="tweet">
         <div class="user"><a href="http://twitter.com/theGMIC" target="_blank">GMIC: </a></div>
-        <span class="txt">GMIC Beijing 2014 Registration Now Open</span> <a href="http://blog.thegmic.com/2013/12/11/gmic-beijing-2014-registration-open/9456?utm_source=rss&utm_medium=rss&utm_campaign=gmic-beijing-2014-registration-open" target="_blank">...</a></div>
-    
+        <span class="txt">Kingsoft CEO Zhang Hongjiang on cyber security and Cloud ; Zhang Hongjiang will be speaking at <a href="https://twitter.com/search?q=%23GMIC&src=hash">#GMIC</a> <a href="https://twitter.com/search?q=%23Beijing&src=hash">#Beijing</a></span></div>
+   
+    <div class="tweet">
+        <div class="user"><a href="http://twitter.com/theGMIC" target="_blank">GMIC: </a></div>
+        <span class="txt"><a href="https://twitter.com/search?q=%23Tencent&src=hash">#Tencent</a> brings popular game Candy Crush to <a href="https://twitter.com/search?q=%23China&src=hash">#China</a> </span></div>
+   
     </div>
   
 </div>
