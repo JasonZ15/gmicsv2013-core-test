@@ -117,8 +117,6 @@
 	  
 	  
 	  <li style="width: 111px;"><img src="<?php echo get_template_directory_uri(); ?>/images/gold-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;" /></li>
-	  <li style="width: 139px;"><a href="http://www.yicha.cn/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/yicha.png" height="57" 
-	  style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	  <li style="width: 139px;"><a href="http://www.admaster.com.cn/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/admaster.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	  <li style="width: 139px;"><a href="http://www.weiboyi.com/" target="_blank"><img src="http://beijing.thegmic.com/wp-content/uploads/sponsors/weiboyi.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	  <li style="width: 139px;"><a href="https://www.talkingdata.net/" target="_blank"><img src="http://beijing.thegmic.com/cn/wp-content/uploads/sponsors/talkingdata.png" height="57" style="border: 1px solid #eba706; padding: 0;" /></a></li>
