@@ -348,7 +348,7 @@ Text Domain: core
 	.page-id-2100 .container {width: 980px;}
 	
 	/*----*****---- << Header >> ----*****----*/
-	#top-bar { z-index: 9999;position:fixed; left:490px;}
+	#top-bar { z-index: 999999999999;position:fixed; left:490px;}
 	#top-bar .holder { height: 29px; position: relative;}
 	#top-bar .holder > a {position: absolute; top: 0;display: block; height: 29px;}
 	a#thegmic {width:34px; left:-72px;}
@@ -356,7 +356,7 @@ Text Domain: core
 	a#gmic-sv {left: 98px; width:176px;}
 	a.chinese {right:0; width:48px;}
 	
-	#header { position:fixed; top:29px; left:0; right:0; display:block; width:100%; margin:0px; padding:0px; z-index:9999; background:#252525; border-bottom:1px solid #171717; -moz-box-shadow:0px 2px 5px #000000; -webkit-box-shadow:0px 2px 5px #000000; box-shadow:0px 2px 5px #000000; }
+	#header { position:fixed; top:29px; left:0; right:0; display:block; width:100%; margin:0px; padding:0px; z-index:99999999; background:#252525; border-bottom:1px solid #171717; -moz-box-shadow:0px 2px 5px #000000; -webkit-box-shadow:0px 2px 5px #000000; box-shadow:0px 2px 5px #000000; }
 	#logo { float:left; margin:0px 0px 0px; padding:0px; width: 187px;}
 	#logo img { /*max-height:40px;*/ }
 	
@@ -1011,7 +1011,7 @@ Text Domain: core
 			float: none;
 			clear: both;
 		}
-		img.title-tab {position: fixed; bottom: 66px; z-index: 99999; padding-left: 16px; left: 40px;}
+		img.title-tab {position: fixed; bottom: 66px; z-index: 99999999999999999; padding-left: 16px; left: 40px;}
 		
 		/*----*****---- << Layer Slider >> ----*****----*/
 		.ls-bottom-nav-wrapper a, .ls-inner a, .ls-nav-prev, .ls-nav-next { -webkit-transition:none; -moz-transition:none; -o-transition:none; -ms-transition:none; transition:none; }
@@ -1042,7 +1042,7 @@ Text Domain: core
 		#bbar-body > img { max-width:80%; }
 		
 	/*---------------------[twitter ticker slider]-------------------*/
-	#twitter-ticker.image_carousel {float:left;z-index: 9999;}
+	#twitter-ticker.image_carousel {float:left;z-index: 99999999999;}
 	#twitter-ticker.image_carousel .tweet {float: left;}
 	
 /*------------------------------------------------*/
