@@ -101,7 +101,7 @@
 </div>
 		</div>
 </div><?php if(isset($mytheme_general['show-sociables']) && !empty($mytheme_options['social'])): ?>
-                        <ul class="social-icons" style="margin-bottom: 0px; position: fixed;right: 64px;z-index: 999999;">
+                        <ul class="social-icons" style="margin-bottom: 0px; position: fixed;right: 64px;z-index: 99999999999;">
                          <?php foreach($mytheme_options['social'] as $social):
                                   $link = $social['link'];
                                   $custom_image = isset($social['custom-image']) && !empty($social['custom-image']) ? "<img src='{$custom_image}' />": '';
