@@ -89,13 +89,7 @@
       
     <div class="tweet">
         <div class="user"><a href="http://www.weibo.com/gmic" target="_blank">GMIC: </a></div>
-        <span class="txt">G20峰会旨在汇聚中外知名企业领袖, 共同探讨一年一度全球移动互联网热点话题</span><a href="http://www.weibo.com/1656614907/AdXhH8mov?mod=weibotime" target="_blank">...</a> </div>
-   
-    
-    <div class="tweet">
-        <div class="user"><a href="http://www.weibo.com/gmic" target="_blank">GMIC: </a></div>
-        <span class="txt">透过GMIC2013看趋势 230位演讲嘉宾观点大整合！</span><a href="http://www.weibo.com/1656614907/A9SBJ4boQ?mod=weibotime" target="_blank">...</a></div>
-    
+        <span class="txt">G20峰会旨在汇聚中外知名企业领袖, 共同探讨一年一度全球移动互联网热点话题</span><a href="http://www.weibo.com/1656614907/AdXhH8mov?mod=weibotime" target="_blank">...</a> </div> 
     </div>
   
 </div>

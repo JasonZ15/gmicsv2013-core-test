@@ -1,6 +1,6 @@
 <?php get_header();?>
 <?php global $mytheme_shadow;
-	  $mytheme_menu = array( "8120" => "home", "3922" => "speakers", "8053" => "testimonial-1", "8097" => "program", "8086" => "events", "8048" => "testimonial-3", "8055" => "competitions", "8051" => "testimonial-2", "251" => "media", "8074" => "tickets");
+	  $mytheme_menu = array( "8120" => "home", "8097" => "program", "8048" => "testimonial-3", "3922" => "speakers", "1152" => "exhibition","8053" => "testimonial-1", "8086" => "events", "8051" => "testimonial-2", "251" => "media", "8131" => "sponsor", "8074" => "tickets");
 	  if(!empty($mytheme_menu)):
 	  foreach( $mytheme_menu as $key => $value ): ?>
           <?php echo "<!-- ** $value Content** -->";
